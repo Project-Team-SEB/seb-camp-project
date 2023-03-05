@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Moja mapa</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet/1.0.0-beta.2/leaflet.css" />
+    <script src="https://cdn.jsdelivr.net/leaflet/1.0.0-beta.2/leaflet.js"></script>
+</head>
+<body>
+    <div>
+        <label for="latitude">Latitude:</label>
+        <input type="text" id="latitude" name="latitude" placeholder="np 52.340375">
+        <label for="longitude">Longitude:</label>
+        <input type="text" id="longitude" name="longitude" placeholder="np 19.265613">
+        <button onclick="search()">Szukaj</button>
+    </div>
+    <div id="map" style="height: 500px"></div>
+    <script>
+        var map = L.map('map').setView([52.340375, 19.265613], 6);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19
+        }).addTo(map);
+
+        function search() {
+            var lat = document.getElementById("latitude").value;
+            var lon = document.getElementById("longitude").value;
+            map.setView([lat, lon], 13);
+            L.marker([lat, lon]).addTo(map);
+        }
+    </script>
+</body>
+</html>
