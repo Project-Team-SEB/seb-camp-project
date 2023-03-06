@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Moja mapa</title>
+    <link rel="stylesheet" href="mapa.css" />
+    <script src="leaflet.js"></script>
+</head>
+<body>
+    <div>
+        <label for="city">Miejscowość:</label>
+        <input type="text" id="city" name="city" placeholder="np. Warszawa">
+        <button onclick="zoomToCity()">Znajdź Miejscowość</button>
+    </div>
+    <div id="map" style="height: 800px " ></div>
+    <script>
+        var map = L.map('map').setView([52.340375, 19.265613], 6);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19
+        }).addTo(map);
+
+        function zoomToCity() {
+            var cityName = document.getElementById("city").value;
+            var url = 'https://nominatim.openstreetmap.org/search?q=' + cityName + '&format=json&polygon=0&addressdetails=0';
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.length > 0) {
+                        var lat = data[0].lat;
+                        var lon = data[0].lon;
+                        map.setView([lat, lon], 13);
+                    } else {
+                        alert("Nie znaleziono miasta");
+                    }
+                })
+                .catch(error => {
+                    alert("Wystąpił błąd");
+                    console.error(error);
+                });
+        }
+
+        function addMarkersToMap() {
+            fetch('http://192.168.100.16:8012/dane1.csv')
+                .then(response => response.text())
+                .then(data => {
+                    var rows = data.split('\n');
+                    for (var i = 1; i < rows.length; i++) {
+                        var row = rows[i].split(',');
+                        var lat = row[0];
+                        var lon = row[1];
+                        L.marker([lat, lon]).addTo(map);
+                    }
+                })
+                .catch(error => {
+                    alert("Wystąpił błąd");
+                    console.error(error);
+                });
+        }
+
+        addMarkersToMap();
+    </script>
+</body>
+</html>
