@@ -1,0 +1,23 @@
+
+Status projektu SEB - 05.03
+
+1.Omówienie wstępnej koncepcji projektu
+2.Budowa wstępnego szkieletu strony
+ https://sites.google.com/d/1HHRLDdJ46gTIqkR5O3M53Fk0OQ715ehV/p/15fid0yb01_Q93063GKr0CWaX4b13XDaB/edit
+3.Zbiór potrzebnych materiałów
+- grafiki https://drive.google.com/drive/folders/1BSkbxqgXiJ7kiPpizCA8K7K_Ue8UXAhy?usp=sharing
+- logo
+- baza danych
+4.Dane zebrane do pliku csv
+5.Dane trzeba wyczyścić
+6.Budowa contentu do strony Content website
+
+
+Status projektu SEB - 06.03
+
+1.Stworzenie sekcji mapy javascript - Bartosz
+2. Wstępny zarys aplikacji webowej html/css - Emilia
+3. Utworzenie projektu w Google Cloud Platform  - Szymon
+-aplikacja przetestowana lokalnie za pomocą biblioteki flask
+-obsługa Google Cloud CLI
+-testowy deploy aplikacji do chmury 
