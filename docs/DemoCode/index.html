@@ -1,20 +1,89 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Moja mapa</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet/1.0.0-beta.2/leaflet.css" />
     <script src="https://cdn.jsdelivr.net/leaflet/1.0.0-beta.2/leaflet.js"></script>
-</head>
-<body>
+
+    <!-- Web page CSS -->
+    <link rel="stylesheet" href="css/styles.css" />
+
+    <!-- Simple lightbox CSS -->
+    <link rel="stylesheet" href="assets/css/simple-lightbox.min.css" />
+
+    <!-- Favicons -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/icons/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/icons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/icons/favicon-16x16.png"
+    />
+
+    <title>SEB</title>
+  </head>
+  <body>
+    <!-- Navbar -->
+
+    <nav>
+      <a href="#" class="logo">
+        <h1>
+          <span class="tent-logo">SEBProject</span>
+          <span class="tent">&#x26fa;</span>
+        </h1>
+      </a>
+      <ul>
+        <li class="nav-item">
+          <a href="#about" class="nav-link" id="nav-link">O stronie</a>
+        </li>
+        <li class="nav-item">
+          <a href="#stars" class="nav-link" id="nav-link">Wyróżnione</a>
+        </li>
+        <li class="nav-item">
+          <a href="#item3" class="nav-link" id="nav-link"
+            >xyz</a>
+        </li>
+        
+</ul>
+</nav>
+    <!-- Dark/light theme switcher -->
+
+    <!-- Bars -->
+
+<div class="hamburger" id="hamburger">
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+</div>
+
+    <!-- Hero section -->
+
+    <section class="search">
+        <div class="search-form">
+
+        </div>
+      </section>
+
+    <!-- About section -->
     <div>
-        <label for="latitude">Latitude:</label>
-        <input type="text" id="latitude" name="latitude" placeholder="np 52.340375">
-        <label for="longitude">Longitude:</label>
-        <input type="text" id="longitude" name="longitude" placeholder="np 19.265613">
-        <button onclick="search()">Szukaj</button>
+        <label for="city">Miejscowość:</label>
+        <input type="text" id="city" name="city" placeholder="np. Warszawa">
+        <button onclick="zoomToCity()">Znajdź Miejscowość</button>
     </div>
-    <div id="map" style="height: 500px"></div>
+    <div id="map" style="height: 800px " ></div>
     <script>
         var map = L.map('map').setView([52.340375, 19.265613], 6);
 
@@ -22,12 +91,70 @@
             maxZoom: 19
         }).addTo(map);
 
-        function search() {
-            var lat = document.getElementById("latitude").value;
-            var lon = document.getElementById("longitude").value;
-            map.setView([lat, lon], 13);
-            L.marker([lat, lon]).addTo(map);
+        function zoomToCity() {
+            var cityName = document.getElementById("city").value;
+            var url = 'https://nominatim.openstreetmap.org/search?q=' + cityName + '&format=json&polygon=0&addressdetails=0';
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.length > 0) {
+                        var lat = data[0].lat;
+                        var lon = data[0].lon;
+                        map.setView([lat, lon], 13);
+                    } else {
+                        alert("Nie znaleziono miasta");
+                    }
+                })
+                .catch(error => {
+                    alert("Wystąpił błąd");
+                    console.error(error);
+                });
         }
+
+        function addMarkersToMap() {
+            fetch('C:\Users\emarchwiany\Documents\EM\projekt SEB')
+                .then(response => response.text())
+                .then(data => {
+                    var rows = data.split('\n');
+                    for (var i = 1; i < rows.length; i++) {
+                        var row = rows[i].split(',');
+                        var lat = row[0];
+                        var lon = row[1];
+                        L.marker([lat, lon]).addTo(map);
+                    }
+                })
+                .catch(error => {
+                    alert("Wystąpił błąd");
+                    console.error(error);
+                });
+        }
+
+        addMarkersToMap();
     </script>
-</body>
+
+    <!-- Lightbox image gallery -->
+
+    <!-- Jab TV Stakeholders -->
+
+    <!-- Email subscription -->
+
+    <!-- Social icons -->
+
+    <!-- Scroll to top button -->
+
+    <!-- Web page script -->
+    <script src="assets/js/app.js"></script>
+
+    <!-- Ion icons CDN -->
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+
+    <!-- Simple lightbox -->
+    <script src="assets/js/simple-lightbox.min.js"></script>
+    <script>
+      // Simple lightbox initializer
+    </script>
+  </body>
 </html>
