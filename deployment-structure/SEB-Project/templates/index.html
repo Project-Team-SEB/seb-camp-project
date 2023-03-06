@@ -1,35 +1,125 @@
-<!doctype html>
-<!--
- Copyright 2021 Google LLC
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Moja mapa</title>
+    <link rel="stylesheet" href="../static/map/mapa.css" />
+    <script src="../static/map/leaflet.js"></script></script>
 
- Licensed under the Apache License, Version 2.0 (the "License");
- you may not use this file except in compliance with the License.
- You may obtain a copy of the License at
+    <!-- Web page CSS -->
+    <link rel="stylesheet" href="../static/styles.css" />
 
-      http://www.apache.org/licenses/LICENSE-2.0
+    <!-- Simple lightbox CSS -->
+    <link rel="stylesheet" href="assets/css/simple-lightbox.min.css" />
 
- Unless required by applicable law or agreed to in writing, software
- distributed under the License is distributed on an "AS IS" BASIS,
- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- See the License for the specific language governing permissions and
- limitations under the License.
--->
+    <!-- Favicons -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/icons/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/icons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/icons/favicon-16x16.png"
+    />
 
-<html>
-<head>
-  <title>Datastore and Firebase Auth Example</title>
-  <script src="{{ url_for('static', filename='script.js') }}"></script>
-  <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-</head>
-<body>
+    <title>SEB</title>
+  </head>
+  <body>
+    <!-- Navbar -->
 
-  <h1>Datastore and Firebase Auth Example</h1>
+    <nav>
+      <a href="#" class="logo">
+        <h1>
+          <span class="tent-logo">SEBProject</span>
+          <span class="tent">&#x26fa;</span>
+        </h1>
+      </a>
+      <ul>
+        <li class="nav-item">
+          <a href="#about" class="nav-link" id="nav-link">O stronie</a>
+        </li>
+        <li class="nav-item">
+          <a href="#stars" class="nav-link" id="nav-link">Wyróżnione</a>
+        </li>
+        <li class="nav-item">
+          <a href="#item3" class="nav-link" id="nav-link"
+            >xyz</a>
+        </li>
+        
+</ul>
+</nav>
+    <!-- Dark/light theme switcher -->
 
-  <h2>Last 10 visits</h2>
-  {% for time in times %}
-    <p>{{ time }}</p>
-  {% endfor %}
+    <!-- Bars -->
 
+<div class="hamburger" id="hamburger">
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+</div>
+<div>
+  <label for="city">Miejscowość:</label>
+  <input type="text" id="city" name="city" placeholder="np. Warszawa">
+  <button onclick="zoomToCity()">Znajdź Miejscowość</button>
+</div>
+<div id="map" style="height: 800px " ></div>
+<script>
+  var map = L.map('map').setView([52.340375, 19.265613], 6);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19
+  }).addTo(map);
+
+  function zoomToCity() {
+      var cityName = document.getElementById("city").value;
+      var url = 'https://nominatim.openstreetmap.org/search?q=' + cityName + '&format=json&polygon=0&addressdetails=0';
+      fetch(url)
+          .then(response => response.json())
+          .then(data => {
+              if (data.length > 0) {
+                  var lat = data[0].lat;
+                  var lon = data[0].lon;
+                  map.setView([lat, lon], 13);
+              } else {
+                  alert("Nie znaleziono miasta");
+              }
+          })
+          .catch(error => {
+              alert("Wystąpił błąd");
+              console.error(error);
+          });
+  }
+
+  function addMarkersToMap() {
+      fetch('../static/map/dane1.csv')
+          .then(response => response.text())
+          .then(data => {
+              var rows = data.split('\n');
+              for (var i = 1; i < rows.length; i++) {
+                  var row = rows[i].split(',');
+                  var lat = row[0];
+                  var lon = row[1];
+                  L.marker([lat, lon]).addTo(map);
+              }
+          })
+          .catch(error => {
+              alert("Wystąpił błąd");
+              console.error(error);
+          });
+  }
+
+  addMarkersToMap();
+</script>
 </body>
 </html>
-
