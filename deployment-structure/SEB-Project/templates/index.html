@@ -56,9 +56,10 @@
           <a href="#item3" class="nav-link" id="nav-link"
             >xyz</a>
         </li>
-        
-</ul>
-</nav>
+      </ul>
+      <!-- <div>SEB znajdzie Ci namiot
+      </div> -->
+    </nav>
     <!-- Dark/light theme switcher -->
 
     <!-- Bars -->
@@ -68,12 +69,20 @@
     <span class="bar"></span>
     <span class="bar"></span>
 </div>
-<div>
+<div style="height: 50px; text-align: center; padding-top: 10px; color: white;">
   <label for="city">Miejscowość:</label>
-  <input type="text" id="city" name="city" placeholder="np. Warszawa">
+  <input type="text" id="city" name="city" placeholder="np. Warszawa" style="margin-right: 50px">
   <button onclick="zoomToCity()">Znajdź Miejscowość</button>
 </div>
-<div id="map" style="height: 800px " ></div>
+<div id="map" style="margin-left: 15%;
+margin-right: 15%;
+border-radius: 30px;
+border-color: grey;
+border-style: dashed;
+border-width: 7px;
+position: relative;
+aspect-ratio: 4/3;
+outline: none;" ></div>
 <script>
   var map = L.map('map').setView([52.340375, 19.265613], 6);
 

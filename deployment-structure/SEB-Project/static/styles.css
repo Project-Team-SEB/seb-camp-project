@@ -26,6 +26,8 @@ html {
 
  body {
   font-family: "Montserrat", sans-serf;
+  background-image: url("../static/images/head_background.jpg");
+  background-size: 100%;
 }
 
 ul li {
@@ -34,7 +36,7 @@ ul li {
 
 a {
   text-decoration: none;
-  color: var(--primary-color);
+  color: white;
 }
 
 a:hover {
@@ -47,10 +49,11 @@ a:hover {
   
   .tent-logo {
     color: var(--primary-color);
+    color: white;
   }
   
   nav {
-    background-image: url("../static/images/head_background.png");
+    height: 100px;
     position: sticky;
     top: 0;
     left: 0;
@@ -72,6 +75,7 @@ a:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color: white;
   }
   
   .nav-item {
