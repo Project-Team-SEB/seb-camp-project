@@ -1,0 +1,5552 @@
+[
+ {
+   "Name": "Ängby",
+   "Object type": "camp_site",
+   "Latitude": 53.336944,
+   "Longitude": 17.9025
+ },
+ {
+   "Name": "Ambre",
+   "Object type": "caravan_site",
+   "Latitude": 54.7659527,
+   "Longitude": 17.5710868
+ },
+ {
+   "Name": "Bąkow",
+   "Object type": "camp_site",
+   "Latitude": 50.9646912,
+   "Longitude": 18.2789968
+ },
+ {
+   "Name": "Baltic 78",
+   "Object type": "caravan_site",
+   "Latitude": 54.1813643,
+   "Longitude": 15.5944818
+ },
+ {
+   "Name": "Burczykas",
+   "Object type": "camp_site",
+   "Latitude": 54.313889,
+   "Longitude": 18.266111
+ },
+ {
+   "Name": "Camp-Cup",
+   "Object type": "camp_site",
+   "Latitude": 49.5788456,
+   "Longitude": 19.626007
+ },
+ {
+   "Name": "Cest La Vie",
+   "Object type": "camp_site",
+   "Latitude": 49.7191683,
+   "Longitude": 19.2105536
+ },
+ {
+   "Name": "Christian",
+   "Object type": "camp_site",
+   "Latitude": 53.868056,
+   "Longitude": 21.503611
+ },
+ {
+   "Name": "de Kroon",
+   "Object type": "camp_site",
+   "Latitude": 52.3504247,
+   "Longitude": 15.3393145
+ },
+ {
+   "Name": "Echo",
+   "Object type": "camp_site",
+   "Latitude": 53.9675,
+   "Longitude": 21.776667
+ },
+ {
+   "Name": "Galindia",
+   "Object type": "camp_site",
+   "Latitude": 53.7341961,
+   "Longitude": 21.5620513
+ },
+ {
+   "Name": "Graf-Marina",
+   "Object type": "camp_site",
+   "Latitude": 51.1925368,
+   "Longitude": 22.5287471
+ },
+ {
+   "Name": "Harenda",
+   "Object type": "camp_site",
+   "Latitude": 49.324167,
+   "Longitude": 19.985
+ },
+ {
+   "Name": "Kama",
+   "Object type": "camp_site",
+   "Latitude": 53.844444,
+   "Longitude": 21.56
+ },
+ {
+   "Name": "Kaper",
+   "Object type": "camp_site",
+   "Latitude": 54.7775282,
+   "Longitude": 18.4562213
+ },
+ {
+   "Name": "Krakowianka",
+   "Object type": "camp_site",
+   "Latitude": 50.0155172,
+   "Longitude": 19.9245287
+ },
+ {
+   "Name": "Kruska",
+   "Object type": "camp_site",
+   "Latitude": 53.703333,
+   "Longitude": 21.547222
+ },
+ {
+   "Name": "Legnickie Pole",
+   "Object type": "camp_site",
+   "Latitude": 51.1422246,
+   "Longitude": 16.239993
+ },
+ {
+   "Name": "Lido",
+   "Object type": "camp_site",
+   "Latitude": 51.5123435,
+   "Longitude": 17.8482062
+ },
+ {
+   "Name": "Lorsby",
+   "Object type": "camp_site",
+   "Latitude": 53.84,
+   "Longitude": 21.2075
+ },
+ {
+   "Name": "Malbork",
+   "Object type": "camp_site",
+   "Latitude": 54.0473635,
+   "Longitude": 19.039976
+ },
+ {
+   "Name": "Camping Morski",
+   "Object type": "camp_site",
+   "Latitude": 54.5764071,
+   "Longitude": 16.8807074
+ },
+ {
+   "Name": "Camping Morski II",
+   "Object type": "camp_site",
+   "Latitude": 54.761944,
+   "Longitude": 17.538889
+ },
+ {
+   "Name": "Nr 159",
+   "Object type": "camp_site",
+   "Latitude": 54.3418334,
+   "Longitude": 19.1179102
+ },
+ {
+   "Name": "Camping nr 247",
+   "Object type": "camp_site",
+   "Latitude": 53.903611,
+   "Longitude": 20.0275
+ },
+ {
+   "Name": "Nr 30",
+   "Object type": "camp_site",
+   "Latitude": 52.446944,
+   "Longitude": 16.788056
+ },
+ {
+   "Name": "Park Sonata",
+   "Object type": "caravan_site",
+   "Latitude": 54.1469792,
+   "Longitude": 21.7477806
+ },
+ {
+   "Name": "Piecki",
+   "Object type": "camp_site",
+   "Latitude": 53.7801445,
+   "Longitude": 21.3363804
+ },
+ {
+   "Name": "Pod Bukami",
+   "Object type": "camp_site",
+   "Latitude": 50.9044789,
+   "Longitude": 16.008726
+ },
+ {
+   "Name": "Pod Dębami",
+   "Object type": "camp_site",
+   "Latitude": 52.0535231,
+   "Longitude": 23.5626252
+ },
+ {
+   "Name": "Pomerania",
+   "Object type": "camp_site",
+   "Latitude": 52.4975,
+   "Longitude": 18.138056
+ },
+ {
+   "Name": "Park 45",
+   "Object type": "camp_site",
+   "Latitude": 54.4305289,
+   "Longitude": 18.5873047
+ },
+ {
+   "Name": "Przymorze nr 48",
+   "Object type": "caravan_site",
+   "Latitude": 54.7659554,
+   "Longitude": 17.5730121
+ },
+ {
+   "Name": "Tamowa",
+   "Object type": "camp_site",
+   "Latitude": 54.3203907,
+   "Longitude": 18.1182156
+ },
+ {
+   "Name": "Folwark Łękuk - camping",
+   "Object type": "camp_site",
+   "Latitude": 54.0542619,
+   "Longitude": 22.1395765
+ },
+ {
+   "Name": "U Maślaka",
+   "Object type": "camp_site",
+   "Latitude": 52.4647498,
+   "Longitude": 15.5036313
+ },
+ {
+   "Name": "Głębokie",
+   "Object type": "camp_site",
+   "Latitude": 52.490879,
+   "Longitude": 15.5438961
+ },
+ {
+   "Name": "Bledzew",
+   "Object type": "camp_site",
+   "Latitude": 52.5132208,
+   "Longitude": 15.4429258
+ },
+ {
+   "Name": "Leśn. Lisia Góra",
+   "Object type": "camp_site",
+   "Latitude": 52.5734921,
+   "Longitude": 15.4319651
+ },
+ {
+   "Name": "Ukiel",
+   "Object type": "camp_site",
+   "Latitude": 53.7870951,
+   "Longitude": 20.3993263
+ },
+ {
+   "Name": "Marina PTTK",
+   "Object type": "camp_site",
+   "Latitude": 53.3957067,
+   "Longitude": 14.6367954
+ },
+ {
+   "Name": "Na Szlaku Brdy",
+   "Object type": "camp_site",
+   "Latitude": 53.2041004,
+   "Longitude": 17.9508356
+ },
+ {
+   "Name": "Hufiec ZHP",
+   "Object type": "camp_site",
+   "Latitude": 53.3733131,
+   "Longitude": 14.6344443
+ },
+ {
+   "Name": "Nad jeziorem Czaple. Kąpielowe",
+   "Object type": "camp_site",
+   "Latitude": 54.1372327,
+   "Longitude": 16.3540881
+ },
+ {
+   "Name": "Nad jeziorem Czaple. Kąpielowe",
+   "Object type": "camp_site",
+   "Latitude": 54.1372201,
+   "Longitude": 16.3524707
+ },
+ {
+   "Name": "Kristýna",
+   "Object type": "camp_site",
+   "Latitude": 50.8644801,
+   "Longitude": 14.8276841
+ },
+ {
+   "Name": "Pod Amerykanem",
+   "Object type": "camp_site",
+   "Latitude": 50.7009071,
+   "Longitude": 19.4289945
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 50.5769263,
+   "Longitude": 19.4785773
+ },
+ {
+   "Name": "Tipisiedlum",
+   "Object type": "camp_site",
+   "Latitude": 51.2919898,
+   "Longitude": 15.0219526
+ },
+ {
+   "Name": "Wito",
+   "Object type": "camp_site",
+   "Latitude": 54.2070609,
+   "Longitude": 15.7302172
+ },
+ {
+   "Name": "Biwak Osieczno",
+   "Object type": "camp_site",
+   "Latitude": 53.0066625,
+   "Longitude": 15.9541998
+ },
+ {
+   "Name": "Świderek",
+   "Object type": "camp_site",
+   "Latitude": 52.8958997,
+   "Longitude": 16.0150966
+ },
+ {
+   "Name": "Morski",
+   "Object type": "camp_site",
+   "Latitude": 54.2525488,
+   "Longitude": 16.0214641
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 50.0809163,
+   "Longitude": 22.2456244
+ },
+ {
+   "Name": "Camping Leśny",
+   "Object type": "camp_site",
+   "Latitude": 51.81315,
+   "Longitude": 18.71425
+ },
+ {
+   "Name": "O.W. Diabla Góra",
+   "Object type": "camp_site",
+   "Latitude": 49.61489,
+   "Longitude": 22.27559
+ },
+ {
+   "Name": "Camping",
+   "Object type": "camp_site",
+   "Latitude": 53.43744,
+   "Longitude": 18.41639
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 50.3309829,
+   "Longitude": 23.3605015
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 51.45062,
+   "Longitude": 19.97087
+ },
+ {
+   "Name": "Złatna Huta",
+   "Object type": "camp_site",
+   "Latitude": 49.5130286,
+   "Longitude": 19.2211732
+ },
+ {
+   "Name": "Habenda",
+   "Object type": "camp_site",
+   "Latitude": 54.7616296,
+   "Longitude": 17.6549341
+ },
+ {
+   "Name": "Marco Polo",
+   "Object type": "camp_site",
+   "Latitude": 54.7554459,
+   "Longitude": 17.5513922
+ },
+ {
+   "Name": "Rafael",
+   "Object type": "camp_site",
+   "Latitude": 54.7573554,
+   "Longitude": 17.5466831
+ },
+ {
+   "Name": "Camping nr 21 Morski",
+   "Object type": "camp_site",
+   "Latitude": 54.7611057,
+   "Longitude": 17.5405252
+ },
+ {
+   "Name": "Leśny",
+   "Object type": "camp_site",
+   "Latitude": 54.7619423,
+   "Longitude": 17.5654415
+ },
+ {
+   "Name": "Pole Namiotowe \"Nad Mokrym\"",
+   "Object type": "camp_site",
+   "Latitude": 53.6906459,
+   "Longitude": 21.3986548
+ },
+ {
+   "Name": "Hotel i restauracja Birkiem",
+   "Object type": "camp_site",
+   "Latitude": 52.0584081,
+   "Longitude": 14.7729727
+ },
+ {
+   "Name": "Camping Stogi",
+   "Object type": "camp_site",
+   "Latitude": 54.3694793,
+   "Longitude": 18.7299401
+ },
+ {
+   "Name": "Victorio Camp",
+   "Object type": "camp_site",
+   "Latitude": 52.4617429,
+   "Longitude": 14.8696509
+ },
+ {
+   "Name": "Pole Biwakowe \"Pod Sosnami\"",
+   "Object type": "camp_site",
+   "Latitude": 53.7973384,
+   "Longitude": 21.8744088
+ },
+ {
+   "Name": "Baza Kula",
+   "Object type": "camp_site",
+   "Latitude": 53.94528,
+   "Longitude": 21.7468366
+ },
+ {
+   "Name": "pole biwakowe",
+   "Object type": "camp_site",
+   "Latitude": 53.9704601,
+   "Longitude": 21.7645206
+ },
+ {
+   "Name": "Bionika Przystań",
+   "Object type": "camp_site",
+   "Latitude": 54.4228883,
+   "Longitude": 16.4019401
+ },
+ {
+   "Name": "Oaza",
+   "Object type": "camp_site",
+   "Latitude": 52.0428731,
+   "Longitude": 14.7768823
+ },
+ {
+   "Name": "Topaz",
+   "Object type": "camp_site",
+   "Latitude": 54.8110818,
+   "Longitude": 17.8373202
+ },
+ {
+   "Name": "Island Camp",
+   "Object type": "camp_site",
+   "Latitude": 53.5891291,
+   "Longitude": 16.0221525
+ },
+ {
+   "Name": "Sosenki",
+   "Object type": "caravan_site",
+   "Latitude": 49.5657703,
+   "Longitude": 22.2119532
+ },
+ {
+   "Name": "Europa",
+   "Object type": "caravan_site",
+   "Latitude": 49.9487053,
+   "Longitude": 18.3526396
+ },
+ {
+   "Name": "Camping \"Bałtyk\"",
+   "Object type": "camp_site",
+   "Latitude": 54.8309181,
+   "Longitude": 18.3279953
+ },
+ {
+   "Name": "Camping Frombork",
+   "Object type": "camp_site",
+   "Latitude": 54.3590063,
+   "Longitude": 19.6955714
+ },
+ {
+   "Name": "Kran",
+   "Object type": "camp_site",
+   "Latitude": 49.7514726,
+   "Longitude": 19.2107712
+ },
+ {
+   "Name": "u Wacka",
+   "Object type": "camp_site",
+   "Latitude": 54.8277383,
+   "Longitude": 18.0933444
+ },
+ {
+   "Name": "Słoneczne",
+   "Object type": "camp_site",
+   "Latitude": 54.8290689,
+   "Longitude": 18.0868883
+ },
+ {
+   "Name": "Camping Numer 180",
+   "Object type": "camp_site",
+   "Latitude": 54.3456866,
+   "Longitude": 19.1131407
+ },
+ {
+   "Name": "Pole namiotowe Ośrodka „Szansa”",
+   "Object type": "camp_site",
+   "Latitude": 52.4010341,
+   "Longitude": 17.9457379
+ },
+ {
+   "Name": "Nad Stawem",
+   "Object type": "camp_site",
+   "Latitude": 54.0452285,
+   "Longitude": 19.0262738
+ },
+ {
+   "Name": "Ośrodek Wczasowy Irena",
+   "Object type": "camp_site",
+   "Latitude": 52.2171136,
+   "Longitude": 15.3957839
+ },
+ {
+   "Name": "Pod Skałką",
+   "Object type": "camp_site",
+   "Latitude": 50.5767951,
+   "Longitude": 19.4821339
+ },
+ {
+   "Name": "Camping Rodzinny",
+   "Object type": "camp_site",
+   "Latitude": 54.2630173,
+   "Longitude": 16.0726055
+ },
+ {
+   "Name": "Binduga Młyńska",
+   "Object type": "camp_site",
+   "Latitude": 53.6899478,
+   "Longitude": 21.7465674
+ },
+ {
+   "Name": "Binduga Młyńska-Port",
+   "Object type": "camp_site",
+   "Latitude": 53.6934665,
+   "Longitude": 21.7378309
+ },
+ {
+   "Name": "Czapla",
+   "Object type": "camp_site",
+   "Latitude": 54.076009,
+   "Longitude": 16.3942829
+ },
+ {
+   "Name": "Raj Ośrodek Wypoczynkowy",
+   "Object type": "camp_site",
+   "Latitude": 54.0727523,
+   "Longitude": 16.3911097
+ },
+ {
+   "Name": "CAMP-ANA",
+   "Object type": "camp_site",
+   "Latitude": 54.0719704,
+   "Longitude": 14.9869036
+ },
+ {
+   "Name": "Holidays",
+   "Object type": "caravan_site",
+   "Latitude": 54.6219581,
+   "Longitude": 16.9863593
+ },
+ {
+   "Name": "Mistral",
+   "Object type": "camp_site",
+   "Latitude": 54.6231039,
+   "Longitude": 16.9848783
+ },
+ {
+   "Name": "Pole Namiotowe Capówka",
+   "Object type": "camp_site",
+   "Latitude": 54.7968698,
+   "Longitude": 17.8389565
+ },
+ {
+   "Name": "U Michała",
+   "Object type": "camp_site",
+   "Latitude": 52.6925101,
+   "Longitude": 23.8309474
+ },
+ {
+   "Name": "Camping Kralovec",
+   "Object type": "camp_site",
+   "Latitude": 50.6768262,
+   "Longitude": 15.9688458
+ },
+ {
+   "Name": "Pastewnik",
+   "Object type": "camp_site",
+   "Latitude": 50.0611035,
+   "Longitude": 22.4835966
+ },
+ {
+   "Name": "Pole biwakowe \"Laguna\"",
+   "Object type": "camp_site",
+   "Latitude": 50.2805961,
+   "Longitude": 22.5151672
+ },
+ {
+   "Name": "Borowo",
+   "Object type": "camp_site",
+   "Latitude": 54.543395,
+   "Longitude": 18.2642496
+ },
+ {
+   "Name": "Caravaning Jurata",
+   "Object type": "camp_site",
+   "Latitude": 54.6780873,
+   "Longitude": 18.7239761
+ },
+ {
+   "Name": "ZHP Trzebinia",
+   "Object type": "camp_site",
+   "Latitude": 54.5047037,
+   "Longitude": 16.4661698
+ },
+ {
+   "Name": "Stellplatz Heideweg",
+   "Object type": "caravan_site",
+   "Latitude": 51.5337014,
+   "Longitude": 14.7194937
+ },
+ {
+   "Name": "Baza Biwakowa Popławy",
+   "Object type": "camp_site",
+   "Latitude": 52.709146,
+   "Longitude": 21.1179994
+ },
+ {
+   "Name": "Kozienickie Centrum Rekreacji i Sportu",
+   "Object type": "camp_site",
+   "Latitude": 51.5958308,
+   "Longitude": 21.5398059
+ },
+ {
+   "Name": "Pod Sosnami",
+   "Object type": "camp_site",
+   "Latitude": 53.5752047,
+   "Longitude": 20.6047757
+ },
+ {
+   "Name": "44-100 Camping Gliwice Czechowice.",
+   "Object type": "camp_site",
+   "Latitude": 50.36016,
+   "Longitude": 18.6509258
+ },
+ {
+   "Name": "U Rzepki",
+   "Object type": "caravan_site",
+   "Latitude": 50.5447236,
+   "Longitude": 18.9817285
+ },
+ {
+   "Name": "Rozbark",
+   "Object type": "caravan_site",
+   "Latitude": 50.5468717,
+   "Longitude": 18.968812
+ },
+ {
+   "Name": "wypożyczalnia kajaków Lipińskie Małe 4",
+   "Object type": "camp_site",
+   "Latitude": 53.7361972,
+   "Longitude": 22.4040795
+ },
+ {
+   "Name": "Za lasem",
+   "Object type": "camp_site",
+   "Latitude": 52.7559471,
+   "Longitude": 15.7262661
+ },
+ {
+   "Name": "Jałowce",
+   "Object type": "camp_site",
+   "Latitude": 50.101704,
+   "Longitude": 21.4490407
+ },
+ {
+   "Name": "Pole namiotowe Piaseczno",
+   "Object type": "caravan_site",
+   "Latitude": 53.258907,
+   "Longitude": 19.7416635
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Abarex",
+   "Object type": "caravan_site",
+   "Latitude": 52.3830391,
+   "Longitude": 15.8817559
+ },
+ {
+   "Name": "Pole namiotowe BPN",
+   "Object type": "camp_site",
+   "Latitude": 53.5501856,
+   "Longitude": 22.9019114
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.2000961,
+   "Longitude": 19.6458031
+ },
+ {
+   "Name": "Łęg-pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 49.4586645,
+   "Longitude": 20.2131407
+ },
+ {
+   "Name": "bernardynkaport",
+   "Object type": "caravan_site",
+   "Latitude": 52.323823,
+   "Longitude": 18.3093653
+ },
+ {
+   "Name": "bernardynkaport",
+   "Object type": "camp_site",
+   "Latitude": 52.3238681,
+   "Longitude": 18.3084059
+ },
+ {
+   "Name": "Biker Pub",
+   "Object type": "camp_site",
+   "Latitude": 52.2792487,
+   "Longitude": 20.7545043
+ },
+ {
+   "Name": "Ośrodek Wczasowy Wiele-Rogalewo",
+   "Object type": "camp_site",
+   "Latitude": 53.9305584,
+   "Longitude": 17.8246916
+ },
+ {
+   "Name": "eFKa Wiele",
+   "Object type": "camp_site",
+   "Latitude": 53.9197172,
+   "Longitude": 17.8407343
+ },
+ {
+   "Name": "Kamping Waldemar karbowski",
+   "Object type": "camp_site",
+   "Latitude": 53.313242,
+   "Longitude": 19.5663621
+ },
+ {
+   "Name": "HONORiS Okuninka",
+   "Object type": "camp_site",
+   "Latitude": 51.4930876,
+   "Longitude": 23.5395148
+ },
+ {
+   "Name": "Promyk",
+   "Object type": "camp_site",
+   "Latitude": 52.3269891,
+   "Longitude": 15.2940466
+ },
+ {
+   "Name": "Pole namiotowe Czumów",
+   "Object type": "camp_site",
+   "Latitude": 50.7736077,
+   "Longitude": 23.9676106
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Grabniak",
+   "Object type": "caravan_site",
+   "Latitude": 51.3765042,
+   "Longitude": 23.117155
+ },
+ {
+   "Name": "Ośrodek Rehabilitacyjno-Wczasowy Astur",
+   "Object type": "camp_site",
+   "Latitude": 51.4969973,
+   "Longitude": 23.5212305
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Wodnik",
+   "Object type": "caravan_site",
+   "Latitude": 51.4969444,
+   "Longitude": 23.5472222
+ },
+ {
+   "Name": "Camp Biała Góra",
+   "Object type": "camp_site",
+   "Latitude": 49.5750686,
+   "Longitude": 22.204753
+ },
+ {
+   "Name": "Camping nr 92",
+   "Object type": "camp_site",
+   "Latitude": 50.9163327,
+   "Longitude": 16.1030286
+ },
+ {
+   "Name": "Bursztynek",
+   "Object type": "caravan_site",
+   "Latitude": 54.1615584,
+   "Longitude": 15.4922984
+ },
+ {
+   "Name": "Biwak kajakowy nad Białą Nidą",
+   "Object type": "camp_site",
+   "Latitude": 50.7718331,
+   "Longitude": 20.3944462
+ },
+ {
+   "Name": "Baza Obozowa Ośrodka ZHP Buk",
+   "Object type": "camp_site",
+   "Latitude": 52.3006918,
+   "Longitude": 16.6324621
+ },
+ {
+   "Name": "Relax (PFCC nr 44)",
+   "Object type": "camp_site",
+   "Latitude": 53.9169673,
+   "Longitude": 14.2559959
+ },
+ {
+   "Name": "Stanica ZHP Patyki",
+   "Object type": "camp_site",
+   "Latitude": 51.4578762,
+   "Longitude": 19.2555427
+ },
+ {
+   "Name": "pole namiotowe gospodarz",
+   "Object type": "camp_site",
+   "Latitude": 53.6600134,
+   "Longitude": 21.3837934
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.6402809,
+   "Longitude": 21.8268899
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 49.8124286,
+   "Longitude": 20.6811656
+ },
+ {
+   "Name": "Camping nr 232",
+   "Object type": "camp_site",
+   "Latitude": 50.5679321,
+   "Longitude": 19.5357765
+ },
+ {
+   "Name": "Wagabunda",
+   "Object type": "camp_site",
+   "Latitude": 53.7948998,
+   "Longitude": 21.5649732
+ },
+ {
+   "Name": "Baza namiotowa w Regetowie",
+   "Object type": "camp_site",
+   "Latitude": 49.4692385,
+   "Longitude": 21.219948
+ },
+ {
+   "Name": "Hottur",
+   "Object type": "caravan_site",
+   "Latitude": 50.7872308,
+   "Longitude": 15.6950768
+ },
+ {
+   "Name": "Harcerska Baza Obozowa ..Morena''",
+   "Object type": "camp_site",
+   "Latitude": 54.3678772,
+   "Longitude": 18.5907741
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 51.7265053,
+   "Longitude": 15.8385033
+ },
+ {
+   "Name": "Przeczka",
+   "Object type": "camp_site",
+   "Latitude": 53.7643892,
+   "Longitude": 21.6197765
+ },
+ {
+   "Name": "Szałasiska",
+   "Object type": "camp_site",
+   "Latitude": 49.2122109,
+   "Longitude": 20.0761123
+ },
+ {
+   "Name": "Baza obozowa Hufca Warmińskiego ZHP",
+   "Object type": "camp_site",
+   "Latitude": 53.5791329,
+   "Longitude": 20.597554
+ },
+ {
+   "Name": "Pole Namiotowe U Rumcajsa",
+   "Object type": "camp_site",
+   "Latitude": 50.8350316,
+   "Longitude": 15.4918598
+ },
+ {
+   "Name": "Walne SPSS",
+   "Object type": "camp_site",
+   "Latitude": 52.0011739,
+   "Longitude": 21.3958016
+ },
+ {
+   "Name": "Rejestrator",
+   "Object type": "camp_site",
+   "Latitude": 52.7445701,
+   "Longitude": 23.6064568
+ },
+ {
+   "Name": "OW Świt",
+   "Object type": "camp_site",
+   "Latitude": 54.32971,
+   "Longitude": 18.11217
+ },
+ {
+   "Name": "Miejsce Biwakowania Czarnolesie",
+   "Object type": "camp_site",
+   "Latitude": 52.9893927,
+   "Longitude": 15.9531667
+ },
+ {
+   "Name": "Leśny Dwór",
+   "Object type": "camp_site",
+   "Latitude": 50.5926455,
+   "Longitude": 16.580959
+ },
+ {
+   "Name": "Gród Piasta",
+   "Object type": "camp_site",
+   "Latitude": 52.764464,
+   "Longitude": 17.8303343
+ },
+ {
+   "Name": "Borowinka",
+   "Object type": "camp_site",
+   "Latitude": 54.57644,
+   "Longitude": 16.87771
+ },
+ {
+   "Name": "czynne 24.06-31.10",
+   "Object type": "camp_site",
+   "Latitude": 53.4287809,
+   "Longitude": 22.5334818
+ },
+ {
+   "Name": "Otmuchów",
+   "Object type": "camp_site",
+   "Latitude": 50.4789812,
+   "Longitude": 17.122037
+ },
+ {
+   "Name": "Camping Zamek",
+   "Object type": "camp_site",
+   "Latitude": 53.4042409,
+   "Longitude": 18.4576647
+ },
+ {
+   "Name": "Lesna Cisza",
+   "Object type": "camp_site",
+   "Latitude": 53.7990885,
+   "Longitude": 17.4429744
+ },
+ {
+   "Name": "Family Camping",
+   "Object type": "camp_site",
+   "Latitude": 49.3223217,
+   "Longitude": 19.985725
+ },
+ {
+   "Name": "Wasserwanderrastplatz Czernica",
+   "Object type": "camp_site",
+   "Latitude": 53.8388218,
+   "Longitude": 17.6387239
+ },
+ {
+   "Name": "Ośrodek Sportu i Rekreacji Przechlewo",
+   "Object type": "camp_site",
+   "Latitude": 53.7792957,
+   "Longitude": 17.2527201
+ },
+ {
+   "Name": "FZZ Skerbersdorf",
+   "Object type": "camp_site",
+   "Latitude": 51.5011921,
+   "Longitude": 14.8136228
+ },
+ {
+   "Name": "Camping nr 36",
+   "Object type": "camp_site",
+   "Latitude": 51.3184216,
+   "Longitude": 21.930258
+ },
+ {
+   "Name": "Stanica harcerska",
+   "Object type": "camp_site",
+   "Latitude": 53.1916144,
+   "Longitude": 16.1140573
+ },
+ {
+   "Name": "Wronczynek",
+   "Object type": "camp_site",
+   "Latitude": 52.5136224,
+   "Longitude": 17.1865382
+ },
+ {
+   "Name": "Korol",
+   "Object type": "camp_site",
+   "Latitude": 53.9324282,
+   "Longitude": 22.2881412
+ },
+ {
+   "Name": "Camping nr 230",
+   "Object type": "camp_site",
+   "Latitude": 50.4749965,
+   "Longitude": 17.281518
+ },
+ {
+   "Name": "Fraszka",
+   "Object type": "camp_site",
+   "Latitude": 54.002443,
+   "Longitude": 14.683749
+ },
+ {
+   "Name": "Pole namiotowe Przystań Kowale",
+   "Object type": "camp_site",
+   "Latitude": 52.6430392,
+   "Longitude": 16.8043734
+ },
+ {
+   "Name": "Osada Młyńska",
+   "Object type": "camp_site",
+   "Latitude": 52.1163077,
+   "Longitude": 20.3782012
+ },
+ {
+   "Name": "Centrum Wypoczynku i Rekreacji Relax",
+   "Object type": "camp_site",
+   "Latitude": 52.4372979,
+   "Longitude": 19.6669162
+ },
+ {
+   "Name": "Ośrodek Wczasowy Dźwigar",
+   "Object type": "camp_site",
+   "Latitude": 52.551187,
+   "Longitude": 21.1433424
+ },
+ {
+   "Name": "Ośrodek Usług Turystyczno-Wypoczynkowych \"Jazy\"",
+   "Object type": "camp_site",
+   "Latitude": 49.7213303,
+   "Longitude": 19.6974633
+ },
+ {
+   "Name": "Polana Sosny",
+   "Object type": "camp_site",
+   "Latitude": 49.4079495,
+   "Longitude": 20.303665
+ },
+ {
+   "Name": "PTTK Krutin",
+   "Object type": "camp_site",
+   "Latitude": 53.6903732,
+   "Longitude": 21.4281104
+ },
+ {
+   "Name": "Resort Piaseczno",
+   "Object type": "camp_site",
+   "Latitude": 51.381745,
+   "Longitude": 23.0223285
+ },
+ {
+   "Name": "Autocamp",
+   "Object type": "camp_site",
+   "Latitude": 50.2704369,
+   "Longitude": 17.7159691
+ },
+ {
+   "Name": "Biwak Barnimie",
+   "Object type": "camp_site",
+   "Latitude": 53.1548278,
+   "Longitude": 15.8077351
+ },
+ {
+   "Name": "Gieret",
+   "Object type": "camp_site",
+   "Latitude": 54.0318735,
+   "Longitude": 23.3514306
+ },
+ {
+   "Name": "Camping nr 148",
+   "Object type": "camp_site",
+   "Latitude": 54.0760579,
+   "Longitude": 23.0817651
+ },
+ {
+   "Name": "Ustronie",
+   "Object type": "camp_site",
+   "Latitude": 52.1295717,
+   "Longitude": 16.1209634
+ },
+ {
+   "Name": "Camping 140",
+   "Object type": "camp_site",
+   "Latitude": 51.0419015,
+   "Longitude": 20.8427237
+ },
+ {
+   "Name": "Moto-raj (PFCC nr 115)",
+   "Object type": "camp_site",
+   "Latitude": 50.9619603,
+   "Longitude": 20.5408511
+ },
+ {
+   "Name": "Camping nr 257",
+   "Object type": "camp_site",
+   "Latitude": 50.5203537,
+   "Longitude": 20.5164915
+ },
+ {
+   "Name": "Złota Dolina",
+   "Object type": "camp_site",
+   "Latitude": 50.2878745,
+   "Longitude": 17.458882
+ },
+ {
+   "Name": "Goły Rożek",
+   "Object type": "camp_site",
+   "Latitude": 53.6923318,
+   "Longitude": 21.5760546
+ },
+ {
+   "Name": "Bikers Inn",
+   "Object type": "camp_site",
+   "Latitude": 52.4240649,
+   "Longitude": 14.5407192
+ },
+ {
+   "Name": "Przy Morzu",
+   "Object type": "camp_site",
+   "Latitude": 54.071073,
+   "Longitude": 14.9741048
+ },
+ {
+   "Name": "Leśniczówka Łękno",
+   "Object type": "camp_site",
+   "Latitude": 52.1549125,
+   "Longitude": 17.1506882
+ },
+ {
+   "Name": "Camping nr 169",
+   "Object type": "camp_site",
+   "Latitude": 50.4149791,
+   "Longitude": 16.5138469
+ },
+ {
+   "Name": "Agrocamp",
+   "Object type": "camp_site",
+   "Latitude": 50.4090303,
+   "Longitude": 16.3816456
+ },
+ {
+   "Name": "Centrum Dialogu i Modlitwy",
+   "Object type": "caravan_site",
+   "Latitude": 50.0233891,
+   "Longitude": 19.198209
+ },
+ {
+   "Name": "Camping Wrocław",
+   "Object type": "camp_site",
+   "Latitude": 51.075781,
+   "Longitude": 17.0893541
+ },
+ {
+   "Name": "Camping nr 271",
+   "Object type": "camp_site",
+   "Latitude": 50.8495251,
+   "Longitude": 16.7435263
+ },
+ {
+   "Name": "Camping nr 231",
+   "Object type": "camp_site",
+   "Latitude": 50.832051,
+   "Longitude": 16.4881135
+ },
+ {
+   "Name": "Korab",
+   "Object type": "camp_site",
+   "Latitude": 54.0216581,
+   "Longitude": 14.7459552
+ },
+ {
+   "Name": "Camping nr 243",
+   "Object type": "camp_site",
+   "Latitude": 54.438738,
+   "Longitude": 16.3861478
+ },
+ {
+   "Name": "Camping nr 275 Łebski Kemping",
+   "Object type": "camp_site",
+   "Latitude": 54.7623845,
+   "Longitude": 17.536222
+ },
+ {
+   "Name": "Camping AWF Poznań",
+   "Object type": "caravan_site",
+   "Latitude": 54.2160533,
+   "Longitude": 15.7690991
+ },
+ {
+   "Name": "Pole Biwakowe Rosnowo",
+   "Object type": "camp_site",
+   "Latitude": 54.0703388,
+   "Longitude": 16.305563
+ },
+ {
+   "Name": "Kemping Leśny",
+   "Object type": "camp_site",
+   "Latitude": 54.0039202,
+   "Longitude": 17.9973838
+ },
+ {
+   "Name": "Pole namiotowe Ostromęcko",
+   "Object type": "camp_site",
+   "Latitude": 53.0133152,
+   "Longitude": 15.6385414
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Camping Tumiany",
+   "Object type": "camp_site",
+   "Latitude": 53.8133572,
+   "Longitude": 20.795064
+ },
+ {
+   "Name": "Seeblick",
+   "Object type": "camp_site",
+   "Latitude": 53.9422202,
+   "Longitude": 21.3213126
+ },
+ {
+   "Name": "Cezar",
+   "Object type": "camp_site",
+   "Latitude": 53.8760136,
+   "Longitude": 21.3167705
+ },
+ {
+   "Name": "Stella",
+   "Object type": "camp_site",
+   "Latitude": 54.7603321,
+   "Longitude": 17.5562748
+ },
+ {
+   "Name": "Ośrodek wypoczynkowy",
+   "Object type": "camp_site",
+   "Latitude": 52.8189744,
+   "Longitude": 19.5937476
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy \"Karczma Nad Stawem\"",
+   "Object type": "caravan_site",
+   "Latitude": 51.3506548,
+   "Longitude": 16.8319753
+ },
+ {
+   "Name": "Kamping nad Narwią",
+   "Object type": "caravan_site",
+   "Latitude": 52.5499229,
+   "Longitude": 21.0895984
+ },
+ {
+   "Name": "Baza Obozowa \"Czernica\"",
+   "Object type": "camp_site",
+   "Latitude": 53.844543,
+   "Longitude": 17.6250627
+ },
+ {
+   "Name": "Camping Site - Fischereihof Schneider",
+   "Object type": "camp_site",
+   "Latitude": 52.5843498,
+   "Longitude": 14.6125147
+ },
+ {
+   "Name": "Naturerlebnishof Uferloos",
+   "Object type": "camp_site",
+   "Latitude": 52.6771584,
+   "Longitude": 14.4359476
+ },
+ {
+   "Name": "miejsce biwakowania Kamienna",
+   "Object type": "camp_site",
+   "Latitude": 53.0307721,
+   "Longitude": 15.943492
+ },
+ {
+   "Name": "Miejsce biwakowania \"Pstrąg\"",
+   "Object type": "camp_site",
+   "Latitude": 53.0708904,
+   "Longitude": 15.9264613
+ },
+ {
+   "Name": "Przystań \"Pod Dębem\"",
+   "Object type": "camp_site",
+   "Latitude": 52.8860212,
+   "Longitude": 15.9769393
+ },
+ {
+   "Name": "Rybacka Chata",
+   "Object type": "camp_site",
+   "Latitude": 53.2241522,
+   "Longitude": 15.9031887
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.2186573,
+   "Longitude": 15.9266391
+ },
+ {
+   "Name": "Pole biwakowe",
+   "Object type": "camp_site",
+   "Latitude": 53.1197133,
+   "Longitude": 15.8381254
+ },
+ {
+   "Name": "Pole namiotowe R.Gawlas",
+   "Object type": "camp_site",
+   "Latitude": 49.6982278,
+   "Longitude": 18.9016639
+ },
+ {
+   "Name": "Pole namiotowe Kotarz",
+   "Object type": "camp_site",
+   "Latitude": 49.7190864,
+   "Longitude": 18.9213822
+ },
+ {
+   "Name": "Kalex",
+   "Object type": "camp_site",
+   "Latitude": 54.2270876,
+   "Longitude": 17.6368563
+ },
+ {
+   "Name": "Camping nad Liwcem",
+   "Object type": "caravan_site",
+   "Latitude": 52.3994791,
+   "Longitude": 22.0064039
+ },
+ {
+   "Name": "Pole biwakowe – Liwiec.com",
+   "Object type": "camp_site",
+   "Latitude": 52.2586554,
+   "Longitude": 22.0905554
+ },
+ {
+   "Name": "Camping nr 214",
+   "Object type": "caravan_site",
+   "Latitude": 52.8540449,
+   "Longitude": 16.5312717
+ },
+ {
+   "Name": "Brożane",
+   "Object type": "camp_site",
+   "Latitude": 53.9262432,
+   "Longitude": 23.4356341
+ },
+ {
+   "Name": "CAMPERCAMP",
+   "Object type": "caravan_site",
+   "Latitude": 54.0338558,
+   "Longitude": 23.3729892
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy ADA",
+   "Object type": "camp_site",
+   "Latitude": 52.2145823,
+   "Longitude": 15.3854526
+ },
+ {
+   "Name": "ZHP Zielona Góra",
+   "Object type": "camp_site",
+   "Latitude": 52.2197254,
+   "Longitude": 15.3786718
+ },
+ {
+   "Name": "pole Słoneczne",
+   "Object type": "camp_site",
+   "Latitude": 52.2431045,
+   "Longitude": 15.3978515
+ },
+ {
+   "Name": "St. Bruno",
+   "Object type": "caravan_site",
+   "Latitude": 54.034678,
+   "Longitude": 21.7600993
+ },
+ {
+   "Name": "Moczydło",
+   "Object type": "camp_site",
+   "Latitude": 52.9073692,
+   "Longitude": 15.2739118
+ },
+ {
+   "Name": "Zeltplatz für Radler von Mai bis Oktober",
+   "Object type": "camp_site",
+   "Latitude": 51.4540553,
+   "Longitude": 14.9569791
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 53.5305191,
+   "Longitude": 16.4887457
+ },
+ {
+   "Name": "Camping Jarmak",
+   "Object type": "camp_site",
+   "Latitude": 53.4882364,
+   "Longitude": 15.8643406
+ },
+ {
+   "Name": "Rokiet",
+   "Object type": "camp_site",
+   "Latitude": 53.0995478,
+   "Longitude": 15.8372829
+ },
+ {
+   "Name": "Kołki",
+   "Object type": "camp_site",
+   "Latitude": 53.0915383,
+   "Longitude": 15.8371568
+ },
+ {
+   "Name": "Siedem Sosen",
+   "Object type": "caravan_site",
+   "Latitude": 53.0795789,
+   "Longitude": 15.7871907
+ },
+ {
+   "Name": "Baza namiotowa Gorc",
+   "Object type": "camp_site",
+   "Latitude": 49.5578223,
+   "Longitude": 20.247379
+ },
+ {
+   "Name": "Camper Park",
+   "Object type": "camp_site",
+   "Latitude": 54.3700114,
+   "Longitude": 18.7312163
+ },
+ {
+   "Name": "Dla Ciebie",
+   "Object type": "caravan_site",
+   "Latitude": 54.2071859,
+   "Longitude": 15.7309516
+ },
+ {
+   "Name": "Ośrodek Hufca ZHP Dąbrowa Górnicza",
+   "Object type": "camp_site",
+   "Latitude": 50.730474,
+   "Longitude": 19.4445831
+ },
+ {
+   "Name": "Camping U Potoka",
+   "Object type": "camp_site",
+   "Latitude": 50.5266513,
+   "Longitude": 16.372151
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy \"PRODUS\"",
+   "Object type": "caravan_site",
+   "Latitude": 51.2780315,
+   "Longitude": 16.945042
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 53.1929253,
+   "Longitude": 15.2874846
+ },
+ {
+   "Name": "biwak",
+   "Object type": "camp_site",
+   "Latitude": 53.069633,
+   "Longitude": 15.7627514
+ },
+ {
+   "Name": "Bugiel",
+   "Object type": "caravan_site",
+   "Latitude": 54.2042413,
+   "Longitude": 15.7355442
+ },
+ {
+   "Name": "Pod Lasem",
+   "Object type": "camp_site",
+   "Latitude": 54.0669727,
+   "Longitude": 14.9644937
+ },
+ {
+   "Name": "ST Miłośników Niesulic",
+   "Object type": "camp_site",
+   "Latitude": 52.2187202,
+   "Longitude": 15.395774
+ },
+ {
+   "Name": "u Stasia",
+   "Object type": "camp_site",
+   "Latitude": 53.2852198,
+   "Longitude": 16.6887948
+ },
+ {
+   "Name": "Stacja Nieborów",
+   "Object type": "camp_site",
+   "Latitude": 52.0622205,
+   "Longitude": 20.0832748
+ },
+ {
+   "Name": "Rybaczówka",
+   "Object type": "camp_site",
+   "Latitude": 54.7023226,
+   "Longitude": 17.2463406
+ },
+ {
+   "Name": "Chëcz Kaszubska PFCC 83",
+   "Object type": "camp_site",
+   "Latitude": 54.8153591,
+   "Longitude": 17.9518108
+ },
+ {
+   "Name": "Murzynka",
+   "Object type": "camp_site",
+   "Latitude": 53.443478,
+   "Longitude": 15.9098582
+ },
+ {
+   "Name": "Camping Stilo",
+   "Object type": "camp_site",
+   "Latitude": 54.7824297,
+   "Longitude": 17.7425858
+ },
+ {
+   "Name": "Królowa Woda",
+   "Object type": "camp_site",
+   "Latitude": 53.8239747,
+   "Longitude": 22.9778428
+ },
+ {
+   "Name": "Stacja Nieborów",
+   "Object type": "camp_site",
+   "Latitude": 52.06374,
+   "Longitude": 20.0652575
+ },
+ {
+   "Name": "Pole namiotowe Sepopol",
+   "Object type": "camp_site",
+   "Latitude": 54.2683822,
+   "Longitude": 21.0059344
+ },
+ {
+   "Name": "Bryza",
+   "Object type": "camp_site",
+   "Latitude": 54.6583808,
+   "Longitude": 17.0504749
+ },
+ {
+   "Name": "Nad Rozkosznym Stawem",
+   "Object type": "camp_site",
+   "Latitude": 50.8343578,
+   "Longitude": 15.5106507
+ },
+ {
+   "Name": "Kemping Pod Mostem",
+   "Object type": "camp_site",
+   "Latitude": 50.8263168,
+   "Longitude": 15.5218163
+ },
+ {
+   "Name": "CamperPark24",
+   "Object type": "caravan_site",
+   "Latitude": 52.5803522,
+   "Longitude": 21.0684729
+ },
+ {
+   "Name": "Baza Obozowa Chorągwi Zachodniopomorskiej",
+   "Object type": "camp_site",
+   "Latitude": 54.0947024,
+   "Longitude": 15.1027008
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 54.1041013,
+   "Longitude": 15.1259383
+ },
+ {
+   "Name": "Cora Camping",
+   "Object type": "camp_site",
+   "Latitude": 54.101281,
+   "Longitude": 15.1076267
+ },
+ {
+   "Name": "Pole namiotowe Rozlewisko",
+   "Object type": "camp_site",
+   "Latitude": 53.2339098,
+   "Longitude": 15.7662
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy \"Pod sosnami\"",
+   "Object type": "camp_site",
+   "Latitude": 53.3447815,
+   "Longitude": 19.4133043
+ },
+ {
+   "Name": "Gołuchowski Ośrodek Turystyki i Sportu",
+   "Object type": "camp_site",
+   "Latitude": 51.8408618,
+   "Longitude": 17.9395542
+ },
+ {
+   "Name": "Letnik Camping",
+   "Object type": "camp_site",
+   "Latitude": 52.388283,
+   "Longitude": 18.3250847
+ },
+ {
+   "Name": "ZHP Świdnica w Niesulicach",
+   "Object type": "camp_site",
+   "Latitude": 52.2185299,
+   "Longitude": 15.3823752
+ },
+ {
+   "Name": "Dompol",
+   "Object type": "camp_site",
+   "Latitude": 53.4410931,
+   "Longitude": 18.7320211
+ },
+ {
+   "Name": "Stanica Hufca ZHP WSCHOWA w Lginiu",
+   "Object type": "camp_site",
+   "Latitude": 51.8842743,
+   "Longitude": 16.2389669
+ },
+ {
+   "Name": "Rumcajsowka",
+   "Object type": "camp_site",
+   "Latitude": 49.3888945,
+   "Longitude": 20.8875039
+ },
+ {
+   "Name": "Camp Oaza",
+   "Object type": "camp_site",
+   "Latitude": 49.5166234,
+   "Longitude": 21.1333443
+ },
+ {
+   "Name": "Campingplatz Kamminke",
+   "Object type": "camp_site",
+   "Latitude": 53.8723851,
+   "Longitude": 14.1987533
+ },
+ {
+   "Name": "NA CYPLU Pole Namiotowo Campingowe",
+   "Object type": "camp_site",
+   "Latitude": 53.4498948,
+   "Longitude": 15.5571795
+ },
+ {
+   "Name": "O.W. Drawa",
+   "Object type": "camp_site",
+   "Latitude": 53.5859717,
+   "Longitude": 16.0301662
+ },
+ {
+   "Name": "miejsce biwakowe",
+   "Object type": "camp_site",
+   "Latitude": 53.8346207,
+   "Longitude": 16.7193668
+ },
+ {
+   "Name": "Małe Morze",
+   "Object type": "camp_site",
+   "Latitude": 54.7818349,
+   "Longitude": 18.4435644
+ },
+ {
+   "Name": "Biwak Zdbice",
+   "Object type": "camp_site",
+   "Latitude": 53.3777786,
+   "Longitude": 16.5336371
+ },
+ {
+   "Name": "Hafen Kamminke",
+   "Object type": "caravan_site",
+   "Latitude": 53.8675331,
+   "Longitude": 14.2045643
+ },
+ {
+   "Name": "Modrzewiowe Ranczo",
+   "Object type": "camp_site",
+   "Latitude": 50.68046,
+   "Longitude": 19.03381
+ },
+ {
+   "Name": "Miejsce biwakowe",
+   "Object type": "camp_site",
+   "Latitude": 53.7710449,
+   "Longitude": 16.8238193
+ },
+ {
+   "Name": "Przystanek Lipińskie",
+   "Object type": "camp_site",
+   "Latitude": 53.736136,
+   "Longitude": 22.4064884
+ },
+ {
+   "Name": "Pole biwakowe",
+   "Object type": "camp_site",
+   "Latitude": 52.5146473,
+   "Longitude": 15.7044403
+ },
+ {
+   "Name": "Gasthof zum Hafen",
+   "Object type": "camp_site",
+   "Latitude": 52.674118,
+   "Longitude": 14.4420904
+ },
+ {
+   "Name": "Ośrodek wypoczynkowy i kamping Łabędź",
+   "Object type": "camp_site",
+   "Latitude": 53.7245153,
+   "Longitude": 22.635383
+ },
+ {
+   "Name": "Ostry Róg",
+   "Object type": "camp_site",
+   "Latitude": 53.4632189,
+   "Longitude": 15.8890283
+ },
+ {
+   "Name": "Miejsce biwakowe",
+   "Object type": "camp_site",
+   "Latitude": 54.5268119,
+   "Longitude": 16.6065867
+ },
+ {
+   "Name": "Leśna przystań",
+   "Object type": "camp_site",
+   "Latitude": 50.9574385,
+   "Longitude": 19.8438964
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 50.8106772,
+   "Longitude": 19.1528591
+ },
+ {
+   "Name": "Ośrodek Harcerski w Borowianach",
+   "Object type": "camp_site",
+   "Latitude": 50.5510149,
+   "Longitude": 18.6428456
+ },
+ {
+   "Name": "Leśna Polana",
+   "Object type": "camp_site",
+   "Latitude": 50.1355489,
+   "Longitude": 22.7631151
+ },
+ {
+   "Name": "Sirocco",
+   "Object type": "camp_site",
+   "Latitude": 53.8671901,
+   "Longitude": 23.1312633
+ },
+ {
+   "Name": "NECKO",
+   "Object type": "camp_site",
+   "Latitude": 53.8620287,
+   "Longitude": 23.0012603
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 54.0469798,
+   "Longitude": 16.961401
+ },
+ {
+   "Name": "Camping Wisniowa Polana Milkow no 142",
+   "Object type": "camp_site",
+   "Latitude": 50.8066986,
+   "Longitude": 15.7686956
+ },
+ {
+   "Name": "pole Borów",
+   "Object type": "camp_site",
+   "Latitude": 52.2284816,
+   "Longitude": 15.4199119
+ },
+ {
+   "Name": "pole POM",
+   "Object type": "camp_site",
+   "Latitude": 52.2343194,
+   "Longitude": 15.3986024
+ },
+ {
+   "Name": "pole Pod Bukami",
+   "Object type": "camp_site",
+   "Latitude": 52.2375394,
+   "Longitude": 15.399375
+ },
+ {
+   "Name": "Na Wydmie",
+   "Object type": "caravan_site",
+   "Latitude": 54.6678852,
+   "Longitude": 17.0533508
+ },
+ {
+   "Name": "Miejsce Biwakowania Mierzęcin oddz.8a",
+   "Object type": "camp_site",
+   "Latitude": 52.9690595,
+   "Longitude": 15.9116918
+ },
+ {
+   "Name": "Miejsce Biwakowania Radzyń",
+   "Object type": "camp_site",
+   "Latitude": 52.9767915,
+   "Longitude": 16.0665319
+ },
+ {
+   "Name": "Miejsce biwakowania Czubajka",
+   "Object type": "camp_site",
+   "Latitude": 53.5481198,
+   "Longitude": 15.9174629
+ },
+ {
+   "Name": "Miejsce biwakowania Jezioro Pile",
+   "Object type": "camp_site",
+   "Latitude": 53.6138334,
+   "Longitude": 16.4492552
+ },
+ {
+   "Name": "Miejsce biwakowania Liszkowo",
+   "Object type": "camp_site",
+   "Latitude": 53.5984668,
+   "Longitude": 16.4511915
+ },
+ {
+   "Name": "Miejsce biwakowania Psie Głowy",
+   "Object type": "camp_site",
+   "Latitude": 53.4897695,
+   "Longitude": 16.2669913
+ },
+ {
+   "Name": "U Adama",
+   "Object type": "camp_site",
+   "Latitude": 53.088425,
+   "Longitude": 16.066185
+ },
+ {
+   "Name": "Pod Zamkiem",
+   "Object type": "camp_site",
+   "Latitude": 50.61058,
+   "Longitude": 19.49937
+ },
+ {
+   "Name": "PTTK Stanica Swoboda",
+   "Object type": "camp_site",
+   "Latitude": 53.8664689,
+   "Longitude": 23.1312418
+ },
+ {
+   "Name": "Świniucha",
+   "Object type": "camp_site",
+   "Latitude": 53.8668587,
+   "Longitude": 23.1110217
+ },
+ {
+   "Name": "PTTK Jałowy Róg",
+   "Object type": "camp_site",
+   "Latitude": 53.9021113,
+   "Longitude": 23.4055015
+ },
+ {
+   "Name": "Pole namiotowe nr 179",
+   "Object type": "camp_site",
+   "Latitude": 54.3806639,
+   "Longitude": 19.4220773
+ },
+ {
+   "Name": "Relaks",
+   "Object type": "camp_site",
+   "Latitude": 54.8173862,
+   "Longitude": 17.955718
+ },
+ {
+   "Name": "Bryza",
+   "Object type": "camp_site",
+   "Latitude": 54.8176644,
+   "Longitude": 17.9556107
+ },
+ {
+   "Name": "Józefów",
+   "Object type": "camp_site",
+   "Latitude": 51.9184983,
+   "Longitude": 15.9577892
+ },
+ {
+   "Name": "Stanica ZHP",
+   "Object type": "camp_site",
+   "Latitude": 53.2904,
+   "Longitude": 16.2569
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.6441093,
+   "Longitude": 20.8662026
+ },
+ {
+   "Name": "Stanica Wodna Nowa Brda",
+   "Object type": "camp_site",
+   "Latitude": 53.8767124,
+   "Longitude": 17.2027381
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 53.8772918,
+   "Longitude": 17.2029298
+ },
+ {
+   "Name": "Stanica wodna Folbryk",
+   "Object type": "camp_site",
+   "Latitude": 53.8404977,
+   "Longitude": 17.1924663
+ },
+ {
+   "Name": "pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.9820215,
+   "Longitude": 17.6016911
+ },
+ {
+   "Name": "Camping",
+   "Object type": "camp_site",
+   "Latitude": 53.8172693,
+   "Longitude": 17.4879726
+ },
+ {
+   "Name": "Stanica ZHP",
+   "Object type": "camp_site",
+   "Latitude": 53.3524285,
+   "Longitude": 16.249502
+ },
+ {
+   "Name": "Miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 52.942703,
+   "Longitude": 15.252229
+ },
+ {
+   "Name": "Dom pod Ostrym Wierchem",
+   "Object type": "camp_site",
+   "Latitude": 49.4418762,
+   "Longitude": 21.1377802
+ },
+ {
+   "Name": "Stanica wodna Wilkowo",
+   "Object type": "camp_site",
+   "Latitude": 53.962634,
+   "Longitude": 17.1414976
+ },
+ {
+   "Name": "Cypel Pole Namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.8169004,
+   "Longitude": 21.3772837
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 50.8300484,
+   "Longitude": 15.9728175
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Szczutowo",
+   "Object type": "camp_site",
+   "Latitude": 52.9540755,
+   "Longitude": 19.5776358
+ },
+ {
+   "Name": "Pole Biwakowe \"Łazy pod lasem\"",
+   "Object type": "camp_site",
+   "Latitude": 54.3173785,
+   "Longitude": 16.2119122
+ },
+ {
+   "Name": "Fajne Miejsce",
+   "Object type": "camp_site",
+   "Latitude": 54.5395469,
+   "Longitude": 16.5402724
+ },
+ {
+   "Name": "pole Kosobudz",
+   "Object type": "camp_site",
+   "Latitude": 52.2379891,
+   "Longitude": 15.238414
+ },
+ {
+   "Name": "Energetyk",
+   "Object type": "camp_site",
+   "Latitude": 53.6620107,
+   "Longitude": 21.9241869
+ },
+ {
+   "Name": "Dolina Biebrzy",
+   "Object type": "camp_site",
+   "Latitude": 53.5284431,
+   "Longitude": 22.8432359
+ },
+ {
+   "Name": "Pole Biwakowe Wrzosy",
+   "Object type": "camp_site",
+   "Latitude": 53.3176833,
+   "Longitude": 16.6800344
+ },
+ {
+   "Name": "Biwak Biala Kładka",
+   "Object type": "camp_site",
+   "Latitude": 53.3417228,
+   "Longitude": 16.5732692
+ },
+ {
+   "Name": "Agro Drawa",
+   "Object type": "camp_site",
+   "Latitude": 52.9271534,
+   "Longitude": 15.9736648
+ },
+ {
+   "Name": "Pole namiotowe Grzybek",
+   "Object type": "camp_site",
+   "Latitude": 53.5843316,
+   "Longitude": 18.3045974
+ },
+ {
+   "Name": "Pole namiotowe Trzebciny",
+   "Object type": "camp_site",
+   "Latitude": 53.628966,
+   "Longitude": 18.1764581
+ },
+ {
+   "Name": "Fsilkowo",
+   "Object type": "camp_site",
+   "Latitude": 53.9684332,
+   "Longitude": 17.7749489
+ },
+ {
+   "Name": "Pole Malinowskiego",
+   "Object type": "camp_site",
+   "Latitude": 52.6115682,
+   "Longitude": 14.6865608
+ },
+ {
+   "Name": "Star-Camp",
+   "Object type": "camp_site",
+   "Latitude": 54.0990154,
+   "Longitude": 15.1160644
+ },
+ {
+   "Name": "Camping \"Wardak\" POLE NAMIOTOWE",
+   "Object type": "camp_site",
+   "Latitude": 53.7448885,
+   "Longitude": 21.2532541
+ },
+ {
+   "Name": "Camping \"Wardak\" POLE NAMIOTOWE",
+   "Object type": "caravan_site",
+   "Latitude": 53.7463676,
+   "Longitude": 21.2563618
+ },
+ {
+   "Name": "miejscówka grill",
+   "Object type": "camp_site",
+   "Latitude": 49.4984033,
+   "Longitude": 21.9037333
+ },
+ {
+   "Name": "U Szwagra",
+   "Object type": "camp_site",
+   "Latitude": 53.5414618,
+   "Longitude": 20.4202871
+ },
+ {
+   "Name": "Agrokemping",
+   "Object type": "caravan_site",
+   "Latitude": 53.8700911,
+   "Longitude": 17.5475024
+ },
+ {
+   "Name": "kiersiny",
+   "Object type": "camp_site",
+   "Latitude": 54.2895643,
+   "Longitude": 20.1093731
+ },
+ {
+   "Name": "Powidzki Ośrodek Sportu i Rekreacji",
+   "Object type": "caravan_site",
+   "Latitude": 52.4109885,
+   "Longitude": 17.9220277
+ },
+ {
+   "Name": "Krępsko",
+   "Object type": "camp_site",
+   "Latitude": 53.2599901,
+   "Longitude": 16.7819672
+ },
+ {
+   "Name": "Relaks Pszczew",
+   "Object type": "camp_site",
+   "Latitude": 52.4897018,
+   "Longitude": 15.7693289
+ },
+ {
+   "Name": "Pod Lasem",
+   "Object type": "camp_site",
+   "Latitude": 54.8192857,
+   "Longitude": 18.3143496
+ },
+ {
+   "Name": "Park Magnolia",
+   "Object type": "camp_site",
+   "Latitude": 51.9674082,
+   "Longitude": 15.003095
+ },
+ {
+   "Name": "Pole namiotowe Binduga",
+   "Object type": "camp_site",
+   "Latitude": 53.6512932,
+   "Longitude": 19.570521
+ },
+ {
+   "Name": "Stanica Hufca ZHP TRZEBNICA w Lginiu",
+   "Object type": "camp_site",
+   "Latitude": 51.8730763,
+   "Longitude": 16.2317811
+ },
+ {
+   "Name": "Baza Harcerska ZHP Czerwonak",
+   "Object type": "camp_site",
+   "Latitude": 50.8176633,
+   "Longitude": 15.5396902
+ },
+ {
+   "Name": "Adam",
+   "Object type": "camp_site",
+   "Latitude": 50.0466863,
+   "Longitude": 19.9030248
+ },
+ {
+   "Name": "Pole namiotowe Rudnia",
+   "Object type": "camp_site",
+   "Latitude": 52.948772,
+   "Longitude": 23.7682769
+ },
+ {
+   "Name": "Pod Jesionem",
+   "Object type": "camp_site",
+   "Latitude": 54.0537208,
+   "Longitude": 23.1970871
+ },
+ {
+   "Name": "Biwak",
+   "Object type": "camp_site",
+   "Latitude": 53.9619238,
+   "Longitude": 23.3108157
+ },
+ {
+   "Name": "Mewa",
+   "Object type": "caravan_site",
+   "Latitude": 54.3081474,
+   "Longitude": 16.198836
+ },
+ {
+   "Name": "Kemp a koupaliště Červenka",
+   "Object type": "camp_site",
+   "Latitude": 50.4011058,
+   "Longitude": 16.9961068
+ },
+ {
+   "Name": "Plaża Czocha",
+   "Object type": "camp_site",
+   "Latitude": 51.0324871,
+   "Longitude": 15.2927136
+ },
+ {
+   "Name": "Intercamp '84",
+   "Object type": "camp_site",
+   "Latitude": 54.7587676,
+   "Longitude": 17.5405277
+ },
+ {
+   "Name": "Bila",
+   "Object type": "caravan_site",
+   "Latitude": 53.9575774,
+   "Longitude": 21.7379055
+ },
+ {
+   "Name": "Camping Mysliwska",
+   "Object type": "camp_site",
+   "Latitude": 54.821201,
+   "Longitude": 17.9825918
+ },
+ {
+   "Name": "Alfa Klif",
+   "Object type": "caravan_site",
+   "Latitude": 54.2428608,
+   "Longitude": 15.8861543
+ },
+ {
+   "Name": "Alfa Klif",
+   "Object type": "camp_site",
+   "Latitude": 54.2438289,
+   "Longitude": 15.8854922
+ },
+ {
+   "Name": "Gęsia Łączka",
+   "Object type": "camp_site",
+   "Latitude": 53.58986,
+   "Longitude": 16.036411
+ },
+ {
+   "Name": "Osada Turystyczna Czorsztyn",
+   "Object type": "camp_site",
+   "Latitude": 49.4415332,
+   "Longitude": 20.2926181
+ },
+ {
+   "Name": "Wymój Park",
+   "Object type": "caravan_site",
+   "Latitude": 53.6652153,
+   "Longitude": 20.3774733
+ },
+ {
+   "Name": "Bila",
+   "Object type": "camp_site",
+   "Latitude": 53.956926,
+   "Longitude": 21.738414
+ },
+ {
+   "Name": "Radlerhof Aurith",
+   "Object type": "camp_site",
+   "Latitude": 52.2409748,
+   "Longitude": 14.7013258
+ },
+ {
+   "Name": "Kokoszka",
+   "Object type": "camp_site",
+   "Latitude": 53.8648871,
+   "Longitude": 21.5174127
+ },
+ {
+   "Name": "Rydzowka",
+   "Object type": "camp_site",
+   "Latitude": 54.2398944,
+   "Longitude": 21.5722642
+ },
+ {
+   "Name": "Gościniec u Buckich - kemping",
+   "Object type": "camp_site",
+   "Latitude": 51.0286048,
+   "Longitude": 15.3185575
+ },
+ {
+   "Name": "Izery",
+   "Object type": "camp_site",
+   "Latitude": 51.0289456,
+   "Longitude": 15.3102168
+ },
+ {
+   "Name": "PTTK",
+   "Object type": "camp_site",
+   "Latitude": 53.6791737,
+   "Longitude": 21.2513179
+ },
+ {
+   "Name": "camping Osetno",
+   "Object type": "camp_site",
+   "Latitude": 53.4155622,
+   "Longitude": 19.3178381
+ },
+ {
+   "Name": "Zle Mieso",
+   "Object type": "camp_site",
+   "Latitude": 53.8306211,
+   "Longitude": 18.1057783
+ },
+ {
+   "Name": "Promyk",
+   "Object type": "camp_site",
+   "Latitude": 53.6147988,
+   "Longitude": 18.272109
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.8048424,
+   "Longitude": 17.3518583
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.8051666,
+   "Longitude": 17.3501234
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.8140092,
+   "Longitude": 17.4101377
+ },
+ {
+   "Name": "Stanica Wodna PTTK",
+   "Object type": "camp_site",
+   "Latitude": 53.216043,
+   "Longitude": 15.7616135
+ },
+ {
+   "Name": "Camping nr 64",
+   "Object type": "caravan_site",
+   "Latitude": 53.3697403,
+   "Longitude": 16.5037013
+ },
+ {
+   "Name": "Stanica harcerska w Białym Brzegu",
+   "Object type": "caravan_site",
+   "Latitude": 51.0322894,
+   "Longitude": 19.8752919
+ },
+ {
+   "Name": "Campingplatz Willa Zakopane",
+   "Object type": "camp_site",
+   "Latitude": 49.3015956,
+   "Longitude": 19.9903412
+ },
+ {
+   "Name": "Jawor Domki letniskowe",
+   "Object type": "camp_site",
+   "Latitude": 52.860917,
+   "Longitude": 19.3357759
+ },
+ {
+   "Name": "Pole biwakowe nad Jeziorem Zelwa",
+   "Object type": "camp_site",
+   "Latitude": 54.0240833,
+   "Longitude": 23.4107051
+ },
+ {
+   "Name": "Pole biwakowe nad Jeziorem Pomorze",
+   "Object type": "camp_site",
+   "Latitude": 54.0280389,
+   "Longitude": 23.4118873
+ },
+ {
+   "Name": "U Prezesa",
+   "Object type": "camp_site",
+   "Latitude": 49.2254167,
+   "Longitude": 22.6188522
+ },
+ {
+   "Name": "Dzikie pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 49.3697516,
+   "Longitude": 22.4476502
+ },
+ {
+   "Name": "Kokoszka",
+   "Object type": "camp_site",
+   "Latitude": 53.8384667,
+   "Longitude": 17.4939278
+ },
+ {
+   "Name": "Camper",
+   "Object type": "caravan_site",
+   "Latitude": 50.0273028,
+   "Longitude": 19.1992497
+ },
+ {
+   "Name": "Elcamp Stellplatz",
+   "Object type": "caravan_site",
+   "Latitude": 50.0346068,
+   "Longitude": 19.8767468
+ },
+ {
+   "Name": "Sagma 2",
+   "Object type": "caravan_site",
+   "Latitude": 54.2117164,
+   "Longitude": 15.7355093
+ },
+ {
+   "Name": "jezioro Głębokie",
+   "Object type": "caravan_site",
+   "Latitude": 54.2276324,
+   "Longitude": 18.3148203
+ },
+ {
+   "Name": "Robski Ognisko 1",
+   "Object type": "camp_site",
+   "Latitude": 51.0307464,
+   "Longitude": 21.0244677
+ },
+ {
+   "Name": "Bob",
+   "Object type": "camp_site",
+   "Latitude": 51.0014887,
+   "Longitude": 21.037724
+ },
+ {
+   "Name": "Parking tir",
+   "Object type": "caravan_site",
+   "Latitude": 52.1723358,
+   "Longitude": 18.5698822
+ },
+ {
+   "Name": "Eko-Land",
+   "Object type": "camp_site",
+   "Latitude": 54.071012,
+   "Longitude": 16.2132848
+ },
+ {
+   "Name": "Nad jeziorem Czarnym",
+   "Object type": "camp_site",
+   "Latitude": 54.0977038,
+   "Longitude": 16.1819141
+ },
+ {
+   "Name": "Camping NA GRANICY nr 125",
+   "Object type": "camp_site",
+   "Latitude": 54.2620711,
+   "Longitude": 16.0739251
+ },
+ {
+   "Name": "Camp9 nature Campground Poland",
+   "Object type": "camp_site",
+   "Latitude": 50.4163499,
+   "Longitude": 18.8149581
+ },
+ {
+   "Name": "pole namiotowe PPN",
+   "Object type": "camp_site",
+   "Latitude": 51.4888676,
+   "Longitude": 23.1671436
+ },
+ {
+   "Name": "Camping nr 220",
+   "Object type": "camp_site",
+   "Latitude": 54.3204814,
+   "Longitude": 22.3374051
+ },
+ {
+   "Name": "Mrówkoraj",
+   "Object type": "camp_site",
+   "Latitude": 52.497031,
+   "Longitude": 18.1305171
+ },
+ {
+   "Name": "Akwen Marina Czerwonak",
+   "Object type": "camp_site",
+   "Latitude": 52.4652611,
+   "Longitude": 16.9774506
+ },
+ {
+   "Name": "Barkowice Mokre",
+   "Object type": "camp_site",
+   "Latitude": 51.4078589,
+   "Longitude": 19.8772365
+ },
+ {
+   "Name": "PHU Stanica Wodna Ośrodek Sportowo - Turystyczny",
+   "Object type": "caravan_site",
+   "Latitude": 53.7044055,
+   "Longitude": 21.3822778
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "caravan_site",
+   "Latitude": 54.0622754,
+   "Longitude": 14.9425536
+ },
+ {
+   "Name": "Camping Pielaka",
+   "Object type": "camp_site",
+   "Latitude": 51.3313551,
+   "Longitude": 21.9586641
+ },
+ {
+   "Name": "Pole namiotowe Wyderka",
+   "Object type": "camp_site",
+   "Latitude": 51.4765539,
+   "Longitude": 23.0036041
+ },
+ {
+   "Name": "Kamping",
+   "Object type": "camp_site",
+   "Latitude": 54.3126159,
+   "Longitude": 22.9563612
+ },
+ {
+   "Name": "Bar u Marka",
+   "Object type": "caravan_site",
+   "Latitude": 51.1834128,
+   "Longitude": 23.7274705
+ },
+ {
+   "Name": "Camping Hyża",
+   "Object type": "camp_site",
+   "Latitude": 49.4706205,
+   "Longitude": 21.2951576
+ },
+ {
+   "Name": "ROM-TUR pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 52.5198575,
+   "Longitude": 23.3507761
+ },
+ {
+   "Name": "Pole wypoczynkowe",
+   "Object type": "caravan_site",
+   "Latitude": 51.4454322,
+   "Longitude": 23.1219836
+ },
+ {
+   "Name": "Behütum",
+   "Object type": "camp_site",
+   "Latitude": 51.2934151,
+   "Longitude": 15.0195178
+ },
+ {
+   "Name": "Camping Nr 31",
+   "Object type": "camp_site",
+   "Latitude": 52.8416901,
+   "Longitude": 17.7246658
+ },
+ {
+   "Name": "Uroczysko nad Rowem",
+   "Object type": "camp_site",
+   "Latitude": 52.8186102,
+   "Longitude": 16.2632713
+ },
+ {
+   "Name": "Teście",
+   "Object type": "camp_site",
+   "Latitude": 52.2740438,
+   "Longitude": 20.45737
+ },
+ {
+   "Name": "Rybakówka",
+   "Object type": "camp_site",
+   "Latitude": 53.7700919,
+   "Longitude": 17.2190765
+ },
+ {
+   "Name": "bobrowa",
+   "Object type": "camp_site",
+   "Latitude": 51.928665,
+   "Longitude": 19.928567
+ },
+ {
+   "Name": "Przystań w Gnojnie (OSiR Konstantynów)",
+   "Object type": "camp_site",
+   "Latitude": 52.274219,
+   "Longitude": 23.1479731
+ },
+ {
+   "Name": "Mosir Camping",
+   "Object type": "camp_site",
+   "Latitude": 53.1798292,
+   "Longitude": 22.0879011
+ },
+ {
+   "Name": "Agroturystyka \"Sośniaki\"",
+   "Object type": "camp_site",
+   "Latitude": 53.4928943,
+   "Longitude": 22.7190425
+ },
+ {
+   "Name": "Pole namiotowe Złoty Różek",
+   "Object type": "camp_site",
+   "Latitude": 53.7262171,
+   "Longitude": 19.5926639
+ },
+ {
+   "Name": "EkoMarina Siemiany",
+   "Object type": "camp_site",
+   "Latitude": 53.7398058,
+   "Longitude": 19.5864709
+ },
+ {
+   "Name": "Pole namiotowe Heep",
+   "Object type": "camp_site",
+   "Latitude": 54.8164118,
+   "Longitude": 17.9656698
+ },
+ {
+   "Name": "Ekolandia",
+   "Object type": "camp_site",
+   "Latitude": 54.1096897,
+   "Longitude": 20.099506
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.8999474,
+   "Longitude": 23.2349869
+ },
+ {
+   "Name": "Camping",
+   "Object type": "caravan_site",
+   "Latitude": 53.8999222,
+   "Longitude": 23.234708
+ },
+ {
+   "Name": "Pole Namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 54.2446558,
+   "Longitude": 22.7992048
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.2140329,
+   "Longitude": 22.5518004
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.2134723,
+   "Longitude": 22.5494562
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 54.186877,
+   "Longitude": 21.7669331
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 54.2797726,
+   "Longitude": 20.4923265
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 54.3207158,
+   "Longitude": 22.3385234
+ },
+ {
+   "Name": "Camping Latarnik",
+   "Object type": "camp_site",
+   "Latitude": 53.6984332,
+   "Longitude": 14.5442961
+ },
+ {
+   "Name": "Kompleks rekreacyjno sportowy",
+   "Object type": "camp_site",
+   "Latitude": 54.2181761,
+   "Longitude": 21.5771171
+ },
+ {
+   "Name": "Port i pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 54.1764328,
+   "Longitude": 21.8102102
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Karina",
+   "Object type": "camp_site",
+   "Latitude": 52.4945034,
+   "Longitude": 15.7469459
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Wodnik",
+   "Object type": "camp_site",
+   "Latitude": 52.4874176,
+   "Longitude": 15.7600061
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Jeziorak",
+   "Object type": "camp_site",
+   "Latitude": 52.4876017,
+   "Longitude": 15.7635014
+ },
+ {
+   "Name": "Gospodarstwo Tęcza",
+   "Object type": "camp_site",
+   "Latitude": 52.4581049,
+   "Longitude": 15.7832773
+ },
+ {
+   "Name": "Gospodarstwo \"Na Legach\"",
+   "Object type": "camp_site",
+   "Latitude": 52.9016573,
+   "Longitude": 16.0744567
+ },
+ {
+   "Name": "Baza namiotowa Jaworzyna",
+   "Object type": "camp_site",
+   "Latitude": 49.5943759,
+   "Longitude": 19.4155998
+ },
+ {
+   "Name": "Pole namiotowe nad Lemiętem",
+   "Object type": "caravan_site",
+   "Latitude": 54.1584251,
+   "Longitude": 21.8231509
+ },
+ {
+   "Name": "Miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 52.6088028,
+   "Longitude": 16.0004558
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 53.3892476,
+   "Longitude": 15.4917612
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "caravan_site",
+   "Latitude": 49.5608682,
+   "Longitude": 19.277099
+ },
+ {
+   "Name": "Pole namiotowe. Chatka harcerska",
+   "Object type": "caravan_site",
+   "Latitude": 49.6358069,
+   "Longitude": 19.3028149
+ },
+ {
+   "Name": "SurfCamp Gardno",
+   "Object type": "camp_site",
+   "Latitude": 54.6337259,
+   "Longitude": 17.1392287
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 53.5932496,
+   "Longitude": 16.4800858
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 53.5932408,
+   "Longitude": 16.483237
+ },
+ {
+   "Name": "Kajlandia",
+   "Object type": "camp_site",
+   "Latitude": 54.2323208,
+   "Longitude": 17.751531
+ },
+ {
+   "Name": "Camping Binduga nr 69",
+   "Object type": "camp_site",
+   "Latitude": 53.5508727,
+   "Longitude": 20.7965141
+ },
+ {
+   "Name": "Binduga",
+   "Object type": "caravan_site",
+   "Latitude": 53.6278555,
+   "Longitude": 21.5460355
+ },
+ {
+   "Name": "Jędrkowa Przystań",
+   "Object type": "camp_site",
+   "Latitude": 53.5250762,
+   "Longitude": 15.8027733
+ },
+ {
+   "Name": "Jędrkowe Zakole",
+   "Object type": "camp_site",
+   "Latitude": 53.4981513,
+   "Longitude": 15.811833
+ },
+ {
+   "Name": "Pole namiotowe Rzęśnica",
+   "Object type": "camp_site",
+   "Latitude": 53.5322551,
+   "Longitude": 15.944791
+ },
+ {
+   "Name": "Pole namiotowe Rzepowo",
+   "Object type": "camp_site",
+   "Latitude": 53.5892516,
+   "Longitude": 16.0982457
+ },
+ {
+   "Name": "Pole namiotowe Złocieniec",
+   "Object type": "camp_site",
+   "Latitude": 53.5390394,
+   "Longitude": 16.0128472
+ },
+ {
+   "Name": "Camping Ciechocinek ***",
+   "Object type": "camp_site",
+   "Latitude": 52.879954,
+   "Longitude": 18.7822838
+ },
+ {
+   "Name": "Trzy sosny",
+   "Object type": "camp_site",
+   "Latitude": 53.7110769,
+   "Longitude": 21.7086782
+ },
+ {
+   "Name": "Domki nad rozlewiskiem",
+   "Object type": "camp_site",
+   "Latitude": 53.8507159,
+   "Longitude": 15.2443805
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 53.2083495,
+   "Longitude": 15.3187268
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 53.1983584,
+   "Longitude": 15.2870929
+ },
+ {
+   "Name": "Perła Sanu",
+   "Object type": "camp_site",
+   "Latitude": 49.765067,
+   "Longitude": 22.6109478
+ },
+ {
+   "Name": "Eden",
+   "Object type": "caravan_site",
+   "Latitude": 49.7886362,
+   "Longitude": 19.2010091
+ },
+ {
+   "Name": "Harcerska Baza Obozowa ZHP Bytom",
+   "Object type": "camp_site",
+   "Latitude": 50.6118317,
+   "Longitude": 18.733358
+ },
+ {
+   "Name": "Stanica Obozowa ZHP Piekary Śląskie",
+   "Object type": "camp_site",
+   "Latitude": 50.6115993,
+   "Longitude": 18.7011863
+ },
+ {
+   "Name": "Domki w lesie",
+   "Object type": "camp_site",
+   "Latitude": 49.389058,
+   "Longitude": 21.0066848
+ },
+ {
+   "Name": "Brawo",
+   "Object type": "caravan_site",
+   "Latitude": 54.2567012,
+   "Longitude": 16.0537846
+ },
+ {
+   "Name": "Camping Pod Żaglem StronaTrasa",
+   "Object type": "camp_site",
+   "Latitude": 54.2503988,
+   "Longitude": 16.0639489
+ },
+ {
+   "Name": "Jezioro Juchacz",
+   "Object type": "camp_site",
+   "Latitude": 53.4410621,
+   "Longitude": 17.3683954
+ },
+ {
+   "Name": "Marina Lubczyna",
+   "Object type": "camp_site",
+   "Latitude": 53.5042241,
+   "Longitude": 14.7009309
+ },
+ {
+   "Name": "Kemping Gruba Ryba",
+   "Object type": "camp_site",
+   "Latitude": 53.649993,
+   "Longitude": 14.6212272
+ },
+ {
+   "Name": "Stanica Leśna Wronczyn",
+   "Object type": "camp_site",
+   "Latitude": 52.5085872,
+   "Longitude": 17.1997347
+ },
+ {
+   "Name": "Pole namiotowe w Lubczy",
+   "Object type": "camp_site",
+   "Latitude": 53.3498634,
+   "Longitude": 17.3671683
+ },
+ {
+   "Name": "Ośrodek wczasowy Kormoran",
+   "Object type": "caravan_site",
+   "Latitude": 52.2192945,
+   "Longitude": 15.3933647
+ },
+ {
+   "Name": "Biwak Nad Zatoczką",
+   "Object type": "camp_site",
+   "Latitude": 53.3434955,
+   "Longitude": 16.5703602
+ },
+ {
+   "Name": "Koczowisko",
+   "Object type": "camp_site",
+   "Latitude": 53.9100722,
+   "Longitude": 21.5103469
+ },
+ {
+   "Name": "O.W. \"Nad Obrą\"",
+   "Object type": "camp_site",
+   "Latitude": 52.4566201,
+   "Longitude": 15.6215327
+ },
+ {
+   "Name": "Prywatne pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 54.5728973,
+   "Longitude": 16.8600664
+ },
+ {
+   "Name": "Sektor leśny",
+   "Object type": "camp_site",
+   "Latitude": 53.9216231,
+   "Longitude": 14.4336148
+ },
+ {
+   "Name": "Maya",
+   "Object type": "camp_site",
+   "Latitude": 52.4652892,
+   "Longitude": 15.5017313
+ },
+ {
+   "Name": "Ekoland",
+   "Object type": "camp_site",
+   "Latitude": 53.5888867,
+   "Longitude": 16.0158054
+ },
+ {
+   "Name": "Domki kempingowe Mewa",
+   "Object type": "camp_site",
+   "Latitude": 54.2138931,
+   "Longitude": 15.7474706
+ },
+ {
+   "Name": "Przystań nad jeziorem Białym",
+   "Object type": "camp_site",
+   "Latitude": 54.0445019,
+   "Longitude": 17.9581754
+ },
+ {
+   "Name": "Noclegi u Stacha",
+   "Object type": "camp_site",
+   "Latitude": 53.2159532,
+   "Longitude": 23.7973393
+ },
+ {
+   "Name": "LOK",
+   "Object type": "camp_site",
+   "Latitude": 52.7719766,
+   "Longitude": 17.7609444
+ },
+ {
+   "Name": "U Dolnych",
+   "Object type": "camp_site",
+   "Latitude": 53.8508468,
+   "Longitude": 17.4347642
+ },
+ {
+   "Name": "Agrotyrajscy",
+   "Object type": "caravan_site",
+   "Latitude": 52.4964277,
+   "Longitude": 19.5054564
+ },
+ {
+   "Name": "Pod Sosnami",
+   "Object type": "caravan_site",
+   "Latitude": 53.6922521,
+   "Longitude": 20.0802114
+ },
+ {
+   "Name": "Sielski Hel",
+   "Object type": "camp_site",
+   "Latitude": 54.6019094,
+   "Longitude": 18.8130173
+ },
+ {
+   "Name": "Kemping Hel",
+   "Object type": "camp_site",
+   "Latitude": 54.6106562,
+   "Longitude": 18.7999853
+ },
+ {
+   "Name": "Kamperplac",
+   "Object type": "caravan_site",
+   "Latitude": 50.1551949,
+   "Longitude": 18.6881958
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 50.3820134,
+   "Longitude": 19.6410167
+ },
+ {
+   "Name": "Kunice",
+   "Object type": "camp_site",
+   "Latitude": 51.2180202,
+   "Longitude": 16.2667726
+ },
+ {
+   "Name": "Kemp Tatry",
+   "Object type": "camp_site",
+   "Latitude": 50.7885045,
+   "Longitude": 15.7039977
+ },
+ {
+   "Name": "Korbielów",
+   "Object type": "caravan_site",
+   "Latitude": 49.5710168,
+   "Longitude": 19.3374393
+ },
+ {
+   "Name": "Stanica Wodna Kietlice nad Mamrami",
+   "Object type": "caravan_site",
+   "Latitude": 54.1578123,
+   "Longitude": 21.657563
+ },
+ {
+   "Name": "Szarejkowe Wzgorza",
+   "Object type": "camp_site",
+   "Latitude": 54.1287359,
+   "Longitude": 22.4089241
+ },
+ {
+   "Name": "Agrokeya Chorzępowo",
+   "Object type": "camp_site",
+   "Latitude": 52.6386053,
+   "Longitude": 15.9975915
+ },
+ {
+   "Name": "Astur",
+   "Object type": "camp_site",
+   "Latitude": 51.4937789,
+   "Longitude": 23.5197946
+ },
+ {
+   "Name": "Plusk",
+   "Object type": "caravan_site",
+   "Latitude": 53.2194412,
+   "Longitude": 15.7726
+ },
+ {
+   "Name": "Pole namiotowe ZHP Lubliniec",
+   "Object type": "camp_site",
+   "Latitude": 50.593722,
+   "Longitude": 18.7095194
+ },
+ {
+   "Name": "Katy 17",
+   "Object type": "camp_site",
+   "Latitude": 49.7661704,
+   "Longitude": 20.5866841
+ },
+ {
+   "Name": "Harcerska Baza Obozowa „Pilica”",
+   "Object type": "camp_site",
+   "Latitude": 51.3241152,
+   "Longitude": 19.8997075
+ },
+ {
+   "Name": "Małe Dolomity",
+   "Object type": "camp_site",
+   "Latitude": 50.5842291,
+   "Longitude": 19.499804
+ },
+ {
+   "Name": "Biwak Ranczo",
+   "Object type": "caravan_site",
+   "Latitude": 50.3996514,
+   "Longitude": 22.9541065
+ },
+ {
+   "Name": "Biwak Flisz",
+   "Object type": "caravan_site",
+   "Latitude": 54.1071324,
+   "Longitude": 17.7151392
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 51.5064787,
+   "Longitude": 17.2045898
+ },
+ {
+   "Name": "Camping Family Bronowice",
+   "Object type": "camp_site",
+   "Latitude": 51.5548962,
+   "Longitude": 14.770681
+ },
+ {
+   "Name": "Lena CamperPark",
+   "Object type": "camp_site",
+   "Latitude": 51.5596172,
+   "Longitude": 14.7624224
+ },
+ {
+   "Name": "Ośrodek wypoczynkowy Proszeczek",
+   "Object type": "camp_site",
+   "Latitude": 54.2078265,
+   "Longitude": 15.7229545
+ },
+ {
+   "Name": "Grabskie Sioło",
+   "Object type": "caravan_site",
+   "Latitude": 52.0118896,
+   "Longitude": 20.2103276
+ },
+ {
+   "Name": "Moderloch",
+   "Object type": "camp_site",
+   "Latitude": 53.1098686,
+   "Longitude": 17.8412608
+ },
+ {
+   "Name": "Noclegi \"Kotwica\"",
+   "Object type": "camp_site",
+   "Latitude": 54.6322033,
+   "Longitude": 18.5101755
+ },
+ {
+   "Name": "U Julii",
+   "Object type": "camp_site",
+   "Latitude": 49.8434418,
+   "Longitude": 22.5111033
+ },
+ {
+   "Name": "Róża Wiatrów Camping nr 66",
+   "Object type": "camp_site",
+   "Latitude": 54.4277931,
+   "Longitude": 16.3734688
+ },
+ {
+   "Name": "Ośrodek szkoleniowo-wypoczynkowy ZHR",
+   "Object type": "camp_site",
+   "Latitude": 53.5712097,
+   "Longitude": 20.4753079
+ },
+ {
+   "Name": "Marigold",
+   "Object type": "caravan_site",
+   "Latitude": 52.90127,
+   "Longitude": 14.4175763
+ },
+ {
+   "Name": "Przystań Drawa",
+   "Object type": "camp_site",
+   "Latitude": 52.9284107,
+   "Longitude": 15.9719919
+ },
+ {
+   "Name": "Útulňa v Ruskom sedle",
+   "Object type": "camp_site",
+   "Latitude": 49.1438965,
+   "Longitude": 22.3334337
+ },
+ {
+   "Name": "Polaris",
+   "Object type": "camp_site",
+   "Latitude": 54.7688426,
+   "Longitude": 18.4814313
+ },
+ {
+   "Name": "Camping Przywidz",
+   "Object type": "camp_site",
+   "Latitude": 54.1937937,
+   "Longitude": 18.3229726
+ },
+ {
+   "Name": "Ranczo w Dolinie",
+   "Object type": "camp_site",
+   "Latitude": 53.6320903,
+   "Longitude": 16.0137429
+ },
+ {
+   "Name": "PTTK Stanica wodna",
+   "Object type": "camp_site",
+   "Latitude": 53.3128671,
+   "Longitude": 19.4521461
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy \"Krecik\"",
+   "Object type": "camp_site",
+   "Latitude": 51.0257639,
+   "Longitude": 18.9374259
+ },
+ {
+   "Name": "Camping zum Teich",
+   "Object type": "camp_site",
+   "Latitude": 54.1177463,
+   "Longitude": 21.7966152
+ },
+ {
+   "Name": "AGRO Camping",
+   "Object type": "camp_site",
+   "Latitude": 54.6411747,
+   "Longitude": 18.1311551
+ },
+ {
+   "Name": "AGRO Camping",
+   "Object type": "camp_site",
+   "Latitude": 54.6411747,
+   "Longitude": 18.1311551
+ },
+ {
+   "Name": "Private \"agrotourism\" camp site",
+   "Object type": "camp_site",
+   "Latitude": 50.9426407,
+   "Longitude": 21.1617519
+ },
+ {
+   "Name": "Camping",
+   "Object type": "camp_site",
+   "Latitude": 54.3514872,
+   "Longitude": 19.2238535
+ },
+ {
+   "Name": "Family Camp nr. 2",
+   "Object type": "camp_site",
+   "Latitude": 52.6118918,
+   "Longitude": 14.662814
+ },
+ {
+   "Name": "Karpik",
+   "Object type": "camp_site",
+   "Latitude": 53.318984,
+   "Longitude": 15.7819735
+ },
+ {
+   "Name": "Pole Namiotowe Pszczółka Maja",
+   "Object type": "camp_site",
+   "Latitude": 52.5519593,
+   "Longitude": 19.6605153
+ },
+ {
+   "Name": "Zum Teich Naturtoristik",
+   "Object type": "camp_site",
+   "Latitude": 54.1174538,
+   "Longitude": 21.7967417
+ },
+ {
+   "Name": "Łowisko specjalne Gruba Rybka",
+   "Object type": "camp_site",
+   "Latitude": 54.1048933,
+   "Longitude": 15.9377644
+ },
+ {
+   "Name": "Jezioro Pyrzyckie",
+   "Object type": "camp_site",
+   "Latitude": 53.1776584,
+   "Longitude": 15.1825703
+ },
+ {
+   "Name": "Camp Nowe Guty 60",
+   "Object type": "camp_site",
+   "Latitude": 53.779466,
+   "Longitude": 21.8641772
+ },
+ {
+   "Name": "Kamp. przystań kajakowa Stare Króle",
+   "Object type": "camp_site",
+   "Latitude": 50.4346352,
+   "Longitude": 22.7595437
+ },
+ {
+   "Name": "Biwak Lednica",
+   "Object type": "camp_site",
+   "Latitude": 52.5561256,
+   "Longitude": 17.3782409
+ },
+ {
+   "Name": "Green farm Cottage Campsite",
+   "Object type": "camp_site",
+   "Latitude": 51.9951664,
+   "Longitude": 16.9786788
+ },
+ {
+   "Name": "Camping No. 9",
+   "Object type": "camp_site",
+   "Latitude": 53.6873585,
+   "Longitude": 21.547676
+ },
+ {
+   "Name": "Camping Bobolin",
+   "Object type": "camp_site",
+   "Latitude": 54.395931,
+   "Longitude": 16.3445755
+ },
+ {
+   "Name": "Kotwica Morska",
+   "Object type": "camp_site",
+   "Latitude": 54.054356,
+   "Longitude": 14.923189
+ },
+ {
+   "Name": "Ośrodek STER",
+   "Object type": "camp_site",
+   "Latitude": 51.5023921,
+   "Longitude": 23.5441783
+ },
+ {
+   "Name": "Emilex",
+   "Object type": "camp_site",
+   "Latitude": 53.2322086,
+   "Longitude": 15.7541777
+ },
+ {
+   "Name": "Osada",
+   "Object type": "camp_site",
+   "Latitude": 54.0904192,
+   "Longitude": 15.0507633
+ },
+ {
+   "Name": "Ginter Park",
+   "Object type": "caravan_site",
+   "Latitude": 54.766295,
+   "Longitude": 17.5895738
+ },
+ {
+   "Name": "Biwak",
+   "Object type": "camp_site",
+   "Latitude": 53.4114016,
+   "Longitude": 15.8931657
+ },
+ {
+   "Name": "Biwak",
+   "Object type": "camp_site",
+   "Latitude": 53.2721911,
+   "Longitude": 15.7692359
+ },
+ {
+   "Name": "Biwak",
+   "Object type": "camp_site",
+   "Latitude": 53.2334768,
+   "Longitude": 15.7711336
+ },
+ {
+   "Name": "Camping",
+   "Object type": "camp_site",
+   "Latitude": 53.3145423,
+   "Longitude": 15.7742444
+ },
+ {
+   "Name": "Sosenka",
+   "Object type": "camp_site",
+   "Latitude": 51.99839919,
+   "Longitude": 20.22453162
+ },
+ {
+   "Name": "Biały Dom",
+   "Object type": "camp_site",
+   "Latitude": 54.03568486,
+   "Longitude": 14.802092
+ },
+ {
+   "Name": "Clepardia",
+   "Object type": "camp_site",
+   "Latitude": 50.09484717,
+   "Longitude": 19.94156065
+ },
+ {
+   "Name": "Korona",
+   "Object type": "camp_site",
+   "Latitude": 49.96342969,
+   "Longitude": 19.89070338
+ },
+ {
+   "Name": "Leśna",
+   "Object type": "camp_site",
+   "Latitude": 53.5986905,
+   "Longitude": 19.54841852
+ },
+ {
+   "Name": "Dywity",
+   "Object type": "camp_site",
+   "Latitude": 53.8325147,
+   "Longitude": 20.41880632
+ },
+ {
+   "Name": "OSiR Racibórz",
+   "Object type": "camp_site",
+   "Latitude": 50.09312889,
+   "Longitude": 18.26179976
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 50.46502329,
+   "Longitude": 18.90934034
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy \"Woświn\" - Halina Kwiatkowska",
+   "Object type": "caravan_site",
+   "Latitude": 53.5184238,
+   "Longitude": 15.44460102
+ },
+ {
+   "Name": "Pole Namiotowe \"BÓBR\"",
+   "Object type": "camp_site",
+   "Latitude": 53.48256284,
+   "Longitude": 22.64540191
+ },
+ {
+   "Name": "Camping Topola",
+   "Object type": "camp_site",
+   "Latitude": 50.50702426,
+   "Longitude": 16.92161419
+ },
+ {
+   "Name": "Am Dreiländereck",
+   "Object type": "caravan_site",
+   "Latitude": 50.89419651,
+   "Longitude": 14.82219602
+ },
+ {
+   "Name": "Pole kempingowe Aga",
+   "Object type": "camp_site",
+   "Latitude": 54.80731935,
+   "Longitude": 18.36998069
+ },
+ {
+   "Name": "Camping Maszoperia",
+   "Object type": "camp_site",
+   "Latitude": 54.71520372,
+   "Longitude": 18.63327095
+ },
+ {
+   "Name": "Rancho Oland",
+   "Object type": "camp_site",
+   "Latitude": 54.81745821,
+   "Longitude": 18.34780725
+ },
+ {
+   "Name": "ośrodek wypoczynkowy",
+   "Object type": "camp_site",
+   "Latitude": 53.81946343,
+   "Longitude": 19.8230871
+ },
+ {
+   "Name": "Baza Namiotowa Przysłóp Potócki",
+   "Object type": "camp_site",
+   "Latitude": 49.4426214,
+   "Longitude": 19.04410084
+ },
+ {
+   "Name": "Ondraszek",
+   "Object type": "caravan_site",
+   "Latitude": 49.77981119,
+   "Longitude": 19.05393172
+ },
+ {
+   "Name": "Kaszub",
+   "Object type": "camp_site",
+   "Latitude": 54.82801271,
+   "Longitude": 18.07836821
+ },
+ {
+   "Name": "Pole namiotowe \"Leśne\"",
+   "Object type": "camp_site",
+   "Latitude": 54.82885364,
+   "Longitude": 18.06918073
+ },
+ {
+   "Name": "Camping rodzinny LAGUNA",
+   "Object type": "camp_site",
+   "Latitude": 54.82837223,
+   "Longitude": 18.09092476
+ },
+ {
+   "Name": "Ośrodek wypoczynkowy Brzeźnica",
+   "Object type": "camp_site",
+   "Latitude": 50.51999653,
+   "Longitude": 18.71460833
+ },
+ {
+   "Name": "Neiße-Camp",
+   "Object type": "camp_site",
+   "Latitude": 51.3277297,
+   "Longitude": 14.98242017
+ },
+ {
+   "Name": "OSiR",
+   "Object type": "camp_site",
+   "Latitude": 54.58054035,
+   "Longitude": 16.87376738
+ },
+ {
+   "Name": "9up",
+   "Object type": "camp_site",
+   "Latitude": 50.87108018,
+   "Longitude": 15.87967951
+ },
+ {
+   "Name": "OW Biały Bór",
+   "Object type": "camp_site",
+   "Latitude": 53.90420076,
+   "Longitude": 16.83006895
+ },
+ {
+   "Name": "Camping nr 24",
+   "Object type": "camp_site",
+   "Latitude": 53.92151209,
+   "Longitude": 14.43461747
+ },
+ {
+   "Name": "Camping Pomona",
+   "Object type": "camp_site",
+   "Latitude": 54.09179735,
+   "Longitude": 15.06691639
+ },
+ {
+   "Name": "Arturówek Dom Wycieczkowy",
+   "Object type": "caravan_site",
+   "Latitude": 51.82387266,
+   "Longitude": 19.47204161
+ },
+ {
+   "Name": "Zajazd \"Majawa\" Camping 123",
+   "Object type": "camp_site",
+   "Latitude": 52.21344825,
+   "Longitude": 20.96455643
+ },
+ {
+   "Name": "Stellplatz am Hafen",
+   "Object type": "caravan_site",
+   "Latitude": 53.7396983,
+   "Longitude": 14.26988922
+ },
+ {
+   "Name": "Mono Tennis Camp",
+   "Object type": "caravan_site",
+   "Latitude": 50.4759213,
+   "Longitude": 22.48145377
+ },
+ {
+   "Name": "Camping nr 61",
+   "Object type": "camp_site",
+   "Latitude": 54.1530867,
+   "Longitude": 19.39398708
+ },
+ {
+   "Name": "Ośrodek Rekreacyjno-Wypoczynkowy \"Duet\"",
+   "Object type": "camp_site",
+   "Latitude": 50.71987539,
+   "Longitude": 23.23909061
+ },
+ {
+   "Name": "HELKAMP",
+   "Object type": "camp_site",
+   "Latitude": 54.59945306,
+   "Longitude": 18.80644893
+ },
+ {
+   "Name": "HELKAMP",
+   "Object type": "caravan_site",
+   "Latitude": 54.5988441,
+   "Longitude": 18.80648373
+ },
+ {
+   "Name": "Camping nr 62",
+   "Object type": "camp_site",
+   "Latitude": 53.81605566,
+   "Longitude": 22.35365677
+ },
+ {
+   "Name": "Pole namiotowe Brandysówka",
+   "Object type": "camp_site",
+   "Latitude": 50.17241703,
+   "Longitude": 19.74092328
+ },
+ {
+   "Name": "Pole namiotowe Hajstra",
+   "Object type": "camp_site",
+   "Latitude": 49.45488527,
+   "Longitude": 21.53846205
+ },
+ {
+   "Name": "Biały Grąd",
+   "Object type": "camp_site",
+   "Latitude": 53.42881386,
+   "Longitude": 22.53361651
+ },
+ {
+   "Name": "Ośrodek Harcerski \"Wilczysko\"",
+   "Object type": "camp_site",
+   "Latitude": 49.7613308,
+   "Longitude": 19.11560055
+ },
+ {
+   "Name": "Wiatrow",
+   "Object type": "camp_site",
+   "Latitude": 54.80601451,
+   "Longitude": 18.38483202
+ },
+ {
+   "Name": "Alexa",
+   "Object type": "camp_site",
+   "Latitude": 54.80863128,
+   "Longitude": 18.37574527
+ },
+ {
+   "Name": "Pole namiotowe Błękitna Ostryga",
+   "Object type": "camp_site",
+   "Latitude": 54.70379054,
+   "Longitude": 18.65953863
+ },
+ {
+   "Name": "Campingplatz am Oderstrom",
+   "Object type": "camp_site",
+   "Latitude": 53.24200963,
+   "Longitude": 14.42680331
+ },
+ {
+   "Name": "Sokół",
+   "Object type": "camp_site",
+   "Latitude": 53.69992172,
+   "Longitude": 19.94654069
+ },
+ {
+   "Name": "Camping nr 69 ORLINEK",
+   "Object type": "camp_site",
+   "Latitude": 54.34467752,
+   "Longitude": 18.87237771
+ },
+ {
+   "Name": "Pole Namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 54.25176978,
+   "Longitude": 18.11650406
+ },
+ {
+   "Name": "Camping Nr 71",
+   "Object type": "camp_site",
+   "Latitude": 54.38025697,
+   "Longitude": 19.42436563
+ },
+ {
+   "Name": "Pole namiotowe Gródek",
+   "Object type": "camp_site",
+   "Latitude": 49.74882147,
+   "Longitude": 20.73106042
+ },
+ {
+   "Name": "Pole Namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 49.53704244,
+   "Longitude": 19.23468429
+ },
+ {
+   "Name": "Ośrodek Łukcze",
+   "Object type": "camp_site",
+   "Latitude": 51.39882076,
+   "Longitude": 22.96968466
+ },
+ {
+   "Name": "Łukcze",
+   "Object type": "camp_site",
+   "Latitude": 51.3989386,
+   "Longitude": 22.97022867
+ },
+ {
+   "Name": "Stanica Zamojskiego Hufca ZHP",
+   "Object type": "camp_site",
+   "Latitude": 50.45847829,
+   "Longitude": 23.16666525
+ },
+ {
+   "Name": "Camping Dłużek nr 135",
+   "Object type": "camp_site",
+   "Latitude": 53.54157778,
+   "Longitude": 20.67502643
+ },
+ {
+   "Name": "Arkadia",
+   "Object type": "camp_site",
+   "Latitude": 54.52660225,
+   "Longitude": 16.52451889
+ },
+ {
+   "Name": "Krystyna",
+   "Object type": "camp_site",
+   "Latitude": 54.66433582,
+   "Longitude": 17.05933223
+ },
+ {
+   "Name": "Kemping nr 19",
+   "Object type": "camp_site",
+   "Latitude": 54.46170718,
+   "Longitude": 18.55555254
+ },
+ {
+   "Name": "PG Camper Park",
+   "Object type": "caravan_site",
+   "Latitude": 54.37188517,
+   "Longitude": 18.63016873
+ },
+ {
+   "Name": "Eurocamping",
+   "Object type": "caravan_site",
+   "Latitude": 54.09324409,
+   "Longitude": 22.91558536
+ },
+ {
+   "Name": "Camping nr 183",
+   "Object type": "camp_site",
+   "Latitude": 50.43338381,
+   "Longitude": 16.23128867
+ },
+ {
+   "Name": "Stanica wodna PTTK w Nowym Moście",
+   "Object type": "camp_site",
+   "Latitude": 53.73137323,
+   "Longitude": 21.51939431
+ },
+ {
+   "Name": "Baza Pod Ponurą Małpą",
+   "Object type": "caravan_site",
+   "Latitude": 50.82912818,
+   "Longitude": 15.54456179
+ },
+ {
+   "Name": "Auto-Camping Park",
+   "Object type": "camp_site",
+   "Latitude": 50.89582307,
+   "Longitude": 15.74256804
+ },
+ {
+   "Name": "Camping Olza",
+   "Object type": "caravan_site",
+   "Latitude": 49.7349657,
+   "Longitude": 18.62903679
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 51.10821562,
+   "Longitude": 20.35605146
+ },
+ {
+   "Name": "Camping Tramp",
+   "Object type": "camp_site",
+   "Latitude": 53.99699669,
+   "Longitude": 14.64901872
+ },
+ {
+   "Name": "Ośrodek wypoczynkowy „Stepol”",
+   "Object type": "camp_site",
+   "Latitude": 53.31135365,
+   "Longitude": 19.4578492
+ },
+ {
+   "Name": "Relaks",
+   "Object type": "camp_site",
+   "Latitude": 51.59490633,
+   "Longitude": 18.93888421
+ },
+ {
+   "Name": "Camping Bartniki",
+   "Object type": "camp_site",
+   "Latitude": 50.50969851,
+   "Longitude": 16.92577947
+ },
+ {
+   "Name": "Wodnik",
+   "Object type": "camp_site",
+   "Latitude": 54.24062428,
+   "Longitude": 15.86076355
+ },
+ {
+   "Name": "Camping 215",
+   "Object type": "caravan_site",
+   "Latitude": 50.24348597,
+   "Longitude": 19.04870569
+ },
+ {
+   "Name": "PTTK Sorkwity",
+   "Object type": "camp_site",
+   "Latitude": 53.8402142,
+   "Longitude": 21.14289736
+ },
+ {
+   "Name": "Pole Biwakowe Niezapominajka",
+   "Object type": "camp_site",
+   "Latitude": 49.75750923,
+   "Longitude": 22.28905497
+ },
+ {
+   "Name": "Camping Wiking",
+   "Object type": "camp_site",
+   "Latitude": 54.03480132,
+   "Longitude": 14.79962368
+ },
+ {
+   "Name": "Ośrodek Przywodny Nierzym",
+   "Object type": "camp_site",
+   "Latitude": 52.81634343,
+   "Longitude": 15.36654031
+ },
+ {
+   "Name": "Stanica Wodna PTTK",
+   "Object type": "camp_site",
+   "Latitude": 54.01451475,
+   "Longitude": 17.92220106
+ },
+ {
+   "Name": "Tabor pod Krzywą",
+   "Object type": "camp_site",
+   "Latitude": 50.87401275,
+   "Longitude": 15.86289314
+ },
+ {
+   "Name": "Pole namiotowe Jarowiska",
+   "Object type": "camp_site",
+   "Latitude": 49.70593061,
+   "Longitude": 18.90333737
+ },
+ {
+   "Name": "Ośrodek Wypoczynku Sobotnio-Niedzielnego \"Bartek\"",
+   "Object type": "camp_site",
+   "Latitude": 49.72953544,
+   "Longitude": 18.81281635
+ },
+ {
+   "Name": "Baza namiotowa Głuchaczki",
+   "Object type": "camp_site",
+   "Latitude": 49.59697695,
+   "Longitude": 19.4321141
+ },
+ {
+   "Name": "Camping OSW Borki nr 125 (nieczynny)",
+   "Object type": "camp_site",
+   "Latitude": 51.47579221,
+   "Longitude": 19.97719917
+ },
+ {
+   "Name": "Na Cyplu",
+   "Object type": "camp_site",
+   "Latitude": 53.64558883,
+   "Longitude": 19.57737895
+ },
+ {
+   "Name": "Pole Namiotowe \"Orłowa\"",
+   "Object type": "camp_site",
+   "Latitude": 49.70274871,
+   "Longitude": 18.90298211
+ },
+ {
+   "Name": "Agroturystyka",
+   "Object type": "camp_site",
+   "Latitude": 52.27964591,
+   "Longitude": 22.06325655
+ },
+ {
+   "Name": "Camping Ciechocinek ***",
+   "Object type": "camp_site",
+   "Latitude": 52.88006539,
+   "Longitude": 18.78174453
+ },
+ {
+   "Name": "Camping PTTK",
+   "Object type": "camp_site",
+   "Latitude": 49.10822875,
+   "Longitude": 22.65116088
+ },
+ {
+   "Name": "Baza namiotowa Polana Wały",
+   "Object type": "camp_site",
+   "Latitude": 49.63919988,
+   "Longitude": 20.23761978
+ },
+ {
+   "Name": "Mifam",
+   "Object type": "camp_site",
+   "Latitude": 54.66168999,
+   "Longitude": 17.04011489
+ },
+ {
+   "Name": "Pod Krokwią",
+   "Object type": "camp_site",
+   "Latitude": 49.28304228,
+   "Longitude": 19.96757364
+ },
+ {
+   "Name": "Borowinka - Kompleks wypoczynkowo-rekreacyjny",
+   "Object type": "caravan_site",
+   "Latitude": 54.57702841,
+   "Longitude": 16.87741774
+ },
+ {
+   "Name": "CAMPERCAMP",
+   "Object type": "caravan_site",
+   "Latitude": 54.03426955,
+   "Longitude": 23.3728231
+ },
+ {
+   "Name": "Domki letniskowe",
+   "Object type": "camp_site",
+   "Latitude": 50.12979201,
+   "Longitude": 19.2164546
+ },
+ {
+   "Name": "Marina Domki Letniskowe",
+   "Object type": "caravan_site",
+   "Latitude": 54.50735193,
+   "Longitude": 16.47400706
+ },
+ {
+   "Name": "Zasmir Domki Letniskowe",
+   "Object type": "caravan_site",
+   "Latitude": 54.50775198,
+   "Longitude": 16.47202325
+ },
+ {
+   "Name": "Sportowy",
+   "Object type": "caravan_site",
+   "Latitude": 50.8559822,
+   "Longitude": 16.31622189
+ },
+ {
+   "Name": "Camping",
+   "Object type": "camp_site",
+   "Latitude": 54.58632418,
+   "Longitude": 16.87444868
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 50.6418255,
+   "Longitude": 16.4706097
+ },
+ {
+   "Name": "Camping AWS-AZS",
+   "Object type": "camp_site",
+   "Latitude": 51.11592431,
+   "Longitude": 17.09146151
+ },
+ {
+   "Name": "Camping Malta",
+   "Object type": "camp_site",
+   "Latitude": 52.40348975,
+   "Longitude": 16.98310251
+ },
+ {
+   "Name": "Baza Namiotowa na Hali Górowej",
+   "Object type": "camp_site",
+   "Latitude": 49.54994494,
+   "Longitude": 19.30744697
+ },
+ {
+   "Name": "Baza namiotowa na Lubaniu",
+   "Object type": "camp_site",
+   "Latitude": 49.48819899,
+   "Longitude": 20.34068624
+ },
+ {
+   "Name": "Pole biwakowe \"Boberek\"",
+   "Object type": "camp_site",
+   "Latitude": 53.84386889,
+   "Longitude": 18.35702766
+ },
+ {
+   "Name": "Polana rekreacyjna \"Roztoka\"",
+   "Object type": "camp_site",
+   "Latitude": 52.30665301,
+   "Longitude": 20.61188154
+ },
+ {
+   "Name": "Baza namiotowa Madejowe Łoże",
+   "Object type": "camp_site",
+   "Latitude": 49.55878845,
+   "Longitude": 19.72965655
+ },
+ {
+   "Name": "Baza namiotowa Jaworki \"Pod Wysoką\"",
+   "Object type": "camp_site",
+   "Latitude": 49.38905528,
+   "Longitude": 20.55703159
+ },
+ {
+   "Name": "Baza namiotowa Muszyna \"Złockie\"",
+   "Object type": "camp_site",
+   "Latitude": 49.37038391,
+   "Longitude": 20.9007607
+ },
+ {
+   "Name": "Baza namiotowa w Zyndranowej",
+   "Object type": "camp_site",
+   "Latitude": 49.41468617,
+   "Longitude": 21.73552088
+ },
+ {
+   "Name": "Baza namiotowa w Radocynie",
+   "Object type": "camp_site",
+   "Latitude": 49.46605357,
+   "Longitude": 21.37291705
+ },
+ {
+   "Name": "Baza namiotowa w Wisłoczku",
+   "Object type": "camp_site",
+   "Latitude": 49.51249004,
+   "Longitude": 21.88279987
+ },
+ {
+   "Name": "Studencka Baza Namiotowa \"Rabe\"",
+   "Object type": "camp_site",
+   "Latitude": 49.28068324,
+   "Longitude": 22.20629675
+ },
+ {
+   "Name": "Baza namiotowa Łopienka",
+   "Object type": "camp_site",
+   "Latitude": 49.25527176,
+   "Longitude": 22.36295276
+ },
+ {
+   "Name": "Camping \"Pod Topolą\"",
+   "Object type": "caravan_site",
+   "Latitude": 51.30437991,
+   "Longitude": 16.90963963
+ },
+ {
+   "Name": "Camping Meridian",
+   "Object type": "camp_site",
+   "Latitude": 54.20608055,
+   "Longitude": 15.71828102
+ },
+ {
+   "Name": "Kemping Solina-Jawor",
+   "Object type": "caravan_site",
+   "Latitude": 49.39243146,
+   "Longitude": 22.46008923
+ },
+ {
+   "Name": "Wigwam",
+   "Object type": "camp_site",
+   "Latitude": 52.45005413,
+   "Longitude": 17.1641053
+ },
+ {
+   "Name": "Tramp",
+   "Object type": "camp_site",
+   "Latitude": 52.99960745,
+   "Longitude": 18.60673611
+ },
+ {
+   "Name": "Pole Biwakowe Nr 179",
+   "Object type": "caravan_site",
+   "Latitude": 54.38042536,
+   "Longitude": 19.42021496
+ },
+ {
+   "Name": "Harcerska Baza Obozowa \"Nasiczne\" ZHP",
+   "Object type": "camp_site",
+   "Latitude": 49.17429337,
+   "Longitude": 22.60032191
+ },
+ {
+   "Name": "Camp",
+   "Object type": "camp_site",
+   "Latitude": 53.7470575,
+   "Longitude": 17.78540403
+ },
+ {
+   "Name": "Wok",
+   "Object type": "camp_site",
+   "Latitude": 52.17799106,
+   "Longitude": 21.14756348
+ },
+ {
+   "Name": "BoraCamp",
+   "Object type": "camp_site",
+   "Latitude": 53.90714113,
+   "Longitude": 23.21833145
+ },
+ {
+   "Name": "Borowo",
+   "Object type": "camp_site",
+   "Latitude": 54.02206496,
+   "Longitude": 21.80665355
+ },
+ {
+   "Name": "Jawornik",
+   "Object type": "camp_site",
+   "Latitude": 51.04529022,
+   "Longitude": 16.17772446
+ },
+ {
+   "Name": "Jastrzęby",
+   "Object type": "camp_site",
+   "Latitude": 54.0173287,
+   "Longitude": 23.13190484
+ },
+ {
+   "Name": "Pole kempingowe Aga",
+   "Object type": "camp_site",
+   "Latitude": 54.80666593,
+   "Longitude": 18.36984874
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowo-Żeglarski RAFA-JEZIORSKO",
+   "Object type": "camp_site",
+   "Latitude": 51.85234434,
+   "Longitude": 18.67425172
+ },
+ {
+   "Name": "Ośrodek Obozowy Hufca ZHP Katowice",
+   "Object type": "camp_site",
+   "Latitude": 54.40280798,
+   "Longitude": 19.51310083
+ },
+ {
+   "Name": "Camping Elixir",
+   "Object type": "camp_site",
+   "Latitude": 54.03676196,
+   "Longitude": 21.69888776
+ },
+ {
+   "Name": "Szekla",
+   "Object type": "camp_site",
+   "Latitude": 53.98624207,
+   "Longitude": 21.7624987
+ },
+ {
+   "Name": "Energetyk",
+   "Object type": "camp_site",
+   "Latitude": 54.65871394,
+   "Longitude": 17.04109854
+ },
+ {
+   "Name": "Camping Portowy",
+   "Object type": "camp_site",
+   "Latitude": 54.14025691,
+   "Longitude": 15.28647598
+ },
+ {
+   "Name": "Camping Rega 193",
+   "Object type": "camp_site",
+   "Latitude": 54.14066025,
+   "Longitude": 15.30710673
+ },
+ {
+   "Name": "Park Sonata",
+   "Object type": "camp_site",
+   "Latitude": 54.14513055,
+   "Longitude": 21.75244122
+ },
+ {
+   "Name": "Pole namiotowe \"u Gienia\"",
+   "Object type": "camp_site",
+   "Latitude": 54.24414088,
+   "Longitude": 15.89453952
+ },
+ {
+   "Name": "Kemp Arek",
+   "Object type": "camp_site",
+   "Latitude": 54.24443577,
+   "Longitude": 15.89979541
+ },
+ {
+   "Name": "Wagabunda",
+   "Object type": "camp_site",
+   "Latitude": 54.66379247,
+   "Longitude": 17.05784857
+ },
+ {
+   "Name": "Ośrodek Obozów Harcerskich Hufca ZHP Sosnowiec w Kobylicy",
+   "Object type": "camp_site",
+   "Latitude": 50.35829203,
+   "Longitude": 19.62443903
+ },
+ {
+   "Name": "Słowińska Perła",
+   "Object type": "camp_site",
+   "Latitude": 54.66529888,
+   "Longitude": 17.0480496
+ },
+ {
+   "Name": "Przymorze",
+   "Object type": "camp_site",
+   "Latitude": 54.6595134,
+   "Longitude": 17.04943832
+ },
+ {
+   "Name": "Hotelik",
+   "Object type": "camp_site",
+   "Latitude": 49.21185824,
+   "Longitude": 22.66828371
+ },
+ {
+   "Name": "Stanica ZHP Hufca Sosnowiec w Dwerniczku",
+   "Object type": "camp_site",
+   "Latitude": 49.21118603,
+   "Longitude": 22.66806367
+ },
+ {
+   "Name": "Ośrodek Obozów HArcerskich Hufca ZHP Sosnowiec w Centurii",
+   "Object type": "camp_site",
+   "Latitude": 50.40815825,
+   "Longitude": 19.48412348
+ },
+ {
+   "Name": "Camping nr 247",
+   "Object type": "camp_site",
+   "Latitude": 53.90325389,
+   "Longitude": 20.02688632
+ },
+ {
+   "Name": "Letnia Baza Namiotowa PTTK w Mościcach",
+   "Object type": "camp_site",
+   "Latitude": 52.67559113,
+   "Longitude": 14.80515657
+ },
+ {
+   "Name": "Agroturystyka Paradise",
+   "Object type": "camp_site",
+   "Latitude": 53.74031553,
+   "Longitude": 17.51168005
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 51.51858053,
+   "Longitude": 23.0267912
+ },
+ {
+   "Name": "Camping Lossanna",
+   "Object type": "camp_site",
+   "Latitude": 50.4448331,
+   "Longitude": 16.65260825
+ },
+ {
+   "Name": "Ośrodek Warszawskiego Pałacu Młodzieży w Pieczarkach",
+   "Object type": "camp_site",
+   "Latitude": 54.10890243,
+   "Longitude": 21.77605115
+ },
+ {
+   "Name": "Zameczek",
+   "Object type": "camp_site",
+   "Latitude": 53.7337151,
+   "Longitude": 21.77285633
+ },
+ {
+   "Name": "Dom nad Czarna Hańcza",
+   "Object type": "camp_site",
+   "Latitude": 54.01065543,
+   "Longitude": 23.23336749
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Energetyk",
+   "Object type": "camp_site",
+   "Latitude": 53.66227825,
+   "Longitude": 21.92427116
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Wodnik",
+   "Object type": "camp_site",
+   "Latitude": 53.66112407,
+   "Longitude": 21.92264264
+ },
+ {
+   "Name": "Harcerski Ośrodek Wypoczynkowy KUCOBY",
+   "Object type": "camp_site",
+   "Latitude": 50.87614285,
+   "Longitude": 18.59246782
+ },
+ {
+   "Name": "Camping Marina",
+   "Object type": "camp_site",
+   "Latitude": 52.40920558,
+   "Longitude": 15.12639745
+ },
+ {
+   "Name": "Pole namiotowe \"Aquarius\"",
+   "Object type": "camp_site",
+   "Latitude": 54.2439935,
+   "Longitude": 15.89369886
+ },
+ {
+   "Name": "KMG \"Jarząbek\"",
+   "Object type": "camp_site",
+   "Latitude": 49.83938684,
+   "Longitude": 18.77403878
+ },
+ {
+   "Name": "Ośrodek konferencyjno-wypoczynkowy h2o",
+   "Object type": "camp_site",
+   "Latitude": 49.83758308,
+   "Longitude": 18.78093899
+ },
+ {
+   "Name": "River-Park",
+   "Object type": "camp_site",
+   "Latitude": 49.98814218,
+   "Longitude": 19.44892892
+ },
+ {
+   "Name": "Ośrodek Wczasowy FILARÓWKA sp.j.",
+   "Object type": "camp_site",
+   "Latitude": 54.76274441,
+   "Longitude": 17.57101991
+ },
+ {
+   "Name": "Werner",
+   "Object type": "camp_site",
+   "Latitude": 54.48237421,
+   "Longitude": 16.50493516
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy ADA",
+   "Object type": "caravan_site",
+   "Latitude": 52.21472729,
+   "Longitude": 15.38554193
+ },
+ {
+   "Name": "Małe Miasto",
+   "Object type": "camp_site",
+   "Latitude": 52.06901087,
+   "Longitude": 17.34287802
+ },
+ {
+   "Name": "Pole Kempingowe Przy Plaży",
+   "Object type": "camp_site",
+   "Latitude": 54.3959968,
+   "Longitude": 16.34442805
+ },
+ {
+   "Name": "Pod Cyprysami",
+   "Object type": "camp_site",
+   "Latitude": 54.70865269,
+   "Longitude": 18.65248186
+ },
+ {
+   "Name": "Pole namiotowe Grzędy",
+   "Object type": "camp_site",
+   "Latitude": 53.6312286,
+   "Longitude": 22.77638647
+ },
+ {
+   "Name": "Miejsce biwakowania Jezioro Rakowo",
+   "Object type": "camp_site",
+   "Latitude": 53.6114467,
+   "Longitude": 16.37667513
+ },
+ {
+   "Name": "Sówka",
+   "Object type": "camp_site",
+   "Latitude": 53.16245599,
+   "Longitude": 15.91077009
+ },
+ {
+   "Name": "Pod Lipami Kemping",
+   "Object type": "camp_site",
+   "Latitude": 50.78042067,
+   "Longitude": 15.76224936
+ },
+ {
+   "Name": "Ośrodek wypoczynkowy \"OLZA\"",
+   "Object type": "camp_site",
+   "Latitude": 49.96263027,
+   "Longitude": 18.3302192
+ },
+ {
+   "Name": "Pole namiotowe Laska",
+   "Object type": "camp_site",
+   "Latitude": 53.93281765,
+   "Longitude": 17.52593452
+ },
+ {
+   "Name": "Camping Nr 87",
+   "Object type": "camp_site",
+   "Latitude": 49.61945932,
+   "Longitude": 20.71582707
+ },
+ {
+   "Name": "Camping Browarny",
+   "Object type": "camp_site",
+   "Latitude": 50.6799865,
+   "Longitude": 21.75383109
+ },
+ {
+   "Name": "Domki campingowe",
+   "Object type": "camp_site",
+   "Latitude": 50.80925889,
+   "Longitude": 19.15547618
+ },
+ {
+   "Name": "Duet",
+   "Object type": "camp_site",
+   "Latitude": 54.08987174,
+   "Longitude": 15.07116611
+ },
+ {
+   "Name": "Camping nr 178 Kalina",
+   "Object type": "camp_site",
+   "Latitude": 54.34186764,
+   "Longitude": 19.03367441
+ },
+ {
+   "Name": "Drapacz",
+   "Object type": "camp_site",
+   "Latitude": 53.56641404,
+   "Longitude": 21.53751356
+ },
+ {
+   "Name": "Stare Dworzysko",
+   "Object type": "camp_site",
+   "Latitude": 50.08281396,
+   "Longitude": 19.49918348
+ },
+ {
+   "Name": "Pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 49.58162243,
+   "Longitude": 20.64357011
+ },
+ {
+   "Name": "Pole biwakowe \"Nad Zalewem\"",
+   "Object type": "camp_site",
+   "Latitude": 50.12676925,
+   "Longitude": 19.21565488
+ },
+ {
+   "Name": "Camping Drzewicz",
+   "Object type": "camp_site",
+   "Latitude": 53.85309755,
+   "Longitude": 17.57785219
+ },
+ {
+   "Name": "Bindużka",
+   "Object type": "camp_site",
+   "Latitude": 54.02756403,
+   "Longitude": 23.2178954
+ },
+ {
+   "Name": "Oleńka",
+   "Object type": "camp_site",
+   "Latitude": 50.81151648,
+   "Longitude": 19.08977718
+ },
+ {
+   "Name": "Camping Pod Lasem",
+   "Object type": "camp_site",
+   "Latitude": 50.93206523,
+   "Longitude": 16.11632031
+ },
+ {
+   "Name": "Kamping Tramp",
+   "Object type": "camp_site",
+   "Latitude": 49.20813143,
+   "Longitude": 22.32910767
+ },
+ {
+   "Name": "Stanica wodna PTTK Swornegacie",
+   "Object type": "camp_site",
+   "Latitude": 53.87313493,
+   "Longitude": 17.50509771
+ },
+ {
+   "Name": "pole namiotowe przy leśniczówce w Mylofie",
+   "Object type": "camp_site",
+   "Latitude": 53.77450873,
+   "Longitude": 17.71270154
+ },
+ {
+   "Name": "Gołąbek II",
+   "Object type": "camp_site",
+   "Latitude": 53.61395711,
+   "Longitude": 17.95002326
+ },
+ {
+   "Name": "Świt",
+   "Object type": "camp_site",
+   "Latitude": 53.54188212,
+   "Longitude": 17.8851504
+ },
+ {
+   "Name": "Stanica wodna PTTK Gostycyn-Nogawica",
+   "Object type": "camp_site",
+   "Latitude": 53.47939301,
+   "Longitude": 17.88903149
+ },
+ {
+   "Name": "Binduga Lasek",
+   "Object type": "camp_site",
+   "Latitude": 53.54566232,
+   "Longitude": 21.6065641
+ },
+ {
+   "Name": "U Basi",
+   "Object type": "camp_site",
+   "Latitude": 53.57802919,
+   "Longitude": 21.66563072
+ },
+ {
+   "Name": "Sopot 34",
+   "Object type": "camp_site",
+   "Latitude": 54.43451292,
+   "Longitude": 18.58133153
+ },
+ {
+   "Name": "Pole biwakowe Zielonka",
+   "Object type": "camp_site",
+   "Latitude": 53.65711955,
+   "Longitude": 17.92777484
+ },
+ {
+   "Name": "Camping MOLO",
+   "Object type": "caravan_site",
+   "Latitude": 49.94734359,
+   "Longitude": 19.27310669
+ },
+ {
+   "Name": "Camping Smok nr46",
+   "Object type": "camp_site",
+   "Latitude": 50.04738913,
+   "Longitude": 19.88037054
+ },
+ {
+   "Name": "Pod Jabłoniami",
+   "Object type": "camp_site",
+   "Latitude": 50.02278131,
+   "Longitude": 20.98648284
+ },
+ {
+   "Name": "camping",
+   "Object type": "caravan_site",
+   "Latitude": 50.75657595,
+   "Longitude": 18.073835
+ },
+ {
+   "Name": "camping",
+   "Object type": "caravan_site",
+   "Latitude": 50.75861557,
+   "Longitude": 18.07257299
+ },
+ {
+   "Name": "camping",
+   "Object type": "caravan_site",
+   "Latitude": 50.75436294,
+   "Longitude": 18.07371195
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Wagabunda",
+   "Object type": "camp_site",
+   "Latitude": 53.79543575,
+   "Longitude": 21.56381991
+ },
+ {
+   "Name": "miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 53.2824781,
+   "Longitude": 15.83045032
+ },
+ {
+   "Name": "Wodna",
+   "Object type": "camp_site",
+   "Latitude": 53.71967423,
+   "Longitude": 21.67887105
+ },
+ {
+   "Name": "Camping Pietrowice Głubczyckie nr 240",
+   "Object type": "camp_site",
+   "Latitude": 50.13670972,
+   "Longitude": 17.68837144
+ },
+ {
+   "Name": "OSiR",
+   "Object type": "camp_site",
+   "Latitude": 53.24852818,
+   "Longitude": 14.4830777
+ },
+ {
+   "Name": "Łukomie",
+   "Object type": "camp_site",
+   "Latitude": 53.72920965,
+   "Longitude": 17.50806656
+ },
+ {
+   "Name": "Balticus",
+   "Object type": "camp_site",
+   "Latitude": 54.53432886,
+   "Longitude": 16.54877157
+ },
+ {
+   "Name": "Kemping Agat",
+   "Object type": "camp_site",
+   "Latitude": 51.1019328,
+   "Longitude": 15.55314201
+ },
+ {
+   "Name": "Pole Namiotowe Teresa Matuszak",
+   "Object type": "camp_site",
+   "Latitude": 54.32253103,
+   "Longitude": 19.53030063
+ },
+ {
+   "Name": "Przy OSP",
+   "Object type": "camp_site",
+   "Latitude": 49.39352366,
+   "Longitude": 20.40668148
+ },
+ {
+   "Name": "Dawny ośrodek Marynarki Wojennej",
+   "Object type": "camp_site",
+   "Latitude": 53.60091146,
+   "Longitude": 18.27701964
+ },
+ {
+   "Name": "Stanica Wodna PTTK w Tleniu",
+   "Object type": "camp_site",
+   "Latitude": 53.60296597,
+   "Longitude": 18.28107839
+ },
+ {
+   "Name": "Polana Sosny",
+   "Object type": "camp_site",
+   "Latitude": 49.40448028,
+   "Longitude": 20.33436163
+ },
+ {
+   "Name": "Kemping. pole namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 51.44430765,
+   "Longitude": 23.2396872
+ },
+ {
+   "Name": "Nad Wigrami",
+   "Object type": "camp_site",
+   "Latitude": 54.02262772,
+   "Longitude": 22.99290285
+ },
+ {
+   "Name": "U Jawora",
+   "Object type": "camp_site",
+   "Latitude": 54.01938385,
+   "Longitude": 23.01971661
+ },
+ {
+   "Name": "WIDOK",
+   "Object type": "camp_site",
+   "Latitude": 54.00100363,
+   "Longitude": 23.08242167
+ },
+ {
+   "Name": "u Haliny",
+   "Object type": "camp_site",
+   "Latitude": 54.06975956,
+   "Longitude": 23.0845418
+ },
+ {
+   "Name": "Łukowy Kąt",
+   "Object type": "camp_site",
+   "Latitude": 54.07683577,
+   "Longitude": 23.07467762
+ },
+ {
+   "Name": "Sunny Camp",
+   "Object type": "camp_site",
+   "Latitude": 54.11355733,
+   "Longitude": 21.77615412
+ },
+ {
+   "Name": "Camping Berszowisko",
+   "Object type": "camp_site",
+   "Latitude": 54.82785486,
+   "Longitude": 18.09467601
+ },
+ {
+   "Name": "Camping Nowe Warpno",
+   "Object type": "caravan_site",
+   "Latitude": 53.72037275,
+   "Longitude": 14.29552563
+ },
+ {
+   "Name": "Camping Wajk",
+   "Object type": "camp_site",
+   "Latitude": 53.57854202,
+   "Longitude": 16.14715573
+ },
+ {
+   "Name": "Pole Kempingowe Areoklubu Ostrowskiego",
+   "Object type": "camp_site",
+   "Latitude": 51.69769693,
+   "Longitude": 17.84806253
+ },
+ {
+   "Name": "Ostoja Stara Baśń",
+   "Object type": "camp_site",
+   "Latitude": 53.82971583,
+   "Longitude": 21.38317678
+ },
+ {
+   "Name": "Universal Camping",
+   "Object type": "caravan_site",
+   "Latitude": 54.3082693,
+   "Longitude": 16.19709625
+ },
+ {
+   "Name": "Zakątek",
+   "Object type": "camp_site",
+   "Latitude": 54.53628089,
+   "Longitude": 16.53334346
+ },
+ {
+   "Name": "Camping 88 Biała Mewa",
+   "Object type": "camp_site",
+   "Latitude": 54.16046046,
+   "Longitude": 15.42544439
+ },
+ {
+   "Name": "Bieszczadzka Przystań Motocyklowa",
+   "Object type": "camp_site",
+   "Latitude": 49.30611387,
+   "Longitude": 22.67255967
+ },
+ {
+   "Name": "ZHP Obóz Wypoczynkowy",
+   "Object type": "camp_site",
+   "Latitude": 54.29322763,
+   "Longitude": 16.16785816
+ },
+ {
+   "Name": "Camp Ada",
+   "Object type": "caravan_site",
+   "Latitude": 54.27001008,
+   "Longitude": 16.09079866
+ },
+ {
+   "Name": "Majka Pole Campingowe",
+   "Object type": "caravan_site",
+   "Latitude": 54.2693936,
+   "Longitude": 16.09181876
+ },
+ {
+   "Name": "Harcerska Baza Obozowa  Siemiany",
+   "Object type": "camp_site",
+   "Latitude": 53.71938447,
+   "Longitude": 19.59464149
+ },
+ {
+   "Name": "Obszar obozowania HBO Siemiany Hufca ZHP Kwidzyn",
+   "Object type": "camp_site",
+   "Latitude": 53.71711271,
+   "Longitude": 19.5962593
+ },
+ {
+   "Name": "Camping \"Pod Świerkami\"",
+   "Object type": "camp_site",
+   "Latitude": 53.84513655,
+   "Longitude": 18.09104691
+ },
+ {
+   "Name": "Baltic 78",
+   "Object type": "camp_site",
+   "Latitude": 54.18181305,
+   "Longitude": 15.59493841
+ },
+ {
+   "Name": "Moto Camping",
+   "Object type": "camp_site",
+   "Latitude": 52.28665484,
+   "Longitude": 20.27720987
+ },
+ {
+   "Name": "Port Jachtowy Kazimierskiego Towarzystwa Wiślanego",
+   "Object type": "camp_site",
+   "Latitude": 51.32314276,
+   "Longitude": 21.94178278
+ },
+ {
+   "Name": "Stare Sioło",
+   "Object type": "camp_site",
+   "Latitude": 49.16505194,
+   "Longitude": 22.45499704
+ },
+ {
+   "Name": "Harcerska Baza Obozowa w Rajcu Poduchownym",
+   "Object type": "camp_site",
+   "Latitude": 51.43202853,
+   "Longitude": 21.26664492
+ },
+ {
+   "Name": "Ośrodek Sportów Wodnych MORiS",
+   "Object type": "camp_site",
+   "Latitude": 49.9658792,
+   "Longitude": 18.88844388
+ },
+ {
+   "Name": "Harcerski Ośrodek Wypoczynkowy",
+   "Object type": "camp_site",
+   "Latitude": 53.41558395,
+   "Longitude": 17.89613496
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Kadzionka",
+   "Object type": "camp_site",
+   "Latitude": 53.38501215,
+   "Longitude": 17.87915166
+ },
+ {
+   "Name": "Zacisze",
+   "Object type": "camp_site",
+   "Latitude": 49.35761667,
+   "Longitude": 22.42425719
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy Kręgiel",
+   "Object type": "camp_site",
+   "Latitude": 53.35438554,
+   "Longitude": 18.00924561
+ },
+ {
+   "Name": "Sagma 2",
+   "Object type": "camp_site",
+   "Latitude": 54.21164442,
+   "Longitude": 15.73589823
+ },
+ {
+   "Name": "Wito",
+   "Object type": "caravan_site",
+   "Latitude": 54.20711264,
+   "Longitude": 15.73012685
+ },
+ {
+   "Name": "Ekologiczna wioska dziecięca \"Zaroślak\"",
+   "Object type": "camp_site",
+   "Latitude": 53.67686074,
+   "Longitude": 18.120586
+ },
+ {
+   "Name": "Camping Przystań Bydgoszcz \"Zimne Wody\"",
+   "Object type": "camp_site",
+   "Latitude": 53.11797785,
+   "Longitude": 18.09931799
+ },
+ {
+   "Name": "Pole Namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 49.75550708,
+   "Longitude": 20.73558316
+ },
+ {
+   "Name": "Zielony biwak nad jeziorem Hajka",
+   "Object type": "camp_site",
+   "Latitude": 54.06675959,
+   "Longitude": 16.20856172
+ },
+ {
+   "Name": "Reception Eurocamping - camper entry",
+   "Object type": "caravan_site",
+   "Latitude": 54.0935348,
+   "Longitude": 22.91456854
+ },
+ {
+   "Name": "Camping \"Hyża\"",
+   "Object type": "caravan_site",
+   "Latitude": 49.47069162,
+   "Longitude": 21.29563918
+ },
+ {
+   "Name": "kajaki-kaszuby.pl",
+   "Object type": "camp_site",
+   "Latitude": 53.86706188,
+   "Longitude": 17.50609347
+ },
+ {
+   "Name": "Drymak",
+   "Object type": "camp_site",
+   "Latitude": 49.47274736,
+   "Longitude": 21.71318031
+ },
+ {
+   "Name": "Wysoki Brzeg",
+   "Object type": "camp_site",
+   "Latitude": 52.48539861,
+   "Longitude": 15.44687351
+ },
+ {
+   "Name": "Autokemping Štátne lesy TANAPu - Červený Kláštor",
+   "Object type": "camp_site",
+   "Latitude": 49.40107839,
+   "Longitude": 20.41620217
+ },
+ {
+   "Name": "Stanica wędkarska \"Rybakówka\"",
+   "Object type": "camp_site",
+   "Latitude": 50.79961165,
+   "Longitude": 23.04361825
+ },
+ {
+   "Name": "Leśna Chatka",
+   "Object type": "camp_site",
+   "Latitude": 54.21994941,
+   "Longitude": 21.58589406
+ },
+ {
+   "Name": "Nowa Korytnica",
+   "Object type": "caravan_site",
+   "Latitude": 53.20808951,
+   "Longitude": 15.97204837
+ },
+ {
+   "Name": "Nowa Korytnica",
+   "Object type": "camp_site",
+   "Latitude": 53.20846586,
+   "Longitude": 15.97210936
+ },
+ {
+   "Name": "Bogdanka",
+   "Object type": "camp_site",
+   "Latitude": 53.14566997,
+   "Longitude": 15.87465317
+ },
+ {
+   "Name": "Camp 66",
+   "Object type": "camp_site",
+   "Latitude": 50.79359038,
+   "Longitude": 15.76953962
+ },
+ {
+   "Name": "Camping Wolfsschanze",
+   "Object type": "camp_site",
+   "Latitude": 54.07978893,
+   "Longitude": 21.49507792
+ },
+ {
+   "Name": "Camping Gutkovo Allenstein",
+   "Object type": "camp_site",
+   "Latitude": 53.78691253,
+   "Longitude": 20.40150355
+ },
+ {
+   "Name": "Nad rzeką Wieprz",
+   "Object type": "camp_site",
+   "Latitude": 50.6301222,
+   "Longitude": 22.94819965
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy \"Ranczo\"",
+   "Object type": "camp_site",
+   "Latitude": 50.60337145,
+   "Longitude": 23.00898516
+ },
+ {
+   "Name": "Pole biwakowe",
+   "Object type": "camp_site",
+   "Latitude": 54.06254914,
+   "Longitude": 21.91006883
+ },
+ {
+   "Name": "Pole namiotowe Flosek",
+   "Object type": "camp_site",
+   "Latitude": 53.742671,
+   "Longitude": 21.57428814
+ },
+ {
+   "Name": "Pole biwakowe w Okartowie",
+   "Object type": "camp_site",
+   "Latitude": 53.80334607,
+   "Longitude": 21.85841802
+ },
+ {
+   "Name": "Pole Namiotowo-Biwakowe \"Grzybek\"",
+   "Object type": "camp_site",
+   "Latitude": 49.50727768,
+   "Longitude": 21.51204779
+ },
+ {
+   "Name": "Pod Złotą Rybką",
+   "Object type": "camp_site",
+   "Latitude": 53.9555688,
+   "Longitude": 17.91652796
+ },
+ {
+   "Name": "Camping Zamek",
+   "Object type": "camp_site",
+   "Latitude": 53.404321,
+   "Longitude": 18.45759371
+ },
+ {
+   "Name": "Pole biwakowe Pod Sosnami nad jeziorem Gim",
+   "Object type": "camp_site",
+   "Latitude": 53.57715989,
+   "Longitude": 20.60367154
+ },
+ {
+   "Name": "Patelnia",
+   "Object type": "camp_site",
+   "Latitude": 49.36790005,
+   "Longitude": 22.43623981
+ },
+ {
+   "Name": "Pod Dębowcem",
+   "Object type": "camp_site",
+   "Latitude": 49.78178914,
+   "Longitude": 19.02198443
+ },
+ {
+   "Name": "Mały Lasek",
+   "Object type": "camp_site",
+   "Latitude": 53.54772695,
+   "Longitude": 21.61933512
+ },
+ {
+   "Name": "Królewska Sosna",
+   "Object type": "camp_site",
+   "Latitude": 53.79127132,
+   "Longitude": 21.17034074
+ },
+ {
+   "Name": "Pole Kempingowe. Pole Namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 50.68145648,
+   "Longitude": 16.58902394
+ },
+ {
+   "Name": "Harcerska Baza Obozowa „Cedron”",
+   "Object type": "camp_site",
+   "Latitude": 54.59712135,
+   "Longitude": 18.22618357
+ },
+ {
+   "Name": "Iłki Pole Kampingowe",
+   "Object type": "camp_site",
+   "Latitude": 51.47379547,
+   "Longitude": 19.96750233
+ },
+ {
+   "Name": "Western Camp",
+   "Object type": "camp_site",
+   "Latitude": 49.99699591,
+   "Longitude": 19.42951829
+ },
+ {
+   "Name": "Leśne Duchy",
+   "Object type": "camp_site",
+   "Latitude": 50.60801268,
+   "Longitude": 22.99025003
+ },
+ {
+   "Name": "Kemping nad Odrą",
+   "Object type": "caravan_site",
+   "Latitude": 52.84544386,
+   "Longitude": 14.12779524
+ },
+ {
+   "Name": "Miejsce biwakowania",
+   "Object type": "camp_site",
+   "Latitude": 52.58765359,
+   "Longitude": 15.82867838
+ },
+ {
+   "Name": "Camping Dunajec",
+   "Object type": "camp_site",
+   "Latitude": 49.39064614,
+   "Longitude": 20.39748454
+ },
+ {
+   "Name": "Pole biwakowe w Widnie",
+   "Object type": "camp_site",
+   "Latitude": 53.93275471,
+   "Longitude": 17.5451812
+ },
+ {
+   "Name": "Camping nr 121",
+   "Object type": "camp_site",
+   "Latitude": 51.89668249,
+   "Longitude": 15.56423617
+ },
+ {
+   "Name": "Marina Grudziądz",
+   "Object type": "caravan_site",
+   "Latitude": 53.48443299,
+   "Longitude": 18.7443469
+ },
+ {
+   "Name": "OW Na Plaży",
+   "Object type": "camp_site",
+   "Latitude": 53.90565945,
+   "Longitude": 16.82862261
+ },
+ {
+   "Name": "Pole biwakowe \"Kawka\"",
+   "Object type": "camp_site",
+   "Latitude": 54.19018056,
+   "Longitude": 16.89296961
+ },
+ {
+   "Name": "Pole biwakowe \"Mnich\"",
+   "Object type": "camp_site",
+   "Latitude": 54.15568769,
+   "Longitude": 16.97501685
+ },
+ {
+   "Name": "Pole Namiotowe Cypel",
+   "Object type": "camp_site",
+   "Latitude": 49.44804672,
+   "Longitude": 20.42529248
+ },
+ {
+   "Name": "Baza namiotowa w Regetowie",
+   "Object type": "camp_site",
+   "Latitude": 49.4692086,
+   "Longitude": 21.21999013
+ },
+ {
+   "Name": "Baza namiotowa Gorc",
+   "Object type": "camp_site",
+   "Latitude": 49.55772131,
+   "Longitude": 20.24736606
+ },
+ {
+   "Name": "Ośrodek Obozowo - Biwakowy hufca Ruda Śląska w Kuźnicy Brzeźnickiej",
+   "Object type": "camp_site",
+   "Latitude": 51.02616112,
+   "Longitude": 19.10665981
+ },
+ {
+   "Name": "Sosenka",
+   "Object type": "camp_site",
+   "Latitude": 51.90914419,
+   "Longitude": 16.00220024
+ },
+ {
+   "Name": "Camping Czaplinek",
+   "Object type": "camp_site",
+   "Latitude": 53.57027852,
+   "Longitude": 16.2305039
+ },
+ {
+   "Name": "Harcerska baza obozowa Hufca ZHP Łódź - Górna",
+   "Object type": "camp_site",
+   "Latitude": 54.51838872,
+   "Longitude": 16.50984004
+ },
+ {
+   "Name": "Harcerska baza obozowa hufca Węgorzewo",
+   "Object type": "camp_site",
+   "Latitude": 54.13389816,
+   "Longitude": 21.93847707
+ },
+ {
+   "Name": "Pole biwakowe u Jana",
+   "Object type": "camp_site",
+   "Latitude": 54.13137888,
+   "Longitude": 21.94317057
+ },
+ {
+   "Name": "Harcerska baza obozowa hufca Węgorzewo",
+   "Object type": "camp_site",
+   "Latitude": 54.13222419,
+   "Longitude": 21.94903059
+ },
+ {
+   "Name": "Jonidło",
+   "Object type": "camp_site",
+   "Latitude": 49.64003261,
+   "Longitude": 18.87875134
+ },
+ {
+   "Name": "Płatne Pole Biwakowe \"Coutry Dudek\"",
+   "Object type": "camp_site",
+   "Latitude": 52.86457873,
+   "Longitude": 14.42244432
+ },
+ {
+   "Name": "Pole Namiotowe Jastarnia",
+   "Object type": "camp_site",
+   "Latitude": 54.69829184,
+   "Longitude": 18.68273465
+ },
+ {
+   "Name": "Agroturystyka Kosa",
+   "Object type": "camp_site",
+   "Latitude": 53.63104053,
+   "Longitude": 15.86246775
+ },
+ {
+   "Name": "Baza kajakowa Kawczyn",
+   "Object type": "camp_site",
+   "Latitude": 54.07754212,
+   "Longitude": 16.88644334
+ },
+ {
+   "Name": "Ośrodek Wypoczynkowy PRL",
+   "Object type": "camp_site",
+   "Latitude": 53.58803883,
+   "Longitude": 16.53327575
+ },
+ {
+   "Name": "Generalskie Pole Namiotowe",
+   "Object type": "camp_site",
+   "Latitude": 53.59042001,
+   "Longitude": 16.54108449
+ },
+ {
+   "Name": "Kemping przy jeziorze",
+   "Object type": "camp_site",
+   "Latitude": 53.59046523,
+   "Longitude": 16.52868932
+ },
+ {
+   "Name": "Jaskółka",
+   "Object type": "camp_site",
+   "Latitude": 51.04129362,
+   "Longitude": 15.63798938
+ },
+ {
+   "Name": "Jaskółka",
+   "Object type": "camp_site",
+   "Latitude": 51.04132889,
+   "Longitude": 15.63529999
+ },
+ {
+   "Name": "Kamping Czarne",
+   "Object type": "camp_site",
+   "Latitude": 53.84378007,
+   "Longitude": 18.24188925
+ },
+ {
+   "Name": "Biwak nad Jeziorem Kiedrowickim",
+   "Object type": "camp_site",
+   "Latitude": 53.99877558,
+   "Longitude": 17.43371364
+ },
+ {
+   "Name": "Stanica Harcerska ZHP w Drężnie",
+   "Object type": "camp_site",
+   "Latitude": 53.86267664,
+   "Longitude": 16.70997117
+ },
+ {
+   "Name": "Kemping Leśny",
+   "Object type": "camp_site",
+   "Latitude": 53.79294383,
+   "Longitude": 16.68467413
+ },
+ {
+   "Name": "Miejsce biwakowania „Drawnik”",
+   "Object type": "camp_site",
+   "Latitude": 53.2033689,
+   "Longitude": 15.76235581
+ },
+ {
+   "Name": "Nr 49",
+   "Object type": "camp_site",
+   "Latitude": 53.67142267,
+   "Longitude": 17.80030711
+ },
+ {
+   "Name": "Stary Tartak",
+   "Object type": "camp_site",
+   "Latitude": 53.56218908,
+   "Longitude": 17.89945154
+ },
+ {
+   "Name": "Kemping nr 210",
+   "Object type": "camp_site",
+   "Latitude": 51.16007787,
+   "Longitude": 14.99957811
+ },
+ {
+   "Name": "Klif",
+   "Object type": "camp_site",
+   "Latitude": 54.07963127,
+   "Longitude": 15.00338228
+ },
+ {
+   "Name": "Leśne pole biwakowe",
+   "Object type": "camp_site",
+   "Latitude": 52.65215949,
+   "Longitude": 16.12221322
+ },
+ {
+   "Name": "ZHP Jeleniec",
+   "Object type": "camp_site",
+   "Latitude": 52.6954439,
+   "Longitude": 16.07112381
+ },
+ {
+   "Name": "Pole Biwakowe Zborowo",
+   "Object type": "camp_site",
+   "Latitude": 52.37457765,
+   "Longitude": 16.62592275
+ },
+ {
+   "Name": "Harcerska Baza Obozowa \"Winiec\"",
+   "Object type": "camp_site",
+   "Latitude": 53.80063056,
+   "Longitude": 19.84156609
+ },
+ {
+   "Name": "Pole biwakowe",
+   "Object type": "camp_site",
+   "Latitude": 53.76563277,
+   "Longitude": 16.8368061
+ },
+ {
+   "Name": "Miejsce biwakowania Zatoka",
+   "Object type": "camp_site",
+   "Latitude": 53.56206097,
+   "Longitude": 16.40229603
+ },
+ {
+   "Name": "Camping Zalewy Nadarzyckie",
+   "Object type": "camp_site",
+   "Latitude": 53.48266804,
+   "Longitude": 16.49227057
+ },
+ {
+   "Name": "Kemping nad Pilicą",
+   "Object type": "camp_site",
+   "Latitude": 51.77944802,
+   "Longitude": 21.18735305
+ },
+ {
+   "Name": "Nr 159",
+   "Object type": "caravan_site",
+   "Latitude": 54.34148958,
+   "Longitude": 19.1189928
+ },
+ {
+   "Name": "Nr 180",
+   "Object type": "caravan_site",
+   "Latitude": 54.34529161,
+   "Longitude": 19.11278887
+ },
+ {
+   "Name": "Rózą Wiatrów Camping nr 66",
+   "Object type": "camp_site",
+   "Latitude": 54.42760116,
+   "Longitude": 16.37396861
+ },
+ {
+   "Name": "Pole biwakowe Łódź",
+   "Object type": "camp_site",
+   "Latitude": 53.89314285,
+   "Longitude": 23.35335385
+ },
+ {
+   "Name": "Grajkowo",
+   "Object type": "caravan_site",
+   "Latitude": 54.21172028,
+   "Longitude": 15.76022629
+ },
+ {
+   "Name": "Camping Pod Brzozami",
+   "Object type": "camp_site",
+   "Latitude": 54.21374297,
+   "Longitude": 15.75933613
+ },
+ {
+   "Name": "Sandra",
+   "Object type": "camp_site",
+   "Latitude": 54.21402027,
+   "Longitude": 15.76297738
+ },
+ {
+   "Name": "Ośrodek Wczasowy UNIWERBUD",
+   "Object type": "camp_site",
+   "Latitude": 53.3771985,
+   "Longitude": 16.50107454
+ },
+ {
+   "Name": "PTTK Spychowo",
+   "Object type": "camp_site",
+   "Latitude": 53.60877863,
+   "Longitude": 21.34396132
+ },
+ {
+   "Name": "Marina Puławy",
+   "Object type": "camp_site",
+   "Latitude": 51.41411777,
+   "Longitude": 21.95148544
+ },
+ {
+   "Name": "Camping Lancut",
+   "Object type": "camp_site",
+   "Latitude": 50.07087828,
+   "Longitude": 22.25431462
+ },
+ {
+   "Name": "Miejsce biwakowania „Sitnica”",
+   "Object type": "camp_site",
+   "Latitude": 53.10213262,
+   "Longitude": 15.91982374
+ },
+ {
+   "Name": "Baza Hufca ZHP Łódź-Polesie w Strużnicy",
+   "Object type": "camp_site",
+   "Latitude": 50.82609636,
+   "Longitude": 15.88645902
+ },
+ {
+   "Name": "Kemping Inter Nos",
+   "Object type": "camp_site",
+   "Latitude": 53.45618294,
+   "Longitude": 15.91892996
+ },
+ {
+   "Name": "Stary Młyn",
+   "Object type": "camp_site",
+   "Latitude": 54.41782976,
+   "Longitude": 17.41880271
+ },
+ {
+   "Name": "Stary Młyn",
+   "Object type": "camp_site",
+   "Latitude": 54.41707478,
+   "Longitude": 17.41908139
+ },
+ {
+   "Name": "Pole namiotowe nadleśnistwa",
+   "Object type": "camp_site",
+   "Latitude": 54.41838779,
+   "Longitude": 17.41700825
+ },
+ {
+   "Name": "Kemping i plaża Konin",
+   "Object type": "camp_site",
+   "Latitude": 52.47901627,
+   "Longitude": 16.17360728
+ },
+ {
+   "Name": "Stanica Harcerska \"Nasz Dom\" w Słupii",
+   "Object type": "camp_site",
+   "Latitude": 52.97525268,
+   "Longitude": 19.57362212
+ },
+ {
+   "Name": "Keja",
+   "Object type": "camp_site",
+   "Latitude": 54.06601603,
+   "Longitude": 14.9678418
+ },
+ {
+   "Name": "figlarnia",
+   "Object type": "camp_site",
+   "Latitude": 54.40702201,
+   "Longitude": 17.24834588
+ },
+ {
+   "Name": "Chałupy 6",
+   "Object type": "camp_site",
+   "Latitude": 54.76196336,
+   "Longitude": 18.4979005
+ },
+ {
+   "Name": "Albatros (Chałupy 5.5)",
+   "Object type": "camp_site",
+   "Latitude": 54.76367934,
+   "Longitude": 18.49325058
+ },
+ {
+   "Name": "Ekolaguna",
+   "Object type": "camp_site",
+   "Latitude": 54.76493826,
+   "Longitude": 18.4898823
+ },
+ {
+   "Name": "Polaris",
+   "Object type": "camp_site",
+   "Latitude": 54.76733515,
+   "Longitude": 18.48296961
+ },
+ {
+   "Name": "Solar",
+   "Object type": "camp_site",
+   "Latitude": 54.76977642,
+   "Longitude": 18.47723576
+ },
+ {
+   "Name": "Chałupy 3",
+   "Object type": "camp_site",
+   "Latitude": 54.77363617,
+   "Longitude": 18.46503898
+ },
+ {
+   "Name": "Campus Domasławice",
+   "Object type": "camp_site",
+   "Latitude": 51.40267694,
+   "Longitude": 17.52257796
+ },
+ {
+   "Name": "OW Zacisze",
+   "Object type": "camp_site",
+   "Latitude": 52.31859647,
+   "Longitude": 15.2876043
+ },
+ {
+   "Name": "Pole namiotowo-campingowe SCKiW",
+   "Object type": "camp_site",
+   "Latitude": 51.88097848,
+   "Longitude": 16.05792276
+ },
+ {
+   "Name": "Woziwoda",
+   "Object type": "camp_site",
+   "Latitude": 53.66953751,
+   "Longitude": 17.90673524
+ },
+ {
+   "Name": "Echo",
+   "Object type": "camp_site",
+   "Latitude": 50.60932461,
+   "Longitude": 22.96205305
+ },
+ {
+   "Name": "Nad Pilicą",
+   "Object type": "camp_site",
+   "Latitude": 50.97989398,
+   "Longitude": 19.83142318
+ }
+]

@@ -97,3 +97,54 @@ a:hover {
     margin: 6px auto;
   }
 
+  #menu {
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    background-color: rgba(236, 238, 102, 0.692);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 7px 9px rgba(0, 0, 0, 0.623);
+    border: solid rgba(0, 0, 0, 0.507); 
+    
+}
+.menu-right{
+    
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+label{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#city{
+    background-color: rgba(255, 255, 255, 0.904);
+    border-radius: 5px;
+    text-align: center;
+}
+#find{
+    background-color: rgba(72, 190, 18, 0.849);
+    border-radius: 5px;
+}
+#show{
+    border-radius: 5px;            
+}
+#showT{
+    border-radius: 5px;            
+}
+#showC{
+    border-radius: 5px;            
+}
+#clear{
+    border-radius: 5px;  
+}
+#menu-down{
+    margin-left: 39%;
+    margin-top: 5px;
+    
+}
