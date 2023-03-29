@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Moja mapa</title>
+    <link rel="stylesheet" href="mapa.css" />
+    <script src="leaflet.js"></script>
+    <style>
+        #menu {
+                position: absolute;
+                top: 8%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                z-index: 1000;
+                background-color: rgba(236, 238, 102, 0.692);
+                padding: 20px;
+                border-radius: 5px;
+                box-shadow: 0 7px 9px rgba(0, 0, 0, 0.623);
+                border: solid rgba(0, 0, 0, 0.507); 
+                
+            }
+            .menu-right{
+                
+                text-align: center;
+                margin-top: 10px;
+                
+            }
+
+            label{
+                color: rgb(0, 0, 0);
+                font-family: 'Times New Roman', Times, serif;
+                font-weight: bold;
+            }
+            #city{
+                background-color: rgba(255, 255, 255, 0.904);
+                border-radius: 5px;
+                text-align: center;
+            }
+            #find{
+                background-color: rgba(72, 190, 18, 0.849);
+                border-radius: 5px;
+            }
+            #show{
+                border-radius: 5px;            
+            }
+            #showT{
+                border-radius: 5px;            
+            }
+            #showC{
+                border-radius: 5px;            
+            }
+            #clear{
+                border-radius: 5px;  
+            }
+            #menu-down{
+                margin-left: 39%;
+                margin-top: 5px;
+                
+            }
+
+    </style>
+</head>
+<body>
+    <div id="menu">
+        <centre><label class="texthold" for="city">MIEJSCOWOŚĆ</label>
+        <input type="text" id="city" name="city" placeholder="np. Warszawa">
+        <button id="find" onclick="zoomToCity()">SZUKAJ</button>
+
+        <div class="menu-right">
+            <button id="showT" onclick="showTenet()">Namioty</button>
+            <button id="showC" onclick="showCampers()">Kampery</button>
+            <button id="show" onclick="addMarkersToMap()">Wszystkie</button>
+            
+        </div>
+        <div id ="menu-down">
+            <button id="clear" onclick="showTenet()">Wyczyść</button>
+        </div>
+    </div>
+    <div id="result"></div>
+    
+    <div id="map" style="height: 800px"></div>
+    <script>
+        var map = L.map('map').setView([52.340375, 19.265613], 6);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19
+        }).addTo(map);
+
+//Funkcja przybliżająca po nazwie miejscowości lub adresie
+
+        function zoomToCity() {
+            var cityName = document.getElementById("city").value;
+            var url = 'https://nominatim.openstreetmap.org/search?q=' + cityName + '&format=json&polygon=0&addressdetails=0';
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.length > 0) {
+                        var lat = data[0].lat;
+                        var lon = data[0].lon;
+                        map.setView([lat, lon], 13);
+                    } else {
+                        alert("Nie znaleziono miasta");
+                    }
+                })
+                .catch(error => {
+                    alert("Wystąpił błąd");
+                    console.error(error);
+                });
+        }
+
+//Funkcja pokazuąca wszystkie pola 
+
+        
+        var button = document.getElementById('show');
+        
+        var flag = false;
+
+        function addMarkersToMap() {
+            if(!flag){
+                fetch('http://192.168.100.16:8012/dane1.csv')
+                    .then(response => response.text())
+                    .then(data => {
+                        var rows = data.split('\n');
+                        for (var i = 1; i < rows.length; i++) {
+                            var row = rows[i].split(',');
+                            var lat = row[0];
+                            var lon = row[1];
+                            L.marker([lat, lon]).addTo(map);
+                        }
+                    })
+                    .catch(error => {
+                        alert("Wystąpił błąd");
+                        console.error(error);
+                    });
+
+                    flag=true;
+                    button.removeEventListener('click',addMarkersToMap);
+                    
+                    
+        }
+    }
+    button.addEventListener('click', addMarkersToMap)
+
+ // Zresetuj stronę
+    function resetAndReload() {
+
+  location.reload();
+}
+
+var buttonC = document.getElementById("clear");
+buttonC.addEventListener("click", resetAndReload);
+
+
+
+//Funkcja pokazująca pola namiotowe
+var buttonT = document.getElementById("showT");
+function showTenet() {
+            if(!flag){
+                fetch('http://192.168.100.16:8012/namioty.csv')
+                    .then(response => response.text())
+                    .then(data => {
+                        var rows = data.split('\n');
+                        for (var i = 1; i < rows.length; i++) {
+                            var row = rows[i].split(',');
+                            var lat = row[0];
+                            var lon = row[1];
+                            L.marker([lat, lon]).addTo(map);
+                        }
+                    })
+                    .catch(error => {
+                        alert("Wystąpił błąd");
+                        console.error(error);
+                    });
+
+                    flag=true;
+                    buttonT.removeEventListener('click',showTenet);
+                    
+                    
+        }
+    }
+    buttonT.addEventListener('click', showTenet)
+
+
+    //funkcja pokazująca pola kamperowe
+
+    var buttonK = document.getElementById("showC");
+    function showCampers() {
+            if(!flag){
+                fetch('http://192.168.100.16:8012/kampery.csv')
+                    .then(response => response.text())
+                    .then(data => {
+                        var rows = data.split('\n');
+                        for (var i = 1; i < rows.length; i++) {
+                            var row = rows[i].split(',');
+                            var lat = row[0];
+                            var lon = row[1];
+                            L.marker([lat, lon]).addTo(map);
+                        }
+                    })
+                    .catch(error => {
+                        alert("Wystąpił błąd");
+                        console.error(error);
+                    });
+
+                    flag=true;
+                    buttonK.removeEventListener('click',showCampers);
+                    
+                    
+        }
+    }
+    buttonK.addEventListener('click', showCampers)
+    
+    
+    
+        
+
+
+
+
+    
+
+
+       // addMarkersToMap();
+    </script>
+</body>
+</html>
