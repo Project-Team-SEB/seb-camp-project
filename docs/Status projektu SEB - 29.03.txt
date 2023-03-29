@@ -18,6 +18,6 @@ Status projektu SEB - 29.03
 
  - dodanie funkcji addMarkesToMap, która inicjuje warstwy pokazujące object type po wartościach na onClick camp_site i camper_site
 2. Utworzenie nowych motywów graficznych
-3. DPodział obowiązków
+3. Podział obowiązków
 
 
