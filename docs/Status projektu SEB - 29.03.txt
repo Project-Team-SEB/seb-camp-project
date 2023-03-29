@@ -1,0 +1,23 @@
+Status projektu SEB - 29.03
+
+1. Kontynuacja prac nad implementacją mapy na platformie
+ - zmiana formatu z csv na json 
+ - dodanie nowych atrybutów do bazy 
+{
+   "Name": "Ängby",
+   "Object type": "camp_site",
+   "Latitude": 53.336944,
+   "Longitude": 17.9025
+ },
+ {
+   "Name": "Ambre",
+   "Object type": "caravan_site",
+   "Latitude": 54.7659527,
+   "Longitude": 17.5710868
+ }
+
+ - dodanie funkcji addMarkesToMap, która inicjuje warstwy pokazujące object type po wartościach na onClick camp_site i camper_site
+2. Utworzenie nowych motywów graficznych
+3. DPodział obowiązków
+
+
