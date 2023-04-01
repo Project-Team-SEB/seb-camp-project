@@ -1,0 +1,13 @@
+﻿SEB status projektowy 01.04
+
+
+1. Utworzenie 3 dodatkowych endpointów i zaimplementowanie ich na github
+2. Rozszerzenia podstron
+   1. /about
+   2. /featured
+   3. /form
+3. Przygotowanie contentu projektu
+4. Porządek na LP 
+   1. rozrysowanie sekcji
+https://www.figma.com/file/Q3vMalMyKPVuUC1K3hnriG/SEB?node-id=0-1&t=UaXB7jeCERCjMpVH-0
+   2. ustawienie klas css wykorzystywanych na całej stronie - todo
