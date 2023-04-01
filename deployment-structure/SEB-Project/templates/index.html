@@ -4,7 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Moja mapa</title>
+    <title>Wyszukiwarka namiotowa i kepingowa</title>
+    <link
+    rel="shortcut icon"
+    href="../static/images/logo-tent.svg"
+    type="image/x-icon"
+  />
     <link rel="stylesheet" href="../static/map/mapa.css" />
     <script src="../static/map/leaflet.js"></script></script>
 
@@ -33,7 +38,6 @@
       href="assets/icons/favicon-16x16.png"
     />
 
-    <title>SEB</title>
 
 
   </head>
@@ -43,9 +47,15 @@
     <nav>
       <a href="#" class="logo">
         <h1>
-          <span class="tent-logo">SEBProject</span>
-          <span class="tent">&#x26fa;</span>
+          <link
+           rel="icon"
+           sizes="180x180"
+           href="../static/images/camping-tent.png"
+    />
+          <span class="tent" href="../static/images/logo-tent.svg"></span>
+          <span class="tent-logo">Wyszukiwarka pól namiotowowych i kepingowych</span>
         </h1>
+        <p><span class="tent-description"></span>Szybko i łatwo znajdź dla siebie miejsce pod kemping!</span> </p>
       </a>
       <ul>
         <li class="nav-item">
@@ -56,7 +66,7 @@
         </li>
         <li class="nav-item">
           <a href="form" class="nav-link" id="nav-link"
-            >xyz</a>
+            >Dodaj pole</a>
         </li>
       </ul>
       <!-- <div>SEB znajdzie Ci namiot
@@ -70,7 +80,9 @@
     <span class="bar"></span>
     <span class="bar"></span>
     <span class="bar"></span>
-</div>
+</div id="menu-box">
+<br>
+<div>
 <div id="menu">
   <centre><label class="texthold" for="city">MIEJSCOWOŚĆ</label>
   <input type="text" id="city" name="city" placeholder="np. Warszawa">
@@ -85,12 +97,13 @@
       <button id="clear" onclick="resetAndReload()">Wyczyść</button>
   </div>
 </div>
-<div id="result"></div>
-<div style="height: 50px; text-align: center; padding-top: 10px; color: white;">
+</div>
+<!-- <div id="result"></div> -->
+<!-- <div style="height: 50px; text-align: center; padding-top: 10px; color: white;">
   <label for="city">Miejscowość:</label>
   <input type="text" id="city" name="city" placeholder="np. Warszawa" style="margin-right: 50px">
   <button onclick="zoomToCity()">Znajdź Miejscowość</button>
-</div>
+</div> -->
 <div id="map" style="margin-left: 15%;
 margin-right: 15%;
 border-radius: 30px;
