@@ -16,12 +16,12 @@ def about_us():
 
     return render_template('aboutus.html')
 
-@app.route('/about')
+@app.route('/featured')
 def featured():
 
     return render_template('featured.html')
 
-@app.route('/about')
+@app.route('/form')
 def form():
 
     return render_template('form.html')

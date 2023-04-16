@@ -71,35 +71,34 @@
     <span class="bar"></span>
     <span class="bar"></span>
 </div>
-<div id="menu">
-  <centre><label class="texthold" for="city">MIEJSCOWOŚĆ</label>
-  <input type="text" id="city" name="city" placeholder="np. Warszawa">
-  <button id="find" onclick="zoomToCity()">SZUKAJ</button>
 
-  <div class="menu-right">
-      <button id="showT" onclick="addMarkersToMap('camp_site')">Namioty</button>
-      <button id="showC" onclick="addMarkersToMap('caravan_site')">Kampery</button>
-
-  </div>
-  <div id ="menu-down">
-      <button id="clear" onclick="resetAndReload()">Wyczyść</button>
-  </div>
-</div>
 <div id="result"></div>
-<div style="height: 50px; text-align: center; padding-top: 10px; color: white;">
-  <label for="city">Miejscowość:</label>
-  <input type="text" id="city" name="city" placeholder="np. Warszawa" style="margin-right: 50px">
-  <button onclick="zoomToCity()">Znajdź Miejscowość</button>
+<div>
+  <div id="map" style="margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 2%;
+  border-radius: 30px;
+  border-color: grey;
+  border-style: dashed;
+  border-width: 7px;
+  aspect-ratio: 4/3;
+  outline: none;" ></div>
+  <div id="menu" >
+    <centre><label class="texthold" for="city">MIEJSCOWOŚĆ</label>
+      <br>
+    <input type="text" id="city" name="city" placeholder="np. Warszawa">
+    <button id="find" onclick="zoomToCity()" style="margin-top: 10px; padding: 2px;">SZUKAJ</button>
+
+    <div class="menu-right">
+        <button id="showT" onclick="addMarkersToMap('camp_site')">Namioty</button>
+        <button id="showC" onclick="addMarkersToMap('caravan_site')">Kampery</button>
+
+    </div>
+    <div id ="menu-down">
+        <button id="clear" onclick="resetAndReload()">Wyczyść</button>
+    </div>
+  </div>
 </div>
-<div id="map" style="margin-left: 15%;
-margin-right: 15%;
-border-radius: 30px;
-border-color: grey;
-border-style: dashed;
-border-width: 7px;
-position: relative;
-aspect-ratio: 4/3;
-outline: none;" ></div>
 <script>
   var map = L.map('map').setView([52.340375, 19.265613], 6);
 
