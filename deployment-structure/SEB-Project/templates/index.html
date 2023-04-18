@@ -87,15 +87,17 @@
     <centre><label class="texthold" for="city">MIEJSCOWOŚĆ</label>
       <br>
     <input type="text" id="city" name="city" placeholder="np. Warszawa">
-    <button id="find" onclick="zoomToCity()" style="margin-top: 10px; padding: 2px;">SZUKAJ</button>
+    <button id="find" onclick="zoomToCity()" class="find-menu-button">Szukaj</button>
+    <hr>
+    <label class="texthold" for="type">RODZAJ OŚRODKA</label>
 
     <div class="menu-right">
-        <button id="showT" onclick="addMarkersToMap('camp_site')">Namioty</button>
-        <button id="showC" onclick="addMarkersToMap('caravan_site')">Kampery</button>
+        <button id="showT" onclick="addMarkersToMap('camp_site')"><img src="../static/images/tent.png" class="type-image"></button>
+        <button id="showC" onclick="addMarkersToMap('caravan_site')"><img src="../static/images/caravan.png" class="type-image"></button>
 
     </div>
     <div id ="menu-down">
-        <button id="clear" onclick="resetAndReload()">Wyczyść</button>
+        <button id="clear" onclick="resetAndReload()" class="find-menu-button">Wyczyść</button>
     </div>
   </div>
 </div>
