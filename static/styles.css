@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:ital,wght@0,400;0,900;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+
+/* CSS Variables */
+:root {
+  --normal-font: 400;
+  --bold-font: 600;
+  --bolder-font: 900;
+  --primary-color: #0652dd;
+  --secondary-color: #ea2027;
+  --line-height: 1.7rem;
+  --transition: 0.4s ease-in;
+}
+
+/* Smooth scroll effect */
+html {
+	scroll-behavior: smooth;
+}
+
+/* Resets */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	transition: var(--transition);
+}
+
+ body {
+	font-family: "Montserrat", sans-serf;
+	background-image: url("../static/images/head_background.jpg");
+	background-size: 100%;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: var(--secondary-color);
+} 
+
+.tent {
+    color: var(--secondary-color);
+  }
+  
+  .tent-logo {
+    color: var(--primary-color);
+    color: white;
+  }
+  
+  nav {
+    height: 100px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    box-shadow: 2px 3px 2px #f1f1f1;
+    
+  }
+
+  .logo {
+    font-size: 2rem;
+    font-weight: 500;
+  }
+  
+  ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+  }
+  
+  .nav-item {
+    margin-left: 2rem;
+  }
+  
+  .nav-link {
+    font-weight: var(--bold-font);
+  }
+
+  .hamburger {
+    display: none;
+  }
+  .bar {
+    background-color: #020202;
+    display: block;
+    width: 30px;
+    height: 4px;
+    margin: 6px auto;
+  }
+
+  #menu {
+    /*Text styles*/
+    text-align: center; 
+    
+    /*Window styles*/
+    position: absolute;
+    top: 15%;
+    left: 85%;
+    z-index: 1000;
+    background-color: rgba(251, 255, 254, 0.692);
+    padding: 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0 7px 9px rgba(0, 0, 0, 0.623);
+    border: solid rgba(0, 0, 0, 0.507); 
+    height: 80%;
+    border-radius: 20px   
+}
+
+.menu-right{
+    
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+label{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+#city{
+	font-size: 14px;
+    margin-top: 10%;
+    background-color: rgba(255, 255, 255, 0.904);
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+<!--1️⃣ code CSS below -->
+
+
+#find{
+font-family: Roboto, sans-serif;
+font-weight: 900;
+font-size: 14px;
+color: #fff;
+background-color: #001b2e;
+padding: 10px 30px;
+border: solid #001b2e 2px;
+box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+border-radius: 50px;
+transition : 23ms;
+transform: translateY(0);
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+
+}
+
+#find:hover{
+transition : 23ms;
+padding: 10px 40px;
+transform : translateY(-0px);
+background-color: #fff;
+color: #0066cc;
+border: solid 2px #0066cc;
+
+}
+
+</style>
+
+<!-- 2️⃣code HTML below -->
+<button class="btn">Szukaj</button>
+
+#show{
+    border-radius: 5px;            
+}
+#showT{
+    border-radius: 5px;            
+}
+#showC{
+    border-radius: 5px;            
+}
+#clear{
+    border-radius: 5px;  
+}
+#menu-down{
+    margin-left: 39%;
+    margin-top: 5px;
+    
+}
