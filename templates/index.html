@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Moja mapa</title>
+    <link rel="stylesheet" href="../static/map/mapa.css" />
+    <script src="../static/map/leaflet.js"></script></script>
+
+    <!-- Web page CSS -->
+    <link rel="stylesheet" href="../static/styles.css" />
+
+    <!-- Simple lightbox CSS -->
+    <link rel="stylesheet" href="assets/css/simple-lightbox.min.css" />
+
+    <!-- Favicons -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/icons/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/icons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/icons/favicon-16x16.png"
+    />
+
+    <title>SEB</title>
+
+
+  </head>
+  <body>
+    <!-- Navbar -->
+
+    <nav>
+      <a href="#" class="logo">
+        <h1>
+          <span class="tent-logo">SEBProject</span>
+          <span class="tent">&#x26fa;</span>
+        </h1>
+      </a>
+      <ul>
+        <li class="nav-item">
+          <a href="about" class="nav-link" id="nav-link">O stronie</a>
+        </li>
+        <li class="nav-item">
+          <a href="featured" class="nav-link" id="nav-link">Wyróżnione</a>
+        </li>
+        <li class="nav-item">
+          <a href="form" class="nav-link" id="nav-link"
+            >xyz</a>
+        </li>
+      </ul>
+      <!-- <div>SEB znajdzie Ci namiot
+      </div> -->
+    </nav>
+    <!-- Dark/light theme switcher -->
+
+    <!-- Bars -->
+
+<div class="hamburger" id="hamburger">
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+</div>
+
+<div id="result"></div>
+<div>
+  <div id="map" style="margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 2%;
+  border-radius: 30px;
+  border-color: grey;
+  border-style: dashed;
+  border-width: 7px;
+  aspect-ratio: 4/3;
+  outline: none;" ></div>
+  <div id="menu" >
+    <centre><label class="texthold" for="city">MIEJSCOWOŚĆ</label>
+      <br>
+    <input type="text" id="city" name="city" placeholder="np. Warszawa">
+    <button id="find" onclick="zoomToCity()" class="find-menu-button">Szukaj</button>
+    <hr>
+    <label class="texthold" for="type">RODZAJ OŚRODKA</label>
+
+    <div class="menu-right">
+        <button id="showT" onclick="addMarkersToMap('camp_site')"><img src="../static/images/tent.png" class="type-image"></button>
+        <button id="showC" onclick="addMarkersToMap('caravan_site')"><img src="../static/images/caravan.png" class="type-image"></button>
+
+    </div>
+    <div id ="menu-down">
+        <button id="clear" onclick="resetAndReload()" class="find-menu-button">Wyczyść</button>
+    </div>
+  </div>
+</div>
+<script>
+  var map = L.map('map').setView([52.340375, 19.265613], 6);
+
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19
+  }).addTo(map);
+
+  function zoomToCity() {
+      var cityName = document.getElementById("city").value;
+      var url = 'https://nominatim.openstreetmap.org/search?q=' + cityName + '&format=json&polygon=0&addressdetails=0';
+      fetch(url)
+          .then(response => response.json())
+          .then(data => {
+              if (data.length > 0) {
+                  var lat = data[0].lat;
+                  var lon = data[0].lon;
+                  map.setView([lat, lon], 13);
+              } else {
+                  alert("Nie znaleziono miasta");
+              }
+          })
+          .catch(error => {
+              alert("Wystąpił błąd");
+              console.error(error);
+          });
+  }
+  const campGroup = L.layerGroup().addTo(map);
+  const camperGroup = L.layerGroup().addTo(map);
+  var areCampsitesVisible = false;
+  var areCampersVisible = false;
+
+  function addMarkersToMap(object_type) {
+    if (object_type=='camp_site'&&areCampsitesVisible==true) {campGroup.clearLayers(); areCampsitesVisible=false;}
+    else if (object_type=='caravan_site'&&areCampersVisible==true) {camperGroup.clearLayers(); areCampersVisible=false;}
+    else{
+    fetch('../static/map/dane1.json')
+      .then(response => response.json())
+      .then(data => {
+        data.forEach(row => {
+          const type = row['Object type']
+          if (object_type == type){
+            const lat = row.Latitude;
+            const lon = row.Longitude;
+            const name = row.Name;
+            if(object_type=='camp_site')
+            { const marker = L.marker([lat, lon]).addTo(map).bindPopup(name).on('click', function(e){
+  map.setView(e.latlng, 13)
+});
+              campGroup.addLayer(marker);
+              areCampsitesVisible=true;}
+            else if(object_type=='caravan_site'){
+              const marker = L.marker([lat, lon]).addTo(map).bindPopup(name).on('click', function(e){
+  map.setView(e.latlng, 13)
+});
+              camperGroup.addLayer(marker);
+              areCampersVisible=true;
+            }
+          }
+        });
+      })
+      .catch(error => {
+        alert("Wystąpił błąd");
+        console.error(error);
+      });
+  }}
+
+function resetAndReload() {
+  campGroup.clearLayers();
+  camperGroup.clearLayers();
+  areCampsitesVisible=false;
+  areCampersVisible=false;
+}
+
+
+</script>
+</body>
+</html>

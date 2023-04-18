@@ -99,6 +99,11 @@ ul {
     margin: 6px auto;
 }
 
+.type-image{
+	width: 65px;
+	height: 65px;
+}
+
 #menu {
     /*Text styles*/
     text-align: center; 
@@ -110,10 +115,9 @@ ul {
     z-index: 1000;
     background-color: rgba(251, 255, 254, 0.692);
     padding: 50px 20px;
-    border-radius: 5px;
     box-shadow: 0 7px 9px rgba(0, 0, 0, 0.623);
     border: solid rgba(0, 0, 0, 0.507); 
-    height: 80%;
+    height: 60%;
     border-radius: 20px   
 }
 
@@ -140,35 +144,35 @@ label{
 }
 
 
-#find{
-width: 100px;
-text-align: center;
-font-family: 'Times New Roman', Times, serif;
-font-weight: 900;
-font-size: 14px;
-color: #fff;
-background-color: #001b2e;
-padding: 20px 30px;
-border: solid #001b2e 2px;
-box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
-border-radius: 50px;
-transition : 23ms;
-transform: translateY(0);
-display: inline-block;
-flex-direction: row;
-align-items: center;
-cursor: pointer;
-margin-bottom: 50px;
+.find-menu-button{
+	margin-top: 10px;
+	padding: 2px;
+	width: 100px;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 900;
+	font-size: 14px;
+	color: #fff;
+	background-color: #001b2e;
+	border: solid #001b2e 2px;
+	box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+	border-radius: 50px;
+	transition : 23ms;
+	transform: translateY(0);
+	display: inline-block;
+	flex-direction: row;
+	align-items: center;
+	cursor: pointer;
+	margin-bottom: 50px;
 
 }
 
-#find:hover{
-transition : 23ms;
-padding: 10px 40px;
-transform : translateY(-0px);
-background-color: #fff;
-color: #0066cc;
-border: solid 2px #0066cc;
+.find-menu-button:hover{
+	transition : 23ms;
+	transform : translateY(-0px);
+	background-color: #fff;
+	color: #0066cc;
+	border: solid 2px #0066cc;
 
 }
 
@@ -176,17 +180,19 @@ border: solid 2px #0066cc;
     border-radius: 5px;            
 }
 #showT{
-    border-radius: 5px;            
+    border-radius: 5px;  
+    margin-right: 20px;          
 }
 #showC{
     border-radius: 5px;            
 }
-#clear{
-    border-radius: 5px;  
+#clear{ 
 }
 #menu-down{
-    margin-left: 39%;
-    margin-top: 5px;
+    /*Text styles*/
+    text-align: center; 
+    padding: 50px 20px;
+    border-radius: 20px  
     
 }
 
