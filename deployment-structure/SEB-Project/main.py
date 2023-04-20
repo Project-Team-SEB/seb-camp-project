@@ -1,6 +1,7 @@
 import datetime
 
-from flask import Flask, request, render_template
+from flask import Flask, request, render_template, redirect
+import json
 
 app = Flask(__name__)
 
@@ -44,12 +45,12 @@ def add_data():
                               
         }
     
-    with open ('dane1.json', 'r') as file:
+    with open ('static/map/dane1.json', 'r') as file:
         exsisting_data = json.load(file)
 
     exsisting_data.append(data)
      
-    with open('dane1.json', 'w') as file:
+    with open('static/map/dane1.json', 'w') as file:
         json.dump(exsisting_data, file, indent=4)
         file.write('\n')
 
