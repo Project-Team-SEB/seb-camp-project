@@ -4,7 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Moj formularz</title>
+    <title>Wyszukiwarka namiotowa i kepingowa</title>
+    <link
+    rel="shortcut icon"
+    href="../static/images/logo-tent.svg"
+    type="image/x-icon"
+  />
     <script src="../static/map/leaflet.js"></script></script>
 
     <!-- Web page CSS -->
@@ -32,8 +37,6 @@
       href="assets/icons/favicon-16x16.png"
     />
 
-    <title>SEB</title>
-
 
   </head>
   <body>
@@ -42,9 +45,15 @@
     <nav>
       <a href="#" class="logo">
         <h1>
-          <span class="tent-logo">SEBProject</span>
-          <span class="tent">&#x26fa;</span>
+          <link
+           rel="icon"
+           sizes="180x180"
+           href="../static/images/camping-tent.png"
+    />
+          <span class="tent" href="../static/images/logo-tent.svg"></span>
+          <span class="tent-logo">Wyszukiwarka pól namiotowowych i kepingowych</span>
         </h1>
+        <p><span class="tent-description"></span>Szybko i łatwo znajdź dla siebie miejsce pod kemping!</span> </p>
       </a>
       <ul>
         <li class="nav-item">
@@ -55,11 +64,9 @@
         </li>
         <li class="nav-item">
           <a href="form" class="nav-link" id="nav-link"
-            >xyz</a>
+            >Dodaj pole</a>
         </li>
       </ul>
-      <!-- <div>SEB znajdzie Ci namiot
-      </div> -->
     </nav>
     <!-- Dark/light theme switcher -->
 
@@ -69,6 +76,28 @@
     <span class="bar"></span>
     <span class="bar"></span>
     <span class="bar"></span>
+</div>
+<div id="empty_box">
+  <h1 class="main_about_us">Witaj na stronie "O nas"! Jesteśmy zespołem pasjonatów, którzy postanowili stworzyć wyszukiwarkę pól namiotowych i kepingowych. </h1><br><br>
+  <div id="about_us">
+    
+    <p id="main_txt">Nasza misja to ułatwienie Ci znalezienia idealnego pola namiotowego lub kepingu, który spełni Twoje oczekiwania.</p><br>
+
+    <p id="main_txt">Dlaczego zdecydowaliśmy się na stworzenie tej platformy? Zauważyliśmy, że wiele osób ma trudności z wyborem odpowiedniego pola namiotowego lub kepingowego na swoje potrzeby.</p><br>
+    <p id="main_txt"> Często zdarza się, że wybieramy nieodpowiednie miejsce na wakacje, co skutkuje niezadowoleniem i nieprzyjemnościami. </p><br>
+  
+    <p id="main_txt">Dlatego postanowiliśmy stworzyć narzędzie, które pozwoli na szybkie i łatwe porównanie różnych pól namiotowych i kepingowych oraz wybór najlepszego dla siebie.</p><br>
+      
+    <p id="main_txt">W naszej wyszukiwarce znajdziesz wiele różnych pól namiotowych i kepingowych, różniących się między innymi lokalizacją oraz udogodnieniami.</p><br>
+  
+      
+    <p id="main_txt">Jesteśmy pewni, że nasza wyszukiwarka pomoże Ci w wyborze odpowiedniego pola namiotowego lub kepingowego, który będzie spełniał Twoje oczekiwania i zapewni niezapomniane wakacje.</p><br>
+    <p id="main_txt">Jeśli masz jakieś pytania lub sugestie, skontaktuj się z nami.</p>
+
+  </div>
+  <div id="img_about_us">
+    <img src="../static/images/about-us.jpg" width="100%" height="100%">
+  </div>
 </div>
 
 <script>

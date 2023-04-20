@@ -32,26 +32,31 @@ html {
 }
 
 ul li {
-	list-style-type: none;
-}
-
-a {
-	text-decoration: none;
-	color: white;
-}
-
-a:hover {
-	color: var(--secondary-color);
-} 
-
-.tent {
-    color: var(--secondary-color);
-}
+    list-style-type: none;
+  }
   
-.tent-logo {
-    color: var(--primary-color);
+  a {
+    text-decoration: none;
     color: white;
-}
+  }
+  
+  a:hover {
+    color: var(--secondary-color);
+  } 
+  
+  .tent {
+      color: var(--secondary-color);
+    }
+    
+    .tent-logo {
+      color: white;
+      font-size: 2rem;
+      font-weight: 500;
+    }
+    
+  .tent-description{
+    font-size: 1rem;
+  }
   
 nav {
     height: 100px;
@@ -62,30 +67,30 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 1.5rem;
+    padding: 20px;
     box-shadow: 2px 3px 2px #f1f1f1;
     
-}
+  }
 
-.logo {
+  /* .logo {
     font-size: 2rem;
-    font-weight: 500;
-}
+    
+  } */
   
-ul {
+  ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: white;
-}
+  }
   
-.nav-item {
+  .nav-item {
     margin-left: 2rem;
-}
+  }
   
-.nav-link {
+  .nav-link {
     font-weight: var(--bold-font);
-}
+  }
 
 .hamburger {
     display: none;
@@ -196,19 +201,81 @@ label{
     
 }
 
+
 #add_data{
 margin-top: 50px;
-margin-left: 35%;
-width: 30%;
+margin-left: auto;
+margin-right: auto;
+width: 45%;
 background-color: grey;
-text-align: end;
+text-align: center;
 color: white;
 font-size: 20px;
 padding: 50px;
 border-radius: 15px;
+
+}
+label {
+	color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+	margin: 3px;
+    text-align: left;
 }
 
 hr{
 border-top: 1px dotted;
 margin-bottom: 50px;
+}
+
+p {
+ font-size: 15px;
+}
+
+h4 {
+    font-size: 18px;
+   }
+
+#empty_box{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    background-color: rgb(88, 90, 102);
+    color: white;
+    font-size: 20px;
+    padding: 50px;
+    border-radius: 15px;
+    display: flex; /* lub display: grid; */
+    flex-wrap: wrap;
+    justify-content: space-between
+
+}
+#about_us {
+    width: 50%; /* lub flex-basis: 50%; */
+    display: inline-block; /* lub float: left; */
+  }
+
+  #img_about_us {
+    width: 50%; /* lub flex-basis: 50%; */
+    display: inline-block; /* lub float: left; */
+    
+  }
+.main_about_us{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#about_us{
+    float:right;
+    text-align:justify;
+    font-size: 15px;
+}
+
+#main_txt{
+    margin-top: 20px;
+    margin-right: 5px;
+    text-align:left;
+    font-size: 16px;
 }
