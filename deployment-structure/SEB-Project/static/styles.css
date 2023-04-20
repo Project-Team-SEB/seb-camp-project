@@ -196,6 +196,18 @@ label{
     
 }
 
+#add_data{
+margin-top: 50px;
+margin-left: 35%;
+width: 30%;
+background-color: grey;
+text-align: end;
+color: white;
+font-size: 20px;
+padding: 50px;
+border-radius: 15px;
+}
+
 hr{
 border-top: 1px dotted;
 margin-bottom: 50px;

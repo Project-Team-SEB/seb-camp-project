@@ -71,6 +71,22 @@
     <span class="bar"></span>
 </div>
 
+<div id="add_data">
+  <h1>Dodawanie danych</h1>
+  <form action="/add_data" method="post">
+      <label for="longitude">Longitude:</label>
+      <input type="number" step="0.0001" min="0" id="Longitude" name="Longitude" required><br><br>
+      <label for="latitude">Latitude:</label>
+      <input type="number" step="0.0001" min="0" id="Latitude" name="Latitude" required><br><br>
+      <label for="name">Name:</label>
+      <input type="text" id="Name" name="Name" required><br><br>
+      <label for="type">Type:</label>
+      <input type="text" id="Object type" name="Object type" required><br><br>
+      <input type="submit" value="Dodaj dane" class="find-menu-button">
+      <input type="reset" value="Wyczyść dane" class="find-menu-button">
+  </form>
+</div>
+
 <script>
 </script>
 </body>
