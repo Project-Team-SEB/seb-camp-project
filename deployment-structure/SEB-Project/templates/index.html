@@ -4,7 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Moja mapa</title>
+    <title>Wyszukiwarka namiotowa i kepingowa</title>
+    <link
+      rel="shortcut icon"
+      href="../static/images/logo-tent.svg"
+      type="image/x-icon"
+    />
     <link rel="stylesheet" href="../static/map/mapa.css" />
     <script src="../static/map/leaflet.js"></script></script>
 
@@ -40,27 +45,38 @@
   <body>
     <!-- Navbar -->
 
+ 
     <nav>
       <a href="#" class="logo">
         <h1>
-          <span class="tent-logo">SEBProject</span>
+          <span class="tent-logo"><b>SEBcamp</b></span>
           <span class="tent">&#x26fa;</span>
         </h1>
+      <!-- <a href="#" class="logo">
+        <h1>
+          <link
+           rel="icon"
+           sizes="180x180"
+           href="../static/images/camping-tent.png"
+    />
+          <span class="tent" href="../static/images/logo-tent.svg"></span>
+          <span class="tent-logo">Wyszukiwarka pól namiotowowych i kepingowych</span>
+        </h1> -->
+        <p><span class="tent-description"></span>Szybko i łatwo znajdź dla siebie miejsce pod kemping!</span> </p>
       </a>
       <ul>
+        <li class="nav-item">
+          <a href="featured" class="nav-link" id="nav-link">Strona główna </a>
+        
+        </li>
         <li class="nav-item">
           <a href="about" class="nav-link" id="nav-link">O stronie</a>
         </li>
         <li class="nav-item">
-          <a href="featured" class="nav-link" id="nav-link">Wyróżnione</a>
-        </li>
-        <li class="nav-item">
           <a href="form" class="nav-link" id="nav-link"
-            >xyz</a>
+            >Dodaj pole</a>
         </li>
       </ul>
-      <!-- <div>SEB znajdzie Ci namiot
-      </div> -->
     </nav>
     <!-- Dark/light theme switcher -->
 
@@ -77,9 +93,10 @@
   <div id="map" style="margin-left: 15%;
   margin-right: 15%;
   margin-top: 2%;
+  width: 53%;
   border-radius: 30px;
-  border-color: grey;
-  border-style: dashed;
+  border-color: rgb(88, 90, 102);
+  border-style:groove;
   border-width: 7px;
   aspect-ratio: 4/3;
   outline: none;" ></div>
@@ -106,8 +123,11 @@
 
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19
+      maxZoom: 19,
+      minZoom: 6
   }).addTo(map);
+
+  map.setMaxBounds(map.getBounds(6));
 
   function zoomToCity() {
       var cityName = document.getElementById("city").value;

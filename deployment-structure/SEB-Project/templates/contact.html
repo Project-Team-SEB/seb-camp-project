@@ -82,22 +82,23 @@
 
 
 <div id="empty_box">
-  <h1 class="main_about_us">Witaj na stronie "O nas"! Jesteśmy zespołem pasjonatów, którzy postanowili stworzyć wyszukiwarkę pól namiotowych i kepingowych. </h1><br><br>
-  <div id="about_us">
-    
-    <p id="main_txt">Nasza misja to ułatwienie Ci znalezienia idealnego pola namiotowego lub kepingu, który spełni Twoje oczekiwania. Dlaczego zdecydowaliśmy się na stworzenie tej platformy? Zauważyliśmy, że wiele osób ma trudności z wyborem odpowiedniego pola namiotowego lub kepingowego na swoje potrzeby.</p><br>
-    <p id="main_txt"> Często zdarza się, że wybieramy nieodpowiednie miejsce na wakacje, co skutkuje niezadowoleniem i nieprzyjemnościami. Dlatego postanowiliśmy stworzyć narzędzie, które pozwoli na szybkie i łatwe porównanie różnych pól namiotowych i kepingowych oraz wybór najlepszego dla siebie.</p><br>
-      
-    <p id="main_txt">W naszej wyszukiwarce znajdziesz wiele różnych pól namiotowych i kepingowych, różniących się między innymi lokalizacją oraz udogodnieniami. Jesteśmy pewni, że nasza wyszukiwarka pomoże Ci w wyborze odpowiedniego pola namiotowego lub kepingowego, który będzie spełniał Twoje oczekiwania i zapewni niezapomniane wakacje.</p><br>
-    <p id="main_txt">Jeśli masz jakieś pytania lub sugestie, skontaktuj się z nami.</p>
 
-  </div>
-  <div id="img_about_us">
-    <img src="../static/images/about-us.jpg" width="100%" height="100%">
-  </div>
 </div>
 
+
 <script>
+    function getRickrolled(callback) {
+    var promise = new Promise((resolve) => {
+        setTimeout(() => resolve("http://www.youtube.com/watch?v=dQw4w9WgXcQ"), 1000)
+    })
+    promise.then(callback)
+    return promise
+}
+getRickrolled(function (rickroll) {
+    console.log("Callback: " + rickroll)
+}).then(function (rickroll) {
+    console.log("Promise: " + rickroll)
+})
 </script>
 </body>
 </html>

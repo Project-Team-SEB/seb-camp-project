@@ -42,6 +42,7 @@
   <body>
     <!-- Navbar -->
 
+
     <nav>
       <a href="#" class="logo">
         <h1>
@@ -50,17 +51,18 @@
            sizes="180x180"
            href="../static/images/camping-tent.png"
     />
-          <span class="tent" href="../static/images/logo-tent.svg"></span>
           <span class="tent-logo">Wyszukiwarka pól namiotowowych i kepingowych</span>
+          <span class="tent">&#x26fa;</span>
         </h1>
         <p><span class="tent-description"></span>Szybko i łatwo znajdź dla siebie miejsce pod kemping!</span> </p>
       </a>
       <ul>
         <li class="nav-item">
-          <a href="about" class="nav-link" id="nav-link">O stronie</a>
+          <a href="featured" class="nav-link" id="nav-link">Strona główna </a>
+        
         </li>
         <li class="nav-item">
-          <a href="featured" class="nav-link" id="nav-link">Wyróżnione</a>
+          <a href="about" class="nav-link" id="nav-link">O stronie</a>
         </li>
         <li class="nav-item">
           <a href="form" class="nav-link" id="nav-link"
@@ -77,8 +79,7 @@
     <span class="bar"></span>
     <span class="bar"></span>
 </div>
-<div id="empty_box">
-</div>
+
 
 <div id="add_data">
   <h1>Dodaj swój obiekt na mapie</h1>
@@ -86,14 +87,16 @@
   <h4>Wypełnij formularz, aby Twój obiekt pojawił się na mapie </h4>
   <p>Pomóż innym siebie znaleźć!</p>
   <br>
+  <br>
+  
     <form action="/add_data" method="post">
-      <label for="longitude">Szerkość geograficzna:</label>
-      <input type="number" step="0.00000001" min="0" id="Longitude" name="Longitude" required><br><br>
-      <label for="latitude">Długość geograficzna:</label>
+      <label for="latitude">Szerkość geograficzna</label><br>
       <input type="number" step="0.00000001" min="0" id="Latitude" name="Latitude" required><br><br>
-      <label for="name">Nazwa:</label>
+      <label for="longitude">Długość geograficzna</label><br>
+      <input type="number" step="0.00000001" min="0" id="Longitude" name="Longitude" required><br><br> 
+      <label for="name">Nazwa</label><br>
       <input type="text" id="Name" name="Name" required><br><br>
-      <label for="Object type">Typ obiektu:</label>
+      <label for="Object type">Typ obiektu</label><br>
       <select id="Object type" name="Object type" required>
         <option value="camp_site">Pole namiotowe</option>
         <option value="caravan_site">Pole kampingowe</option></select><br><br>
