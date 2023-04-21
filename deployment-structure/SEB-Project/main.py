@@ -20,7 +20,7 @@ def about_us():
 @app.route('/featured')
 def featured():
 
-    return render_template('featured.html')
+    return redirect('/')
 
 @app.route('/form')
 def form():
