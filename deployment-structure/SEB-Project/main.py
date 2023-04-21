@@ -27,6 +27,13 @@ def form():
 
     return render_template('form.html')
 
+
+@app.route('/contact')
+def contact():
+
+    return render_template('contact.html')
+
+
 # function to add to JSON
 
 @app.route('/add_data', methods=['POST'])

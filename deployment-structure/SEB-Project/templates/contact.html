@@ -68,6 +68,10 @@
           <a href="form" class="nav-link" id="nav-link"
             >Dodaj pole</a>
         </li>
+        <li class="nav-item">
+          <a href="contact" class="nav-link" id="nav-link"
+            >Kontakt</a>
+        </li>
       </ul>
     </nav>
     <!-- Dark/light theme switcher -->
@@ -81,24 +85,14 @@
   </div>
 
 
-<div id="empty_box">
-
+ <div id="rickroll">
+    <img src="..\static\images\contact.gif" >
 </div>
 
 
+
 <script>
-    function getRickrolled(callback) {
-    var promise = new Promise((resolve) => {
-        setTimeout(() => resolve("http://www.youtube.com/watch?v=dQw4w9WgXcQ"), 1000)
-    })
-    promise.then(callback)
-    return promise
-}
-getRickrolled(function (rickroll) {
-    console.log("Callback: " + rickroll)
-}).then(function (rickroll) {
-    console.log("Promise: " + rickroll)
-})
+
 </script>
 </body>
 </html>
