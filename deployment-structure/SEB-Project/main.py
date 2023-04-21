@@ -45,12 +45,12 @@ def add_data():
                               
         }
     
-    with open ('static/map/dane1.json', 'r') as file:
+    with open ('static/map/dane1.json', 'r', encoding='utf-8') as file:
         exsisting_data = json.load(file)
 
     exsisting_data.append(data)
      
-    with open('static/map/dane1.json', 'w') as file:
+    with open('static/map/dane1.json', 'w' , encoding='utf-8') as file:
         json.dump(exsisting_data, file, indent=4)
         file.write('\n')
 
