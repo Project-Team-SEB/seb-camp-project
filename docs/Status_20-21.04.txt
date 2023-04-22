@@ -1,0 +1,22 @@
+﻿Status projektu SEB - 20.04
+
+
+1. Rozwinięcie funkcjonalności ‘Dodaj obiekt’, gdzie po uzupełnieniu formularza nowy obiekt dodaje się do bazy i wyświetla na mapie
+2. Utworzenie contentu na /aboutus Content website
+3. Aktualizacja design pola wyszukaj na LP
+4. Dodanie strony kontaktowej
+5. Web  design stron /index, /aboutus/ form /contact
+6. przetestowanie aplikacji webowo
+
+
+
+
+
+
+
+
+        Status projektu SEB 21.04
+
+
+1. Poprawki styles.css
+2. Implementacja aplikacji na chmurę GCP
